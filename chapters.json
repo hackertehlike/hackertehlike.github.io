@@ -4,15 +4,15 @@
             "title": "Three Rules for Murder",
             "slug": "3rfm",
             "chapters": [
-                { "title": "Chapter 1: Beginnings", "url": "stories/3rfm/chapter1.html" },
-                { "title": "Chapter 2: A Duck Without A Head", "url": "stories/3rfm/chapter2.html" }
+                { "title": "Chapter 1: Beginnings", "url": "/stories/3rfm/chapter1.html" },
+                { "title": "Chapter 2: A Duck Without A Head", "url": "/stories/3rfm/chapter2.html" }
             ]
         },
         {
             "title": "Wojtek",
             "slug": "wojtek",
             "chapters": [
-                { "title": "Wojtek", "url": "stories/wojtek/chapter1.html" }
+                { "title": "Wojtek", "url": "/stories/wojtek/chapter1.html" }
             ]
         }
     ]
