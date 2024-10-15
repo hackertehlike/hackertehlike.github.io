@@ -224,12 +224,12 @@ footer {
     color: #000;
     display: inline-block;
     font-size: 20px; /* Same styling for both links and collapsible */
-    cursor: pointer;
+    cursor: url(../icons/cursor.png), auto;
 }
 
 .icon a:hover, .collapsible:hover {
     text-decoration: underline;
-    cursor: pointer;
+    cursor: url(../icons/cursor.png), auto;
 }
 
 /* Specific hover styles for buttons (like collapsibles) */
