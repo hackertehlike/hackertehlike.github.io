@@ -45,10 +45,22 @@ document.addEventListener('DOMContentLoaded', function () {
             })
             .then(data => {
                 console.log("Data received:", data);
-                handleChapterNavigation(data); // Update navigation for the current chapter
                 populateWritingModal(data); // Populate the writing modal
+
+                // Check if we are on a chapter page
+                if (isStoryPage()) {
+                    handleChapterNavigation(data); // Update navigation for the current chapter
+                }
             })
             .catch(err => console.error('Failed to load chapters:', err));
+    }
+
+    // Check if the current page is a story/chapter page
+    function isStoryPage() {
+        const storyPaths = ['/stories/']; // Adjust according to your folder structure
+        const currentPath = window.location.pathname;
+        
+        return storyPaths.some(path => currentPath.includes(path));
     }
 
     // Function to update chapter navigation (Previous/Next)
