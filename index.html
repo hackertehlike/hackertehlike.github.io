@@ -16,7 +16,7 @@
             </a>
         </div>
         <div class="icon">
-            <a href="#" onclick="openModal()">
+            <a href="#" id="open-writing-modal">
                 <img src="icons/writing_icon.png" alt="Writing">
                 <span>writing</span>
             </a>
@@ -36,20 +36,20 @@
     </div>
 
     <!-- Writing Modal -->
-<div id="writingModal" class="modal">
-    <div class="modal-content">
-        <div class="modal-header">
-            <div class="modal-title">welcome to my brain</div>
-            <button class="close" onclick="closeModal()">x</button>
-        </div>
-        <div class="modal-body">
-            <ul></ul> <!-- The story links and chapters will be dynamically inserted here -->
-        </div>
-        <div class="modal-footer">
-            <button class="close-btn" onclick="closeModal()">close</button>
+    <div id="writingModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">welcome to my brain</div>
+                <button class="close" id="close-writing-modal">x</button>
+            </div>
+            <div class="modal-body">
+                <ul></ul> <!-- The story links and chapters will be dynamically inserted here -->
+            </div>
+            <div class="modal-footer">
+                <button class="close-btn" id="close-modal-btn">close</button>
+            </div>
         </div>
     </div>
-</div>
 
 
     <!-- Footer -->

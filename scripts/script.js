@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('writingModal').style.display = 'none';
     }
 
-    // Function to close the modal when clicking outside of it
+    // Close the modal when clicking outside of it
     window.onclick = function(event) {
         const modal = document.getElementById('writingModal');
         if (event.target === modal) {
@@ -22,16 +22,22 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Attach the openModal function to the "writing" icon button
     const openModalButton = document.getElementById('open-writing-modal');
-    openModalButton.addEventListener('click', function(event) {
-        event.preventDefault();  // Prevents the default behavior of the link
-        openModal();
-    });
+    if (openModalButton) {
+        openModalButton.addEventListener('click', function(event) {
+            event.preventDefault();  // Prevents the default behavior of the link
+            openModal();
+        });
+    }
 
     // Attach the closeModal function to the close button inside the modal
-    const closeModalButton = document.querySelector('.close-btn');
-    closeModalButton.addEventListener('click', function() {
-        closeModal();
-    });
+    const closeModalButton = document.getElementById('close-writing-modal');
+    const closeModalFooterButton = document.getElementById('close-modal-btn');
+    if (closeModalButton) {
+        closeModalButton.addEventListener('click', closeModal);
+    }
+    if (closeModalFooterButton) {
+        closeModalFooterButton.addEventListener('click', closeModal);
+    }
 
     // Update the time and date in the footer
     function updateTimeAndDate() {
