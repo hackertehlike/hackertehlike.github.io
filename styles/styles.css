@@ -89,7 +89,7 @@ footer {
 .scrolling-text {
     white-space: nowrap;
     display: inline-block;
-    animation: scroll 200s linear infinite;
+    animation: scroll 150s linear infinite;
     font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
     font-size: 18px;
 }

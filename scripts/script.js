@@ -48,6 +48,18 @@ function fetchChapters() {
         .catch(err => console.error('Failed to load chapters:', err));
 }
 
+// Function to add event listeners to collapsible elements
+function addCollapsibleListeners() {
+    document.querySelectorAll('.collapsible').forEach(button => {
+        button.addEventListener('click', function() {
+            // Toggle the visibility of the next sibling (chapter list)
+            const content = this.nextElementSibling;
+            content.style.display = (content.style.display === "block") ? "none" : "block";
+        });
+    });
+}
+
+
 // Function to dynamically populate the Writing Modal from JSON
 function populateWritingModal(data) {
     console.log("Populating writing modal...");
