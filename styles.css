@@ -154,6 +154,7 @@ footer {
 
 .close {
     font-size: 18px;
+    font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
     border: 2px solid #000000;
     background-color: #ffe600;
     color: #000000;
@@ -194,6 +195,8 @@ footer {
 }
 
 .close-btn {
+    font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
+    font-size: 10px;
     background-color: #ffe600;
     color: #000000;
     border: 2px solid #000000;
