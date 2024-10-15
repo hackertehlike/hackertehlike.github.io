@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFC0CB;
+    font-family: 'Pixelify Sans', Courier, monospace; /* Pixelify Sans for everything else */
+    color: #000;
+    font-size: 18px;
+}
+
+.desktop {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    height: 90vh;
+}
+
+.icon {
+    margin: 20px;
+    text-align: center;
+}
+
+.icon a {
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    font-size: 20px; /* Pixelify Sans */
+}
+
+.icon a:hover {
+    cursor: default;
+}
+
+.icon img {
+    width: 60px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.icon span {
+    font-size: 22px; /* Pixelify Sans */
+    display: block;
+}
+
+/* Menu, Clock, Scrolling Text, and Date - Press Start 2P */
+.menu button {
+    background-color: #d3cbc4;
+    border: none;
+    font-family: 'Press Start 2P', Courier, monospace;
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-left: 2px solid white;
+    border-top: 2px solid white;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(5%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d3cbc4;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.status-bar {
+    overflow: hidden;
+    width: 800px;
+    display: flex;
+}
+
+.scrolling-text {
+    white-space: nowrap;
+    display: inline-block;
+    animation: scroll 200s linear infinite;
+    font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
+    font-size: 18px;
+}
+
+.clock {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.clock .date {
+    margin-right: 10px;
+    font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
+    font-size: 18px;
+}
+
+.clock .time {
+    font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.separator {
+    margin: 0 10px;
+    font-family: 'Press Start 2P', Courier, monospace; /* Press Start 2P */
+    font-size: 18px;
+}
+
+/* Modal Window - Pixelify Sans */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #ffc0cb;
+    width: 400px;
+    margin: 10% auto;
+    border: 3px solid #000000;
+    box-shadow: 5px 5px 0px #333;
+    font-family: 'Pixelify Sans', Courier, monospace; /* Pixelify Sans */
+    font-size: 20px;
+}
+
+.modal-header {
+    background-color: #ff8fbe;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #000;
+}
+
+.modal-title {
+    font-size: 24px; /* Pixelify Sans */
+}
+
+.close {
+    font-size: 18px;
+    border: 2px solid #000000;
+    background-color: #ffe600;
+    color: #000000;
+    cursor: pointer;
+    padding: 2px 8px;
+}
+
+.modal-body {
+    padding: 15px;
+    background-color: #FAEDCB;
+    border-bottom: 2px solid #000;
+}
+
+.modal-body ul {
+    list-style: none;
+    padding: 0;
+}
+
+.modal-body li {
+    margin: 10px 0;
+    font-size: 20px; /* Pixelify Sans */
+}
+
+.modal-body li a {
+    color: #333;
+    text-decoration: none;
+}
+
+.modal-body li a:hover {
+    text-decoration: underline;
+}
+
+.modal-footer {
+    background-color: #badfab;
+    padding: 8px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.close-btn {
+    background-color: #ffe600;
+    color: #000000;
+    border: 2px solid #000000;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    background-color: #444;
+}
+
+.modal-content {
+    box-shadow: 5px 5px 0px #888;
+}

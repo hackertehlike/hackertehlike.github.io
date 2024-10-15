@@ -1,1 +1,128 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayşegül's Coolzone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="desktop">
+        <div class="icon">
+            <a href="cv.html">
+                <img src="cv_icon.png" alt="CV">
+                <span>cv</span>
+            </a>
+        </div>
+        <div class="icon">
+            <a href="#" onclick="openModal()">
+                <img src="writing_icon.png" alt="Writing">
+                <span>writing</span>
+            </a>
+        </div>
+        <div class="icon">
+            <a href="fun.html">
+                <img src="fun_icon.png" alt="Fun Stuff">
+                <span>funstuff</span>
+            </a>
+        </div>
+        <div class="icon">
+            <a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-b-b82b87110/">
+                <img src="contact_icon.png" alt="Contact">
+                <span>contact</span>
+            </a>
+        </div>
+    </div>
+
+   <!-- Writing Modal -->
+    <div id="writingModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title"> welcome to my brain </div>
+                <button class="close" onclick="closeModal()">x</button>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li><a href="wojtek.html">Wojtek</a></li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button class="close-btn" onclick="closeModal()">close</button>
+            </div>
+        </div>
+    </div>
+
+
+    
+    <div class="window" id="writingModal" style="display: none;">
+        <div class="title-bar">
+            <div class="title-bar-text">My Stories</div>
+            <div class="title-bar-controls">
+                <button aria-label="Close" onclick="closeModal()"></button>
+            </div>
+        </div>
+        <div class="window-body">
+            <ul>
+                <li><a href="story1.html">Story 1: The Beginning</a></li>
+                <li><a href="story2.html">Story 2: The Journey</a></li>
+                <li><a href="story3.html">Story 3: The End</a></li>
+            </ul>
+        </div>
+        <div class="status-bar">
+            <p class="status-bar-field">Writing Section</p>
+            <p class="status-bar-field">Status: Open</p>
+        </div>
+    </div>
+    
+
+    <footer>
+        <div class="menu">
+            <button>MENU</button>
+        </div>
+        <div class="status-bar">
+            <div class="scrolling-text">
+                * welcome to my website * please stand by * this website is under construction * 
+                i'm doing my best okay *
+                no seriously *
+                this isn't as easy as it looks *
+                so i made this website so you can see what i've been up to *
+                and obviously i've been up to a lot of things *
+                why won't these boxes go where i want them to go *
+                so anyway *
+                as i've said i've been up to a lot of things *
+                you can click on the icons to see what i've been up to *
+                some of it anyway *
+                for example, i've been learning how to make websites *
+                but you don't need to click on an icon to see that because you're already on a website i've made *
+                but also i've been up to some other things *
+                mostly i've been up to some other things *
+                like for example, not doing the school work i'm supposed to be doing *
+                css goes brrr *
+                actually the menu button doesn't work but that's because i don't know what to put there yet *
+                why did i make it clickable then? *
+                it's a prank, i suppose *
+                did you know that no one knows what css stands for *
+                css stands for <s>cool stuff</s> *
+                css stands for cascading style sheets *
+                thank you for being here *
+                i hope you enjoy your stay *
+
+            </div>
+        </div>
+        <div class="clock">
+            <div class="separator">|</div>
+            <span class="date"></span>
+            <div class="separator">|</div>
+            <img src="clock_icon.png" alt="Clock Icon" style="width: 20px;">
+            <span class="time"></span>
+        </div>
+    </footer>
+    
+    
+    
+
+<script src="script.js"></script>
+
+    
+</body>
+</html>

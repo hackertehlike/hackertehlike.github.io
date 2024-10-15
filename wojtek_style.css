@@ -1,0 +1,49 @@
+/* General body styles */
+body {
+    background-color: #1b1b1b;
+    font-family: 'Georgia', serif;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #2e2e2e;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    color: #ffcc00;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.story p {
+    margin-bottom: 20px;
+    text-indent: 30px;
+}
+
+.story p::first-letter {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffcc00;
+}
+
+.story p:nth-child(odd) {
+    background-color: rgba(255, 204, 0, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.story p:hover {
+    background-color: rgba(255, 204, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
