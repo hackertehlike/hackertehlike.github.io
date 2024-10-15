@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Fetch the chapter data from the JSON file
     function fetchChapters() {
         console.log("Fetching chapters...");
-        fetch('../../chapters.json') // Adjust this path for the story pages
+        fetch('/chapters.json') // Use an absolute path to ensure it works regardless of URL depth
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
