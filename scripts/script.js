@@ -1,5 +1,39 @@
+// Wait until the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', function () {
-    // Function to update time and date
+    
+    // Function to open the writing modal
+    function openModal() {
+        console.log("Opening modal...");
+        document.getElementById('writingModal').style.display = 'block';
+    }
+
+    // Function to close the modal
+    function closeModal() {
+        document.getElementById('writingModal').style.display = 'none';
+    }
+
+    // Function to close the modal when clicking outside of it
+    window.onclick = function(event) {
+        const modal = document.getElementById('writingModal');
+        if (event.target === modal) {
+            closeModal();
+        }
+    }
+
+    // Attach the openModal function to the "writing" icon button
+    const openModalButton = document.getElementById('open-writing-modal');
+    openModalButton.addEventListener('click', function(event) {
+        event.preventDefault();  // Prevents the default behavior of the link
+        openModal();
+    });
+
+    // Attach the closeModal function to the close button inside the modal
+    const closeModalButton = document.querySelector('.close-btn');
+    closeModalButton.addEventListener('click', function() {
+        closeModal();
+    });
+
+    // Update the time and date in the footer
     function updateTimeAndDate() {
         const now = new Date();
         
@@ -14,28 +48,14 @@ document.addEventListener('DOMContentLoaded', function () {
         document.querySelector('.clock .date').textContent = dateString;
     }
 
-    // Function to open the modal
-    function openModal() {
-        document.getElementById('writingModal').style.display = 'block';
-    }
+    // Update time and date every 60 seconds
+    setInterval(updateTimeAndDate, 60000);
+    updateTimeAndDate();
 
-    // Function to close the modal
-    function closeModal() {
-        document.getElementById('writingModal').style.display = 'none';
-    }
-
-    // Close the modal when clicking outside of it
-    window.onclick = function(event) {
-        const modal = document.getElementById('writingModal');
-        if (event.target === modal) {
-            modal.style.display = 'none';
-        }
-    }
-
-    // Fetch the chapter data from the JSON file
+    // Fetch the chapter data from the JSON file for writing modal
     function fetchChapters() {
         console.log("Fetching chapters...");
-        fetch('chapters.json') // Path adjusted for the index page
+        fetch('chapters.json') // Make sure the path is correct
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
@@ -114,8 +134,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Fetch chapters when the page loads
     fetchChapters();
-
-    // Update the time and date every 60 seconds
-    setInterval(updateTimeAndDate, 60000);
-    updateTimeAndDate();
 });
