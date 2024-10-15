@@ -30,17 +30,19 @@ window.onclick = function(event) {
         modal.style.display = 'none';
     }
 }
-
 // Fetch the chapter data from the JSON file
 function fetchChapters() {
+    console.log("Fetching chapters...");
     fetch('../chapters.json') // Adjust this path as needed
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
             }
+            console.log("Chapters fetched successfully.");
             return response.json();
         })
         .then(data => {
+            console.log("Data received:", data);
             populateWritingModal(data);
         })
         .catch(err => console.error('Failed to load chapters:', err));
@@ -48,11 +50,14 @@ function fetchChapters() {
 
 // Function to dynamically populate the Writing Modal from JSON
 function populateWritingModal(data) {
+    console.log("Populating writing modal...");
     const modalBody = document.querySelector('.modal-body ul');
     modalBody.innerHTML = ''; // Clear previous entries
 
     // Loop through each story
     data.stories.forEach(story => {
+        console.log("Processing story:", story.title);
+
         // Add the story title as a regular link for single-chapter stories
         if (story.chapters.length === 1) {
             const li = document.createElement('li');
@@ -91,24 +96,9 @@ function populateWritingModal(data) {
     });
     // Add listeners for collapsible buttons after rendering
     addCollapsibleListeners();
+    console.log("Writing modal populated.");
 }
 
-// Function to toggle collapse of chapter lists
-function toggleCollapse(link) {
-    const chapterList = link.nextElementSibling;
-    chapterList.style.display = (chapterList.style.display === 'none') ? 'block' : 'none';
-}
-
-// Function to add listeners to collapsible elements
-function addCollapsibleListeners() {
-    document.querySelectorAll('.collapsible').forEach(button => {
-        button.addEventListener('click', function() {
-            // Toggle the visibility of the next sibling (chapter list)
-            const content = this.nextElementSibling;
-            content.style.display = (content.style.display === "block") ? "none" : "block";
-        });
-    });
-}
 
 // Update the time and date every 60 seconds
 setInterval(updateTimeAndDate, 60000);
