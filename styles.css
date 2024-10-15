@@ -208,3 +208,115 @@ footer {
 .modal-content {
     box-shadow: 5px 5px 0px #888;
 }
+
+@media screen and (max-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+
+    .desktop {
+        padding: 10px;
+        height: auto;
+    }
+
+    .icon {
+        margin: 15px;
+    }
+
+    .icon img {
+        width: 50px;
+    }
+
+    .icon span {
+        font-size: 20px;
+    }
+
+    .menu button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+
+    .scrolling-text,
+    .clock .date,
+    .clock .time,
+    .separator {
+        font-size: 16px;
+    }
+
+    .modal-content {
+        width: 80%;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .icon {
+        margin: 10px;
+    }
+
+    .icon img {
+        width: 40px;
+    }
+
+    .icon span {
+        font-size: 16px;
+    }
+
+    .menu button {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+
+    .scrolling-text,
+    .clock .date,
+    .clock .time,
+    .separator {
+        font-size: 14px;
+    }
+
+    footer {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .modal-content {
+        width: 90%;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .icon {
+        margin: 8px;
+    }
+
+    .icon img {
+        width: 30px;
+    }
+
+    .icon span {
+        font-size: 14px;
+    }
+
+    .menu button {
+        font-size: 10px;
+        padding: 5px 10px;
+    }
+
+    .scrolling-text,
+    .clock .date,
+    .clock .time,
+    .separator {
+        font-size: 12px;
+    }
+
+    footer {
+        flex-direction: column;
+        padding: 5px;
+    }
+
+    .modal-content {
+        width: 95%;
+        font-size: 14px;
+    }
+}
