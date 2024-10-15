@@ -29,8 +29,7 @@ window.onclick = function(event) {
     if (event.target === modal) {
         modal.style.display = 'none';
     }
-}
-// Fetch the chapter data from the JSON file
+}// Fetch the chapter data from the JSON file
 function fetchChapters() {
     console.log("Fetching chapters...");
     fetch('../chapters.json') // Adjust this path as needed
@@ -43,22 +42,56 @@ function fetchChapters() {
         })
         .then(data => {
             console.log("Data received:", data);
-            populateWritingModal(data);
+            handleChapterNavigation(data); // Update navigation for the current chapter
+            populateWritingModal(data); // Populate the writing modal
         })
         .catch(err => console.error('Failed to load chapters:', err));
 }
 
-// Function to add event listeners to collapsible elements
-function addCollapsibleListeners() {
-    document.querySelectorAll('.collapsible').forEach(button => {
-        button.addEventListener('click', function() {
-            // Toggle the visibility of the next sibling (chapter list)
-            const content = this.nextElementSibling;
-            content.style.display = (content.style.display === "block") ? "none" : "block";
-        });
-    });
-}
+// Function to update chapter navigation (Previous/Next)
+function handleChapterNavigation(data) {
+    const currentURL = window.location.pathname.split("/").pop(); // Get the current chapter filename (e.g., chapter1.html)
+    const storySlug = window.location.pathname.split("/")[2]; // Get the story folder name (e.g., 3rfm)
 
+    // Find the current story based on the slug in the URL
+    const currentStory = data.stories.find(story => story.slug === storySlug);
+    
+    if (!currentStory) {
+        console.error('Story not found');
+        return;
+    }
+
+    const chapters = currentStory.chapters;
+    const currentIndex = chapters.findIndex(chapter => chapter.url.includes(currentURL));
+
+    if (currentIndex === -1) {
+        console.error('Chapter not found');
+        return;
+    }
+
+    // Update the Next/Previous links
+    const prevChapterLink = document.getElementById('prev-chapter');
+    const nextChapterLink = document.getElementById('next-chapter');
+
+    // Previous Chapter
+    if (currentIndex > 0) {
+        prevChapterLink.href = chapters[currentIndex - 1].url;
+        prevChapterLink.style.visibility = 'visible';
+    } else {
+        prevChapterLink.style.visibility = 'hidden'; // Hide if it's the first chapter
+    }
+
+    // Next Chapter
+    if (currentIndex < chapters.length - 1) {
+        nextChapterLink.href = chapters[currentIndex + 1].url;
+        nextChapterLink.style.visibility = 'visible';
+    } else {
+        nextChapterLink.style.visibility = 'hidden'; // Hide if it's the last chapter
+    }
+
+    // Optionally, update the chapter title in the HTML
+    document.getElementById('chapter-title').textContent = chapters[currentIndex].title;
+}
 
 // Function to dynamically populate the Writing Modal from JSON
 function populateWritingModal(data) {
@@ -111,10 +144,17 @@ function populateWritingModal(data) {
     console.log("Writing modal populated.");
 }
 
-
-// Update the time and date every 60 seconds
-setInterval(updateTimeAndDate, 60000);
-updateTimeAndDate();
+// Function to add event listeners to collapsible elements
+function addCollapsibleListeners() {
+    document.querySelectorAll('.collapsible').forEach(button => {
+        button.addEventListener('click', function() {
+            // Toggle the visibility of the next sibling (chapter list)
+            const content = this.nextElementSibling;
+            content.style.display = (content.style.display === "block") ? "none" : "block";
+        });
+    });
+}
 
 // Fetch chapters when the page loads
 fetchChapters();
+
