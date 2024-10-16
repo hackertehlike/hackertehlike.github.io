@@ -1,6 +1,7 @@
 ---
 layout: chapter-template
 title: "Wilke Grosche"
+story_slug: "wilkegrosche"
 story: "Wilke Grosche"
 chapter: 1
 ---

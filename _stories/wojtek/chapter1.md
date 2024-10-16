@@ -1,6 +1,7 @@
 ---
 layout: chapter-template
 title: "Wojtek"
+story_slug: "wojtek"
 story: "Wojtek"
 chapter: 1
 ---
