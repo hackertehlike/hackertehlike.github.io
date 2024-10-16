@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-html, body {
-    height: 100%; /* Ensure full height for body */
-}
-
 body {
     background-color: #FFC0CB; /* Light pink background */
     display: flex;
@@ -30,61 +26,13 @@ body {
     flex-grow: 1; /* Ensure the wrapper takes up the available space */
 }
 
-/* Chapter Menu */
-.chapter-menu {
-    margin-top: 20px;
-}
-
-.chapter-menu button {
-    background-color: #4CAF50; /* Green */
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-.chapter-menu button:hover {
-    background-color: #45a049; /* Darker green */
-}
-
-.chapter-menu ul {
-    display: none;
-    background-color: white;
-    width: 100%;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    padding: 10px 0;
-    z-index: 1;
-    border-radius: 5px;
-    margin-top: 5px;
-}
-
-.chapter-menu ul li {
-    list-style: none;
-    padding: 10px;
-}
-
-.chapter-menu ul li a {
-    color: #007acc;
-    text-decoration: none;
-}
-
-.chapter-menu ul li a:hover {
-    background-color: #f1f1f1;
-}
-
-.chapter-menu ul.show {
-    display: block;
-}
-
 /* Story Container */
 .story-container {
     font-family: 'Georgia', 'Times New Roman', serif;
     line-height: 1.6;
     font-size: 18px;
     color: #333;
+    margin: 0;
     padding: 40px;
     width: 100%;
     background-color: white;
@@ -93,26 +41,92 @@ body {
     text-align: justify;
 }
 
+.chapter-menu {
+    position: absolute;
+    top: 20px; /* Adjust the top value to align with your story box */
+    right: -200px; /* Move it to the right of the story container */
+    z-index: 10;
+    width: 200px; /* Set a fixed width for both the button and the menu */
+}
+
+.chapter-menu button {
+    background-color: #5c875c;
+    color: white;
+    padding: 12px 20px;
+    width: 100%; /* Ensure the button is always the full width of the menu */
+    text-align: center;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.chapter-menu button:hover {
+    background-color: #486b48;
+}
+
+.chapter-menu ul {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: white;
+    width: 100%; /* Ensure the menu is the same width as the button */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 10px 0;
+    z-index: 20;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.chapter-menu ul.show {
+    display: block;
+}
+
+.chapter-menu ul li {
+    list-style: none;
+    padding: 10px;
+}
+
+.chapter-menu ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.chapter-menu ul li a:hover {
+    background-color: #ff33961a;
+    color: #ff3396;
+    border-radius: 5px;
+}
+
+
 /* Prev/Next Navigation at the Bottom */
 .prev-next {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end; /* Align all buttons to the right */
     width: 100%;
     margin-top: 20px;
 }
 
+.prev-next .prev {
+    margin-right: auto; /* Push the 'Previous' button to the far left */
+}
+
+
 .prev-next a {
-    background-color: #4CAF50; /* Same green as the menu button */
+    background-color: #5c875c; /* Same green as the menu button */
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     font-size: 16px;
     border-radius: 5px;
     transition: background-color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .prev-next a:hover {
-    background-color: #45a049; /* Darker green on hover */
+    background-color: #486b48; /* Darker green on hover */
 }
 
 /* Footer Styling */
@@ -120,8 +134,6 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background-color: #FFF;
     width: 100%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: relative;
 }
