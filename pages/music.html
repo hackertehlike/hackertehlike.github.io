@@ -1,12 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>The Theater</title>
-    <link rel="stylesheet" href="../styles/styles.css">
+    <title>Musiiiiiiiiic yeaahhhhhhh</title>
+    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="stylesheet" href="/styles/modal.css">
 </head>
 <body data-scrolling-text="la dee da da da da da da da da da da da da da da da da...">
+    <div class="icon">
+        <a href="#" id="open-prometheus-modal">
+            <img src="../icons/music_icon.png" alt="Prometheus: The Heist Soundtrack" title="Click to listen to Prometheus: The Heist soundtrack">
+            <span>Prometheus: The Heist</span>
+        </a>
+    </div>
+
+    <!-- Prometheus Modal -->
+    <div id="prometheusModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-inner-border">
+                <div class="modal-inner">
+                    <div class="modal-header">
+                        <div class="modal-title">Prometheus: The Heist - Soundtrack</div>
+                        <button class="close">x</button>
+                    </div>
+                    <div class="modal-body icons">
+                        <div class="icon">
+                            <a href="#" onclick="playMusic('pth_main_theme.mp3')">
+                                <img src="../icons/music_icon.png" alt="Main Theme" title="Main Theme: Composed for ETH Game Lab">
+                                <span>Main Theme</span>
+                            </a>
+                        </div>
+                        <div class="icon">
+                            <a href="#" onclick="playMusic('pth_escape_theme.mp3')">
+                                <img src="../icons/music_icon.png" alt="Escape Theme" title="Escape Theme: Composed for ETH Game Lab">
+                                <span>Escape Theme</span>
+                            </a>
+                        </div>
+                        <div class="icon">
+                            <a href="#" onclick="playMusic('pth_win_theme.mp3')">
+                                <img src="../icons/music_icon.png" alt="Win Theme" title="Win Theme: Composed for ETH Game Lab">
+                                <span>Win Theme</span>
+                            </a>
+                        </div>
+                        <div class="icon">
+                            <a href="#" onclick="playMusic('pth_loss_theme.mp3')">
+                                <img src="../icons/music_icon.png" alt="Loss Theme" title="Loss Theme: Composed for ETH Game Lab">
+                                <span>Loss Theme</span>
+                            </a>
+                        </div>
+                        <div class="icon">
+                            <a href="#" onclick="playMusic('pth_alt_theme.mp3')">
+                                <img src="../icons/music_icon.png" alt="Alternate Theme" title="Alternate Theme: Composed for ETH Game Lab">
+                                <span>Alternate Theme</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="close-btn">close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Audio Player -->
+    <audio id="audioPlayer" style="display: none;"></audio>
     
     
+    <script src="../scripts/prometheus-modal.js"></script>
     <script src="../scripts/menu-bar-loader.js"></script>
 </body>
 </html>
