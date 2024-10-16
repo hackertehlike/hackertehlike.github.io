@@ -28,38 +28,38 @@ body {
 
 /* Chapter Title */
 h1#chapter-title {
-    font-family: 'Georgia', 'Times New Roman', serif;
-    font-size: 30px;
+    font-family: 'Garamond', 'Times New Roman', serif;
+    font-size: 2em;
     text-align: center;
     color: #333;
     margin-top: 10px;
-    margin-bottom: 30px; /* Add space between the title and the story container */
+    margin-bottom: 20px; /* Space between the title and the story container */
 }
 
 /* Story Container */
 .story-container {
     font-family: 'Georgia', 'Times New Roman', serif;
     line-height: 1.6;
-    font-size: 18px;
+    font-size: 1em;
     color: #333;
-    margin: 0;
-    padding: 40px;
+    padding: 20px;
     width: 100%;
+    max-width: 800px;
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.3);
     text-align: justify;
+    margin-bottom: 20px; /* Add space below story container */
 }
 
 /* Copyright Styling */
 .copyright {
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     font-family: 'Garamond', 'Times New Roman', serif;
-    font-size: 16px;
+    font-size: 1em;
     color: #333;
 }
-
 
 /* Footer Styling */
 footer {
@@ -68,4 +68,78 @@ footer {
     padding: 10px;
     width: 100%;
     position: relative;
+}
+
+/* Menu Button Styling */
+.menu-button {
+    background-color: #d3cbc4;
+    border: none;
+    font-family: 'Press Start 2P', Courier, monospace;
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: url('../icons/cursor.png'), auto;
+    border-left: 2px solid white;
+    border-top: 2px solid white;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+    transition: background-color 0.3s;
+}
+
+.menu-button:hover {
+    background-color: #486b48;
+}
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .wrapper {
+        padding: 10px;
+        max-width: 95%; /* Slightly narrower for smaller screens */
+    }
+
+    .story-container {
+        padding: 15px;
+        font-size: 0.95em; /* Reduce font size slightly for smaller screens */
+    }
+
+    h1#chapter-title {
+        font-size: 1.8em; /* Adjust title size for better fit */
+    }
+
+    .copyright {
+        font-size: 0.9em; /* Adjust copyright text for smaller screens */
+    }
+
+    .menu-button {
+        font-size: 14px; /* Smaller font size for tablets */
+        padding: 8px 16px; /* Reduce padding to match the smaller font */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .wrapper {
+        padding: 5px;
+    }
+
+    .story-container {
+        padding: 10px;
+        font-size: 0.9em; /* Further reduce font size for very small screens */
+    }
+
+    h1#chapter-title {
+        font-size: 1.5em; /* Adjust title size to fit smaller screens */
+        margin-bottom: 15px;
+    }
+
+    .copyright {
+        font-size: 0.8em; /* Reduce copyright text further for very small screens */
+    }
+
+    .menu-button {
+        font-size: 12px; /* Reduce font size for mobile displays */
+        padding: 6px 12px; /* Reduce padding to keep it compact */
+    }
 }

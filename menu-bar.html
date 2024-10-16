@@ -58,8 +58,8 @@
         background-color: #d3cbc4;
         border: none;
         font-family: 'Press Start 2P', Courier, monospace;
-        font-size: 16px;
-        padding: 10px 20px;
+        font-size: 15px;
+        padding: 8px 18px;
         cursor: url('../icons/cursor.png'), auto;
         border-left: 2px solid white;
         border-top: 2px solid white;
@@ -83,7 +83,7 @@
         display: inline-block;
         animation: scroll 120s linear infinite;
         font-family: 'Press Start 2P', Courier, monospace;
-        font-size: 18px;
+        font-size: 15px;
     }
 
     @keyframes scroll {
@@ -104,7 +104,7 @@
     .separator {
         margin: 0 10px;
         font-family: 'Press Start 2P', Courier, monospace;
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .clock-icon {
@@ -114,7 +114,61 @@
     .date,
     .time {
         font-family: 'Press Start 2P', Courier, monospace;
-        font-size: 18px;
+        font-size: 15px;
         margin-left: 10px;
+    }
+
+    /* Media Queries for Responsive Styling */
+    @media screen and (max-width: 768px) {
+        .menu-button {
+            font-size: 12px; /* Smaller font size for tablets */
+            padding: 6px 14px; /* Reduce padding to match smaller font */
+        }
+
+        .scrolling-text,
+        .date,
+        .time,
+        .separator {
+            font-size: 13px; /* Reduce text size for smaller screens */
+        }
+
+        .footer {
+            flex-direction: row;
+            padding: 10px;
+            justify-content: space-around;
+        }
+
+        .status-bar {
+            width: 90%; /* Adjust to make it fit smaller tablets better */
+        }
+    }
+
+    @media screen and (max-width: 480px) {
+        .menu-button {
+            font-size: 10px; /* Even smaller font size for phones */
+            padding: 5px 10px; /* Further reduce padding to keep it compact */
+        }
+
+        .scrolling-text,
+        .date,
+        .time,
+        .separator {
+            font-size: 11px; /* Further reduce text size for phones */
+        }
+
+        .footer {
+            flex-direction: column;
+            align-items: center;
+            padding: 8px;
+        }
+
+        .status-bar {
+            width: 100%; /* Make it full width for smaller devices */
+            margin-bottom: 10px; /* Add some space between the status bar and other elements */
+        }
+
+        .clock {
+            margin-right: 0; /* Remove right margin on smaller screens */
+        }
     }
 </style>
