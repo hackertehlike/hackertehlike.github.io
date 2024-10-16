@@ -137,7 +137,7 @@ footer {
     margin: 10% auto;
     border: 3px solid black; /* Black outline on the very outside */
     padding: 5px; /* Padding to make space for second black border */
-    box-shadow: 3px 3px 0px #444; /* Softer, smaller shadows for retro effect */
+    box-shadow: 3px 2px 0px #444; /* Softer, smaller shadows for retro effect */
 }
 
 /* Second Border */
