@@ -26,14 +26,23 @@ body {
     flex-grow: 1; /* Ensure the wrapper takes up the available space */
 }
 
+/* Title Box Container */
+.title-box {
+    background-color: #FF8FCB; /* Light pink background for the title box */
+    padding: 15px 20px; /* Space inside the box */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px; /* Space below the title box */
+}
+
 /* Chapter Title */
 h1#chapter-title {
     font-family: 'Garamond', 'Times New Roman', serif;
     font-size: 2em;
     text-align: center;
     color: #333;
-    margin-top: 10px;
-    margin-bottom: 20px; /* Space between the title and the story container */
 }
 
 /* Story Container */
@@ -54,9 +63,8 @@ h1#chapter-title {
 
 /* Add more space after each paragraph inside the story container */
 .story-container p {
-    margin-bottom: 0.5em; /* Adjust the space between paragraphs */
+    margin-bottom: 1.5em; /* Adjust the space between paragraphs */
 }
-
 
 /* Copyright Styling */
 .copyright {
@@ -111,6 +119,10 @@ footer {
         font-size: 0.95em; /* Reduce font size slightly for smaller screens */
     }
 
+    .title-box {
+        padding: 10px 15px; /* Adjust padding for smaller screens */
+    }
+
     h1#chapter-title {
         font-size: 1.8em; /* Adjust title size for better fit */
     }
@@ -133,6 +145,10 @@ footer {
     .story-container {
         padding: 10px;
         font-size: 0.9em; /* Further reduce font size for very small screens */
+    }
+
+    .title-box {
+        padding: 8px 10px; /* Adjust padding for very small screens */
     }
 
     h1#chapter-title {

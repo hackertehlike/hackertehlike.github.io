@@ -87,6 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 font-family: 'Press Start 2P', Courier, monospace;
                 font-size: 16px;
                 padding: 10px 20px;
+                cursor: url('/icons/cursor.png'), auto;
                 border-left: 2px solid white;
                 border-top: 2px solid white;
                 border-right: 2px solid gray;

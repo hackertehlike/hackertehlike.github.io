@@ -16,3 +16,5 @@ stories:
         file: "/stories/3rfm/chapter3.md"
       - title: "Chapter 4"
         file: "/stories/3rfm/chapter4.md"
+      - title: "Chapter 5"
+        file: "/stories/3rfm/chapter5.md"
