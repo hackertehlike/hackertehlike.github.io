@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
 
+/* ======================================
+   GENERAL STYLES
+   ====================================== */
+
 body {
     margin: 0;
     padding: 0;
@@ -11,6 +15,10 @@ body {
     cursor: url('/icons/cursor.png'), auto;
 }
 
+/* ======================================
+   DESKTOP LAYOUT
+   ====================================== */
+
 .desktop {
     display: flex;
     flex-direction: column;
@@ -19,36 +27,47 @@ body {
     height: 90vh;
 }
 
+/* ======================================
+   ICON STYLES
+   ====================================== */
+
+/* General icon container styling */
 .icon {
     margin: 20px;
-    text-align: center;
+    text-align: left; /* Align text and image to the left */
+    display: flex; /* Use flexbox to better control layout */
+    align-items: center; /* Center the items vertically */
 }
 
+/* Styling for the icon link */
 .icon a {
     text-decoration: none;
     color: #000;
-    display: inline-block;
+    display: flex; /* Set link to flex for easy layout of children */
+    align-items: center; /* Align icon and text vertically */
     font-size: 20px; /* Pixelify Sans */
 }
 
-.icon a:hover {
-    cursor: url('/icons/cursor.png'), auto; /* Use the same cursor as body */
-}
-
+/* Image within the icon link */
 .icon img {
     width: 60px;
-    display: block;
-    margin-bottom: 10px;
+    margin-right: 10px; /* Add spacing between the icon and text */
+    height: auto;
+    display: inline-block;
 }
 
+/* Span text within the icon link */
 .icon span {
-    font-size: 22px; /* Pixelify Sans */
-    display: block;
+    font-size: 22px; /* Keep Pixelify Sans font size */
+    display: inline-block;
 }
+
+/* ======================================
+   MENU AND STATUS BAR STYLES
+   ====================================== */
 
 /* Menu, Clock, Scrolling Text, and Date - Press Start 2P */
 .menu button {
-    
     background-color: #d3cbc4;
     border: none;
     font-family: 'Press Start 2P', Courier, monospace;
@@ -120,6 +139,10 @@ footer {
     font-size: 18px;
 }
 
+/* ======================================
+   MODAL STYLES
+   ====================================== */
+
 /* Modal Window - Pixelify Sans */
 .modal {
     display: none;
@@ -177,15 +200,19 @@ footer {
 
 /* Close Button */
 .close {
-    font-size: 18px;
+    width: 40px; /* Set a fixed width to make it a square */
+    height: 40px; /* Set height to the same value as width */
+    font-size: 12px;
     font-family: 'Press Start 2P', Courier, monospace;
     border: 2px solid #000000;
     background-color: #ffe600;
     color: #000000;
     cursor: url('/icons/cursor.png'), auto;
-    padding: 2px 8px;
+    padding: 0; /* Remove padding to keep the button dimensions square */
     box-shadow: inset 2px 2px 0px #fff, inset -1px -1px 0px #444; /* Softer, smaller inset shadows for button */
+    text-align: center; /* Center the text within the square */
 }
+
 
 /* Modal Body with Scroll */
 .modal-body {
@@ -241,7 +268,9 @@ footer {
     background-color: #444;
 }
 
-
+/* ======================================
+   COLLAPSIBLE CHAPTER STYLES
+   ====================================== */
 
 /* Hide the chapter list initially */
 .chapter-list {
@@ -259,7 +288,6 @@ footer {
 }
 
 .icon a:hover, .collapsible:hover {
-    text-decoration: underline;
     cursor: url('/icons/cursor.png'), auto;
 }
 
@@ -273,7 +301,9 @@ footer {
     margin-left: 20px; /* Indent for chapter hierarchy */
 }
 
-
+/* ======================================
+   MEDIA QUERIES
+   ====================================== */
 
 @media screen and (max-width: 1024px) {
     body {
@@ -385,6 +415,4 @@ footer {
         width: 95%;
         font-size: 14px;
     }
-
-    
 }

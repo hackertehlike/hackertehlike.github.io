@@ -40,9 +40,34 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to play the selected music file
     window.playMusic = function(filename) {
         const audioPlayer = document.getElementById('audioPlayer');
+        const soundBar = document.getElementById('soundBar');
+
         audioPlayer.src = '/music/' + filename; // Ensure this path is correct
         audioPlayer.style.display = 'block'; // Show the audio player when playing a track
         audioPlayer.play();
+
+        // Show sound bar
+        soundBar.style.display = 'flex';
         console.log("Playing:", filename);
     }
+
+    // Control Sound Bar functionality
+    const playButton = document.getElementById('playButton');
+    const pauseButton = document.getElementById('pauseButton');
+    const closeSoundBarButton = document.getElementById('closeSoundBarButton');
+    const audioPlayer = document.getElementById('audioPlayer');
+
+    playButton.addEventListener('click', function() {
+        audioPlayer.play();
+    });
+
+    pauseButton.addEventListener('click', function() {
+        audioPlayer.pause();
+    });
+
+    closeSoundBarButton.addEventListener('click', function() {
+        audioPlayer.pause();
+        audioPlayer.currentTime = 0;
+        document.getElementById('soundBar').style.display = 'none';
+    });
 });

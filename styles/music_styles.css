@@ -1,0 +1,98 @@
+#prometheusModal .modal-body ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap; /* Arrange items in rows and allow them to wrap if needed */
+    justify-content: flex-start; /* Align items to the left */
+    gap: 20px; /* Add some spacing between items */
+}
+
+#prometheusModal .modal-body li {
+    display: flex;
+    align-items: center; /* Vertically align the icon and text */
+    flex-direction: column; /* Stack icon and text vertically */
+    margin: 10px 0; /* Provide some vertical spacing */
+    font-size: 20px; /* Pixelify Sans */
+    text-align: center; /* Ensure text below each icon is centered */
+    width: 120px; /* Set a fixed width for each item */
+}
+
+#prometheusModal .modal-body li img {
+    margin-bottom: 10px; /* Add spacing between the icon and the text */
+    width: 60px; /* Keep a consistent width for each icon */
+    height: auto; /* Maintain aspect ratio of the icon */
+}
+
+#prometheusModal .modal-body li span {
+    word-wrap: break-word; /* Allow long words to break into the next line */
+    max-width: 100%; /* Make sure the text wraps within the container */
+}
+/* Box for Icon Link */
+.icon {
+    position: relative;
+    margin: 50px 50px; /* Add more margin to move it down and to the right */
+    padding: 20px; /* Add padding to provide spacing within the box */
+    border: 3px solid #000; /* Add a black border to make it stand out */
+    background-color: #FAEDCB; /* Set a background color to distinguish the box */
+    box-shadow: 5px 5px 0px #444; /* Create a shadow for a retro effect */
+    width: max-content; /* Set the width to match the content */
+    text-align: left; /* Align text and image to the left */
+    display: flex; /* Use flexbox to better control layout */
+    align-items: center; /* Center the items vertically */
+}
+
+/* Styling for the icon link */
+.icon a {
+    text-decoration: none;
+    color: #000;
+    display: flex; /* Set link to flex for easy layout of children */
+    align-items: center; /* Align icon and text vertically */
+    font-size: 20px; /* Pixelify Sans */
+}
+
+/* Image within the icon link */
+.icon img {
+    width: 60px;
+    margin-right: 10px; /* Add spacing between the icon and text */
+    height: auto;
+    display: inline-block;
+}
+
+/* Span text within the icon link */
+.icon span {
+    font-size: 22px; /* Keep Pixelify Sans font size */
+    display: inline-block;
+}
+
+/* Sound Bar Styling */
+.sound-bar {
+    position: fixed;
+    top: 10px; /* Place it near the top */
+    right: 10px; /* Align it to the right */
+    width: auto; /* Set width to adjust dynamically based on the buttons */
+    background-color: #ffc0cb; /* Light pink background to match the aesthetic */
+    display: flex;
+    justify-content: space-around; /* Space buttons evenly within the sound bar */
+    align-items: center;
+    padding: 10px;
+    gap: 15px;
+    border: 2px solid #000; /* Black border for a retro look */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); /* Add some shadow for emphasis */
+    z-index: 1000; /* Ensure the sound bar is above other elements */
+}
+
+.sound-bar button {
+    font-family: 'Press Start 2P', Courier, monospace;
+    font-size: 14px;
+    background-color: #ffe600;
+    color: #000000;
+    border: 2px solid #000000;
+    padding: 6px 12px;
+    cursor: url('/icons/cursor.png'), auto;
+    box-shadow: inset 1px 1px 0px #fff, inset -1px -1px 0px #444; /* Softer, smaller inset shadows for buttons */
+}
+
+.sound-bar button:hover {
+    background-color: #444; /* Darken background on hover */
+    color: #fff; /* Change text color to white on hover */
+}
