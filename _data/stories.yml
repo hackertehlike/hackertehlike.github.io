@@ -1,0 +1,14 @@
+stories:
+  - title: "Wojtek"
+    slug: "wojtek"
+    chapters:
+      - title: "Chapter 1"
+        file: "/stories/wojtek/chapter1.md"
+
+  - title: "Three Rules for Murder"
+    slug: "3rfm"
+    chapters:
+      - title: "Chapter 1"
+        file: "/stories/3rfm/chapter1.md"
+      - title: "Chapter 2"
+        file: "/stories/3rfm/chapter2.md"

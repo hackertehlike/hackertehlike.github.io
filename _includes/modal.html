@@ -1,0 +1,25 @@
+<div id="writingModal" class="modal" style="display: none;">
+    <div class="modal-content">
+        <div class="modal-header">
+            <span id="close-writing-modal" class="close">&times;</span>
+            <h2>Welcome to my brain</h2>
+        </div>
+        <div class="modal-body">
+            <ul>
+                {% for story in site.data.stories.stories %}
+                    <li class="story-item">
+                        <a href="#" class="story-title">{{ story.title }}</a>
+                        <ul class="chapters-list" style="display: none;">
+                            {% for chapter in story.chapters %}
+                                <li><a href="{{ site.baseurl }}/{{ story.url }}/{{ chapter.url }}">{{ chapter.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="modal-footer">
+            <button id="close-modal-btn">Close</button>
+        </div>
+    </div>
+</div>
