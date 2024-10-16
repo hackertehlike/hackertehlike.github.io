@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Set the scroll duration based on the text length
             const textLength = customText.length;
-            const scrollDuration = textLength * 0.3; // Adjust this factor to control the speed
+            const scrollDuration = textLength * 0.4; // Adjust this factor to control the speed
 
             // Update the scrolling animation duration dynamically
             scrollingTextElement.style.animation = `scroll ${scrollDuration}s linear infinite`;
