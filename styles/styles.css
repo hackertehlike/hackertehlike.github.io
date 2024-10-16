@@ -30,28 +30,29 @@ body {
 /* ======================================
    ICON STYLES
    ====================================== */
-
 /* General icon container styling */
 .icon {
     margin: 20px;
-    text-align: left; /* Align text and image to the left */
-    display: flex; /* Use flexbox to better control layout */
-    align-items: center; /* Center the items vertically */
+    text-align: center; /* Align text to be centered under the icon */
+    display: flex;
+    flex-direction: column; /* Stack the icon and text vertically */
+    align-items: center; /* Center the items horizontally */
 }
 
 /* Styling for the icon link */
 .icon a {
     text-decoration: none;
     color: #000;
-    display: flex; /* Set link to flex for easy layout of children */
-    align-items: center; /* Align icon and text vertically */
+    display: flex;
+    flex-direction: column; /* Stack icon and text vertically */
+    align-items: center; /* Center icon and text */
     font-size: 20px; /* Pixelify Sans */
 }
 
 /* Image within the icon link */
 .icon img {
     width: 60px;
-    margin-right: 10px; /* Add spacing between the icon and text */
+    margin-bottom: 10px; /* Add spacing between the icon and text */
     height: auto;
     display: inline-block;
 }
@@ -59,8 +60,9 @@ body {
 /* Span text within the icon link */
 .icon span {
     font-size: 22px; /* Keep Pixelify Sans font size */
-    display: inline-block;
+    display: block;
 }
+
 
 /* ======================================
    MENU AND STATUS BAR STYLES
