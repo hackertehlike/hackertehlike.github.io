@@ -24,3 +24,23 @@ stories:
     chapters:
       - title: "Chapter 1"
         file: "/stories/wilkegrosche/chapter1.md"
+
+  - title: "Hell, Heaven and High Water"
+    slug: "destiny"
+    chapters:
+      - title: "Prologue"
+        file: "/stories/destiny/prologue.md"
+    chapters:
+      - title: "Chapter 1"
+        file: "/stories/destiny/chapter1.md"
+
+  - title: "Everblue (preview)"
+    slug: "everblue"
+    chapters:
+      - title: "Chapter 1"
+        file: "/stories/everblue/chapter1.md"
+      - title: "Chapter 2"
+        file: "/stories/everblue/chapter2.md"
+      - title: "Interlude"
+        file: "/stories/everblue/interlude1.md"
+
