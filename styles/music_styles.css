@@ -27,6 +27,17 @@
     word-wrap: break-word; /* Allow long words to break into the next line */
     max-width: 100%; /* Make sure the text wraps within the container */
 }
+
+/* Outer Pink Box with Black Outline */
+#prometheusModal .modal-content {
+    background-color: #ffc0cb; /* Light pink background */
+    width: 500px; /* Increased width from 400px to 500px for a wider modal */
+    margin: 10% auto;
+    border: 3px solid black; /* Black outline on the very outside */
+    padding: 5px; /* Padding to make space for second black border */
+    box-shadow: 3px 2px 0px #444; /* Softer, smaller shadows for retro effect */
+}
+
 /* Box for Icon Link */
 .icon {
     position: relative;

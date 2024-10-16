@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             .menu-button:hover {
-                background-color: #486b48;
+                background-color: #bababa;
             }
 
             .footer {
@@ -150,6 +150,44 @@ document.addEventListener('DOMContentLoaded', () => {
             .clock-icon {
                 width: 20px;
             }
+            
+            @media screen and (max-width: 480px) {
+            /* Shrink the menu button significantly */
+            .menu-button {
+                font-size: 10px; /* Reduce font size */
+                padding: 4px 8px; /* Smaller padding */
+                width: auto; /* Make sure the button adjusts to the content size */
+            }
+
+            /* Shrink the footer bar for phone displays */
+            .footer {
+                padding: 5px; /* Reduce padding around the footer */
+                justify-content: center; /* Center align items to save space */
+                flex-direction: column; /* Stack items vertically on small screens */
+            }
+
+            /* Shrink the status bar and scrolling text */
+            .status-bar {
+                width: 100%; /* Full width of the screen */
+                overflow: hidden; /* Prevent horizontal scrolling */
+                font-size: 12px; /* Smaller font for scrolling text */
+            }
+
+            .scrolling-text {
+                font-size: 12px; /* Decrease font size for smaller screens */
+                animation: scroll 100s linear infinite; /* Adjust scroll speed for smaller screens */
+            }
+
+            /* Clock styling adjustments */
+            .clock {
+                margin-right: 10px; /* Reduce margin on smaller screens */
+            }
+
+            .clock .date, .clock .time {
+                font-size: 12px; /* Reduce font size for the clock elements */
+            }
+        }
+
         `;
 
         const styleElement = document.createElement('style');
