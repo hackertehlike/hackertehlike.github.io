@@ -69,9 +69,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         img.addEventListener('mouseup', () => {
             if (!dragged) {
-                modal.style.display = 'block';
-                overlay.style.display = 'block';
-                modalImg.src = img.src;
+                modalImg.src = img.src;  // Set the image source before showing the modal
+                modalImg.onload = () => { // Only show modal after the new image is fully loaded
+                    modal.style.display = 'block';
+                    overlay.style.display = 'block';
+                };
             }
         });
 
