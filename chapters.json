@@ -17,6 +17,13 @@
             "chapters": [
                 { "title": "Wojtek", "url": "/stories/wojtek/chapter1.html" }
             ]
+        },
+        {
+            "title": "Wilke Grosche",
+            "slug": "wilkegrosche",
+            "chapters": [
+                { "title": "Wilke Grosche", "url": "/stories/wilkegrosche/chapter1.html" }
+            ]
         }
     ]
 }

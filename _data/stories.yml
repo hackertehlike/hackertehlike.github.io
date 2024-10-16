@@ -18,3 +18,9 @@ stories:
         file: "/stories/3rfm/chapter4.md"
       - title: "Chapter 5"
         file: "/stories/3rfm/chapter5.md"
+
+  - title: "Wilke Grosche"
+    slug: "wilkegrosche"
+    chapters:
+      - title: "Chapter 1"
+        file: "/stories/wilkegrosche/chapter1.md"
