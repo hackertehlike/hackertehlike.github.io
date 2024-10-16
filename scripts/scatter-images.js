@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById('image-modal');
     const modalImg = document.getElementById('modal-img');
     const overlay = document.getElementById('modal-overlay');
+    let zIndexCounter = 1; // To keep track of the highest z-index
 
     imageNames.forEach(name => {
         const img = document.createElement('img');
@@ -74,9 +75,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        // Make images draggable
+        // Make images draggable and bring to front on interaction
         img.addEventListener('mousedown', (e) => {
             e.preventDefault();
+            // Bring the clicked image to the top
+            img.style.zIndex = ++zIndexCounter;
+
             const shiftX = e.clientX - img.getBoundingClientRect().left;
             const shiftY = e.clientY - img.getBoundingClientRect().top;
 
