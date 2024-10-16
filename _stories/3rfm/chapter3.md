@@ -5,13 +5,14 @@ story_slug: "3rfm"  # Matches the "slug" from stories.yml
 story: "Three Rules for Murder"
 chapter: 3
 ---
+
 Irena’s breath rose in white clouds, the dry earth hard beneath her soles. The quiet Unity Day morning carried no warmth as she stepped outside, and the overcast sky softened the shadows in the near-empty courtyard. The cold struck Irena like a gentle slap, easing the headache.
 
 It had been a good morning on that front. The headache was present, as always, but not debilitating enough to render her bedridden. The remnants of the dream stowed away in the attic of her mind, she wended her way to the Atheneum. Focusing on the wintry bite of the air, the birdsong that filled the silence, she honed in on the buzzing all about her, muted, tranquil. Individual threads of thought whispered into her mind from the nearby students, too faint to untangle. Of course. Dotting the yard were mostly upperclassmen with enough mental defenses in place.
 
 She entered the Atheneum, removing her cloak preemptively before the wave of heat could crash into and overwhelm her. Here, too, was the Unity Day quiet present. A few overachievers speckled the atrium, absorbed gazes behind gilt glasses poring over tomes and parchments, quills scratching zealously. Rapt minds were easier to penetrate, but Irena ignored the droning hum, feeling her headache sharpen as the winter chill thawed around it. A Mindwalker could slither into one’s mind and numb the pain, squash it underfoot like unwanted weeds even if they could not uproot them. They could be strong enough to reach out and grasp the most hidden desires, the most carefully veiled of secrets, and pluck them like a ruby leaf from an ash tree in autumn. They could crack a person’s psyche open, and even completely unravel it, pulling on a single loose thread to watch all the others come apart. And yet, their own would remain untouchable. Ever near, ever bare, ever impossibly beyond reach.
 
-“Irena\!”
+“Irena!”
 
 Irena stopped short before the archway to the left wing, wheeling on her heels to spot a familiar face jogging toward her.
 
@@ -21,7 +22,7 @@ Irena smiled. “Hey, kid. You’re up early.”
 
 “Yeah, well…” He shrugged. “I won’t pass the Trials by dreaming.”
 
-You have no idea, Irena thought. “That’s the spirit. What are you working on?”
+_You have no idea,_ Irena thought. “That’s the spirit. What are you working on?”
 
 “Right now? I’m just revising some stuff from magic theory.”
 
@@ -53,7 +54,7 @@ It fell against her all at once, without crescendo, without ease. The Night Mark
 
 The market existed in its own closed bubble, a chrysalis of chaos. It was a tangle of passages connected to each other in ways that should not be possible. Stairways leading to levels that should have been below when climbed; streets that bridged squares on the opposite side of the market; the perpetual night sky impossibly canopying every layer.
 
-And, the Lost – the creatures of the market, who roamed this pocket dimension, unified by a single quality. The Mark of the Arcane Plague, which could only be gained by trading something away. Something precious. Hence, the Lost. Or so they said.
+And, the Lost – the creatures of the market, who roamed this pocket dimension, unified by a single quality. The Mark of the Arcane Plague, which could only be gained by trading something away. Something precious. Hence, the _Lost_. Or so they said.
 
 It did not manifest itself physically; instead, the ability to enter the market – the permission – was the sole face of the mark. And that just as well, for bearing the mark was grounds for instant expulsion from the Academy. How exactly this was enforced, Irena did not know, and indeed, she had yet to be caught.
 
@@ -123,7 +124,7 @@ Irena caught the single gold coin the dressmaker threw at her, hand stretching o
 
 "Keep it." Her smile widened into a grin, teeth flashing. "You might need it."
 
-<p align="center">*</p>
+\*
 
 Irena's name blinked starkly back at her in a mocking pulse. She exhaled, fighting to keep her mask in check, to ward off the flourishing frustration welling within from creeping into her face.
 
@@ -137,13 +138,13 @@ Not Irena, though. No. Irena had earned her spot by virtue of folly and incompet
 
 So close to the start of the real trials, Irena's name spelled out trouble across line three-hundred-twelve.
 
-I need to talk to Istikbal, she noted. For all her frequent visits to her dreams, the goddess had been elusive of late, leaving Irena's calls often unanswered, and only speaking in the puzzling enigmas peculiar to her kind when she managed to get a hold of her – more puzzling than usual, at least.
+_I need to talk to Istikbal,_ she noted. For all her frequent visits to her dreams, the goddess had been elusive of late, leaving Irena's calls often unanswered, and only speaking in the puzzling enigmas peculiar to her kind when she managed to get a hold of her – more puzzling than usual, at least.
 
 She turned, heading off in the direction of her first lecture of the day. There were still two full hours until August Vefort would step in through the door of the room where she schooled Irena on the subtle art of mindwalking. But Irena did not want to dally in the dry chill of the winter morning the Academy had woken up to, and the ever-present throbbing in the back of her head ruled revision out of the question.
 
-At least I won't be late again, she thought dryly. But first, breakfast might be in order.
+_At least I won't be late again,_ she thought dryly. _But first, breakfast might be in order._
 
-<p align="center">*</p>
+\*
 
 "Focus, Irena."
 
@@ -155,29 +156,31 @@ At least I won't be late again, she thought dryly. But first, breakfast might be
 
 "Because you keep yawning," August Vefort said. "Nice try, though."
 
-Irena sighed, letting her worry settle into her features and take over her bearing. The best way to tell a lie is not to do it, Roidac’s voice echoed in her mind. The second best way to tell a lie is to do as little of it as you can. "I have admittedly not been getting a lot of sleep."Vefort arched a brow, studying Irena. "Worried about the trials, or is there something else?"
+Irena sighed, letting her worry settle into her features and take over her bearing. _The best way to tell a lie is not to do it,_ Roidac’s voice echoed in her mind. _The second best way to tell a lie is to do as little of it as you can._ "I have admittedly not been getting a lot of sleep."  
+Vefort arched a brow, studying Irena. "Worried about the trials, or is there something else?"
 
 Irena sat for a moment, considering her next words.
 
-It was a curious thing, to sit in that chair with the knowledge that the woman opposite her could reach into her mind and uncover the most carefully hidden of things with the barest effort, turn the cobwebs veiling the darkest corners of it to dust at the flick of a finger. She could puppeteer it totally and ensure Irena could not even doubt such a thing. She could crack her mind open, utterly unravel it until there was nothing left, not a wisp of humanity, of thought or life, let alone a trace of Irena.
+It was a curious thing, to sit in that chair with the knowledge that the woman opposite her could reach into her mind and uncover the most carefully hidden of things with the barest effort, turn the cobwebs veiling the darkest corners of it to dust at the flick of a finger. She could puppeteer it totally and ensure Irena could not even _doubt_ such a thing. She could crack her mind open, utterly unravel it until there was nothing left, not a wisp of humanity, of thought or life, let alone a trace of Irena.
 
-Which one of you can say you are confident enough in your own sanity, your own… selfness… to know for sure?
+_Which one of you can say you are confident enough in your own sanity, your own… selfness… to know for sure?_
 
 "Focus, Irena," Vefort repeated, and Irena felt her cheeks mottle with the embarrassment of having zoned out once again. "What color is the handkerchief?"
 
-Irena closed her eyes, trying to see the cramped room in her mind's eye, the two of them sitting across one another, their chairs the only furniture appointed to the space. The details of the place flowered in her mind, the defined texture of the weft-face weave of the floor, the stark white door spanning to the full height of the room, the tiniest dents along the legs of the wooden chairs. And, the deep vibrations thrumming across her, originating with the August. She felt her mind reach out, her hand gentle, and touch the woman's mind. It was not left completely defenseless, but the present protective barrier was the candlelight borrowed from a blazing fire, a mere speck of her capabilities, held back nearly in full to mirror a more realistic objective. Irena carefully circumvented it, entering the maze of the August's mind.
+Irena closed her eyes, trying to see the cramped room in her mind's eye, the two of them sitting across one another, their chairs the only furniture appointed to the space. The details of the place flowered in her mind, the defined texture of the weft-face weave of the floor, the stark white door spanning to the full height of the room, the tiniest dents along the legs of the wooden chairs. And, the deep vibrations thrumming across her, originating with the August. She felt her mind reach out, her hand gentle, and touch the woman's mind. It was not left completely defenseless, but the present protective barrier was the candlelight borrowed from a blazing fire, a mere speck of her capabilities, held back nearly in full to mirror a more _realistic_ objective. Irena carefully circumvented it, entering the maze of the August's mind.
 
 It was like navigating a vast ocean in a small boat with a single paddle. A vast ocean where the islands were few and far inbetween, and all manner of creatures lurked beneath the surface of the water, drawn to her, and fog hung thick to confuse and disorient her.
 
 "The handkerchief. Find it."
 
-Irena tried to turn toward the source, reaching for the thread of thought in the August's mind that contained the information. She sensed, vaguely, that there was a handkerchief, though that could have been her own mind's phantom voice she was confusing for the August's. The color of the handkerchief, however, stayed firmly out of her reach, stashed away in a locked box somewhere she could not even locate.
+Irena tried to turn toward the source, reaching for the thread of thought in the August's mind that contained the information. She sensed, vaguely, that there _was_ a handkerchief, though that could have been her own mind's phantom voice she was confusing for the August's. The color of the handkerchief, however, stayed firmly out of her reach, stashed away in a locked box somewhere she could not even locate.
 
 "I suppose this might be an appropriate time to tell you I'm colorblind."
 
 "So you've found my clever wit. Put it back. You're looking for a handkerchief," Vefort said; still, Irena could sense the edges of the liminal space she was intruding on softening, illumined by the warm light of faint amusement.
 
-"Will you give me a hint?""Sure. It does not start with an x."
+"Will you give me a hint?"  
+"Sure. It does not start with an x."
 
 "So not xanthic… That was going to be my answer."
 
@@ -187,11 +190,12 @@ Irena tried to turn toward the source, reaching for the thread of thought in the
 
 August Vefort's lips drew into a taut line. "No."
 
-"I apologize, August Vefort.""Apologize to yourself. You are the one who deals with the consequences," said Vefort. She paused, exacting eyes sweeping over Irena's face, and even though Irena knew she was not allowed to pierce into her mind as per the Academy's rules, her mind felt pierced alright. "Is there anything I can… assist you with?"
+"I apologize, August Vefort."  
+"Apologize to yourself. _You_ are the one who deals with the consequences," said Vefort. She paused, exacting eyes sweeping over Irena's face, and even though Irena knew she was not allowed to pierce into her mind as per the Academy's rules, her mind felt pierced alright. "Is there anything I can… assist you with?"
 
-And for a moment, the words welled within her, ready to burst out of her in a torrent of damning confession. Knowing what Vefort could do, knowing she would not even have to articulate exactly what was happening to her – to even think of what was happening to her, it somehow made Irena wish she could just glimpse into her mind and know the truth of it. Almost wish. Her tongue itched to tell her about the dreams, her mind begged her to utter the words.
+And for a moment, the words welled within her, ready to burst out of her in a torrent of damning confession. Knowing what Vefort could do, knowing she would not even have to articulate exactly what was happening to her – to even _think_ of what was happening to her, it somehow made Irena wish she could just glimpse into her mind and know the truth of it. _Almost_ wish. Her tongue itched to tell her about the dreams, her mind begged her to utter the words.
 
-The only thing that kept her from doing so was the certainty of expulsion, along with a thorough wipe of everything she had ever known from her memory, were she to cave in. In other words, utter loss.
+The only thing that kept her from doing so was the certainty of expulsion, along with a thorough wipe of everything she had ever known from her memory, were she to cave in. In other words, _utter loss_.
 
 Which was a price Irena was not exceedingly keen on paying.
 
@@ -204,4 +208,3 @@ Irena only nodded.
 She paused by the door, glancing over her shoulder. "And you will tell me what color the handkerchief is."
 
 With that, she left, leaving Irena in the pressing weight of quiet solitude.
-

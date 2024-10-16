@@ -9,43 +9,43 @@ At the edge of the universe, the carnival that isn’t a carnival wheeled about 
 
 The jamboree carried on in full swing around her, dancing pairs whirling in a swoosh of silk and chiffon. Laughter bubbled far and near. They all laughed, all but the person in front of the carousel. She didn’t. Her face was hidden by a mask, her figure swathed in too many layers of feathers to hint at her frame. Irena didn’t see that she was, in fact, a she; only knew. Irena kept running toward her, quickening her pace. A sweet scent hung in the air, thickening the nearer she came. Only, she did not come any nearer.
 
-Irena. Irena blinked, step faltering. Her body tugged at her to turn to the source of the sound, But Irena wasn’t sure there had been a source. Had it been her ears that had heard, or her mind? Thinking back she wasn’t even sure it had been a human voice. A bird, perhaps.
+_Irena._ Irena blinked, step faltering. Her body tugged at her to turn to the source of the sound, But Irena wasn’t sure there had been a source. Had it been her ears that had heard, or her mind? Thinking back she wasn’t even sure it had been a human voice. A bird, perhaps.
 
 She blinked again. And just like that, the lady in the feathers was gone. Irena stopped to look around, and found naught changed. Still, the pairs spun merrily — pairs of dresses, beings merely of cloth and no flesh. There were no bodies filling the elaborate gowns or the glittering tuxedos, no hands interlocked in dance. No faces crowned the jiving garments. The laughter that was far and near escaped no lips, no teeth flashed brightly in the bright lights of the carnival that wasn’t a carnival.
 
 Irena looked up, stripping her gaze away from the frolicking raiment. The sky at the edge of the universe was bejeweled with entire galaxies on display, variegated, more radiant than the finest glass.
 
-Irena. Irena blinked again. She was standing on a bridge with only enough light to see five paces ahead and that much behind, and no more. Both ends of the bridge extended beyond the sphere of illumination into the shadows, and darkness alone occupied above and below.
+_Irena._ Irena blinked again. She was standing on a bridge with only enough light to see five paces ahead and that much behind, and no more. Both ends of the bridge extended beyond the sphere of illumination into the shadows, and darkness alone occupied above and below.
 
-Irena.
+_Irena._
 
 She trembled, and so did the ground. The voice had not come from any one direction – it had come from all of them, an omnipresent rumble that had sounded more like an avalanche of boulders than a human.
 
 Irena sank to the floor, the stone rough against her bare knees. "I am yours, Istikbal."
 
-I see you, Irena.
+_I see you, Irena._
 
 "Your eyes see much, Istikbal. What is your wish? Name it, and your bidding I shall do. I am your knife, and you are my eyes."
 
-I watch you, Irena.
+_I watch you, Irena._
 
 "Yes," Irena said, trying to shuffle the awkwardness away. The goddess was often cryptic, but seldom so stingy with words. Why had she brought her here?
 
 The silence stretched on, and Irena sat on the stone bridge, waiting. Vaguely she became aware of her dress – the same one she'd been wearing at the carnival that was not a carnival, but now wrinkled, its hems fraying in places.
 
-Do not trust him.
+_Do not trust him._
 
 Though Irena's lips parted readily, she paused, questions flocking into her head. Him? "Whom should I distrust, Istikbal?"
 
-The darkest night is when he reigns.
+_The darkest night is when he reigns._
 
 Irena swallowed down questions, more questions, waiting. The air stirred around her, and she shivered again.
 
- He will bring the heavens down upon you.
+&nbsp;_He will bring the heavens down upon you._
 
 Shadows curled about, twisting and weaving into figures too dark to discern. Faceless silhouettes veiled in gloom stared at her, watching.
 
-Now go, Irena. And may your eyes see with truesight.
+_Now go, Irena. And may your eyes see with truesight._
 
 At the edge of the universe, a man sat inside a carriage. This carriage had no wheels. This carriage had no driver. It was a thing painted sky-blue, glazed with glossy varnish, pulled by a single white horse that never rested. The horse, too, was varnished, though the red saddle was worn and matted in places. The carousel had not escaped the fate that had claimed the rest of the carnival. Bright lights had taken hold of the thing, dazzling constellations of color blinking like fireflies as the carousel turned to the tune.
 
@@ -77,7 +77,7 @@ The parlor downstairs was vacant, which was unsurprising, but not a given. Her s
 
 A pattern danced against the dark backdrop of her closed lids. It was a pattern of pain – bright and variegated, like the sky at the edge of the universe. Irena winced at the recollection. A phantom melody played in her ears, a familiar rondo that echoed off the corners of her mind, invading her thoughts. Her stomach churned to the rhythm.
 
-Hush, she begged her mind. Shut up. Please.
+_Hush,_ she begged her mind. _Shut up. Please._
 
 Her mind could not hear her over the music, apparently.
 
@@ -139,7 +139,7 @@ They stood for a spell, engulfed by the wordless silence imbued with the tender 
 
 “So, the Trials…” He moved to lean against the sofa arm, his words imbued with an eagerness to fill the silence. “Any tips?”
 
-Irena sighed, eyes unfocused. Tips? Sell your soul to a goddess, I suppose. Even then she had made it through by the skin of her teeth.
+Irena sighed, eyes unfocused. _Tips? Sell your soul to a goddess, I suppose._ Even then she had made it through by the skin of her teeth.
 
 “The First Trials… well, work hard. As for the rest, I’m sure you’ve already heard all about how you should keep your secrets and play your hand and all that jazz,” she said. “Work hard, be ruthless. Don’t trust anyone. The Quasar Trials are sooner than you think.”
 
@@ -181,7 +181,7 @@ Glancing over her shoulder, she spoke into the cold of the room. “Irena.”
 
 Then, with a wink and a final smile, she left him alone in the dingy emptiness of the common hall.
 
-<p align="center">*</p>
+\*
 
 Heels clicking on the marble floor, Irena ran, swearing under her breath as she passed through the vaulted halls of the Main Building. Morning fog hung like a pall in the air, dew clinging to the withered weeds and bare branches in the garden just beyond the windows. Irena’s cloak fluttered behind her, making her shirt stick to her back with sweat despite the cold. Late again, this time by almost half a bell. As the double doors of the Australis Hall came into view she slowed for a second to catch her breath; then, with a silent prayer to Istikbal for mercy, she entered the classroom.
 
@@ -239,7 +239,6 @@ The August turned back to Yeosang. “Now then, Mr. Kang, can you tell me what h
 
 Kang Yeosang reclined in his seat ever so slightly, which was as close to standing on the roof of the Main Building and announcing to the whole school that he was proud of himself as Kang Yeosang would do.
 
-“Now, let me take this opportunity to step on the toes of August Roidac a little bit — the old cockweasel thinks he can hog the coolest subject all to himself and swagger about like the cockweasel that he is. And if you have the urge to go tell the man himself what I just said, I beg of you to be my guest. I try a new one every year, and in the ten years that I’ve taught this class, I haven’t managed to coax a single word of vexation out of him,” Feymar said, taking his time crossing to the other end of the dais. “He probably did his little cockweasel strut, like this, and turned to you with his signature frown, and said ‘The simple matters of the battlefield might distract you in their garishness. Bloodmages brandishing their glittering weapons, Beastmakers summoning their mighty minions, Riftcallerss tearing and stitching the fabric of space itself. And the Mindwalkers might whisper into your ear false orders from your commander, and don’t misunderstand, that is scary. But take a moment to remove yourself from the field, and even the ‘operations’ in the words ‘Operations Practical.’ Imagine yourself, sitting in the peace of your own room with all manner of wards placed against harm. How do you know anything you say, anything you do, comes from you, and not some Mindwalker who has mastered their craft? Which one of you can say you are confident enough in your own sanity, your own… selfness… to know for sure?’”
+“Now, let me take this opportunity to step on the toes of August Roidac a little bit — the old cockweasel thinks he can hog the coolest subject all to himself and swagger about like the cockweasel that he is. And if you have the urge to go tell the man himself what I just said, I beg of you to be my guest. I try a new one every year, and in the ten years that I’ve taught this class, I haven’t managed to coax a single word of vexation out of him,” Feymar said, taking his time crossing to the other end of the dais. “He probably did his little cockweasel strut, like this, and turned to you with his signature frown, and said ‘The simple matters of the battlefield might distract you in their garishness. Bloodmages brandishing their glittering weapons, Beastmakers summoning their mighty minions, Riftcallerss tearing and stitching the fabric of space itself. And the Mindwalkers might whisper into your ear false orders from your commander, and don’t misunderstand, that is scary. But take a moment to remove yourself from the field, and even the ‘operations’ in the words ‘Operations Practical.’ Imagine yourself, sitting in the peace of your own room with all manner of wards placed against harm. How do you know anything you say, anything you do, comes from _you_, and not some Mindwalker who has mastered their craft? Which one of you can say you are confident enough in your own sanity, your own… selfness… to know for sure?’”
 
 Roidac paused, cherishing the quiet of a hundred bated breaths, as though time itself had halted with him. “Think about that.”
-

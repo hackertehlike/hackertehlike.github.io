@@ -6,19 +6,17 @@ story: "Three Rules for Murder"
 chapter: 1
 ---
 
-Three rules for murder.
-
 Ten minutes past the eighth bell of the morning, on a commonplace Justice Day, that was the phrase being underlined as Irena barreled into the Borealis Hall, heels clicking on the marbled floor. The great oak door swung and crashed into the wall, filling the cavernous hall with an echoing bang.
 
 Irena was late. Again. All too aware of the hundred heads turning toward her, she gathered herself, and she dashed up the tiered seating platforms, trying to shed her discomfort. It clung to her like a second skin, her face burning with the sensation.
 
-Shit, Irena whispered despite herself. She lowered herself into an empty seat, shuffling out of her cloak as August Roidac resumed his lecture.
+_Shit,_ Irena whispered despite herself. She lowered herself into an empty seat, shuffling out of her cloak as August Roidac resumed his lecture.
 
 “Three rules for murder.”
 
 Crisp chalk caressed the blackboard, bright white against the inky backdrop like stardust. Three rules.
 
-There’s only one rule for murder, Irena thought. Kill.
+_There’s only one rule for murder,_ Irena thought. _Kill._
 
 She leaned back, trying to slow her breathing as she cast a surveying glance about the hall. With gazes trained on the Operations Practical instructor with hawklike focus, only a quarter of the Academy’s second-year students crowded the Borealis Hall now.
 
@@ -44,7 +42,7 @@ Irena smiled a slight smile.
 
 As Roidac turned to write, Irena locked her eyes on the boy, trying to focus on the air, seeking out the threads of subdued buzzing with her mind. Too bright. She closed her eyes, suppressing the visual noise to clear space for the other senses, and tried again. And there – she could almost make out a hum of discontent, a ghost twang of gunpowder from the boy's general direction.
 
-You’re just imagining it, Irena told herself. After all, most students in her year had learned to stifle the outflow of their emotions by now, to fortify their minds so that Mindwalkers could not grasp for the stray telltale threads. Mindwalkers like Irena. A better Mindwalker may have found more to grasp. Irena, on the other hand, toed the very precipice of incompetence, a stumble away from plummeting into the abyss.
+_You’re just imagining it,_ Irena told herself. After all, most students in her year had learned to stifle the outflow of their emotions by now, to fortify their minds so that Mindwalkers could not grasp for the stray telltale threads. Mindwalkers like Irena. A better Mindwalker may have found more to grasp. Irena, on the other hand, toed the very precipice of incompetence, a stumble away from plummeting into the abyss.
 
 The chalk finished its smooth stroke on the board, and the August turned to face them once again, his heavy cloak of office swishing behind him as he did. “Master Kang. Rule number two, if you please.”
 
@@ -52,13 +50,13 @@ The chalk finished its smooth stroke on the board, and the August turned to face
 
 Roidac gave a concise nod. “A life, even that of another, is a high price to pay, which is to be avoided unless all other options come at even higher costs.”
 
-Price. Cost. A life, even that of another. The stonelike callousness of it all pricked her skin like frost. Such was the way of the Academy, such was the game. And you either played, or you lost. And when you lost, you lost everything.
+_Price. Cost. A life, even that of another._ The stonelike callousness of it all pricked her skin like frost. Such was the way of the Academy, such was the game. And you either played, or you lost. And when you lost, you lost everything.
 
 “Third rule of murder,” Roidac said, looking around. “Master Shun?”
 
 Irena’s eyes found Yeonjun Shun before the boy could answer, his silver hair a beacon difficult to miss. Even with his back turned to her, Irena could feel his commanding air, the brazen presence that took up space around him, a tangible force of confidence. When he spoke, his voice was unwavering. “Kill.”
 
-Irena smiled despite herself. Third rule of murder. Kill, indeed.
+Irena smiled despite herself. Third rule of murder. _Kill, indeed._
 
 The Borealis Hall was quick to dispense with the second-year class after the twelfth bell, and Irena was already cursing herself for neglecting to pack her bags before the toll, when the August’s voice interrupted her quick gait.
 
@@ -82,7 +80,7 @@ And then, at last, she gathered herself, mustering every bit of her strength to 
 
 Outside the hall, the high-ceilinged corridors were bright yet chilly, illuminated by arched windows and heavy chandeliers fashioned in the likeness of major constellations, twinkling against the dark stone of the plafond. Weaving their way around the stone columns was a scattering of students, heavy cloaks wrapped around muscled shoulders to ward off the cold. Embroidered stars glistened against indigo velvet that rippled with every agile step. Feeling the chill beginning to sink into her skin, Irena drew hers closer around herself as she turned south, circumventing the atrium on her way to the Atheneum. It would be another two days before the bi-weekly pre-rankings listed in the atrium were updated, and Irena’s memory did not need refreshing – the failure was etched in her brain with burning letters, tugging at the fraying edges of her sanity.
 
-They are just prelims, she told herself. They don’t decide anything. The Trials haven’t begun yet.
+_They are just prelims,_ she told herself. _They don’t decide anything. The Trials haven’t begun yet._
 
 The Quasar Trials. Last summer, half of the thousand that had started their education at the Academy had left it forever, leaving behind their new lives. Their magic. Their memories. Even among those fortunate – and more importantly, competent – enough to make it through the First Trials, it was common knowledge what the Academy did to those it discarded. This was ample reason to try and make it through the Quasar Trials, which would prune half of the remaining faction. The half that Irena would kill to be in, if such a path were laid out before her.
 
@@ -90,7 +88,7 @@ The Quasar Trials were, however, not the kind of trials that required or permitt
 
 The early morning air struck Irena like a wall of ice, snatching her away from her thoughts and into alertness. The stretch between the Main Building and the Atheneum was dotted with bare trees and winter grass, the façades of the five buildings surrounding the yard in a crescent imposing and unyielding as they stood sentry over the Academy and the town beneath the precipice.
 
-“Irena\!”
+“Irena!”
 
 Irena turned in the direction of the voice, spotting Yuna jogging toward her, bangs stirring and shifting with the movement. She didn’t try to suppress her smile. “Hey, Yun.”
 
@@ -106,7 +104,7 @@ Irena did not miss the slightest speck of urgency in her friend’s headshake. �
 
 “I’ll let him know if I see him,” Irena said, feeling her mind reach out subtly for Yuna’s despite herself. It had become second nature to her, as bad as she was at finding anything. Yet, now, her mind’s hands could sense a slight prickle in Yuna’s aura, like a psychic hedgehog raising its spines against a predator – a predator like Irena. “Hey, I’ve got to run. I’ll see you tonight.”
 
-What was that about? Irena thought as she turned away, setting off toward the Atheneum.
+_What was that about?_ Irena thought as she turned away, setting off toward the Atheneum.
 
 The pavilion of the Atheneum welcomed her like a mother’s embrace, or at least how Irena imagined it to be, warm and familiar. A fire crackled in the hearth, and though the space was vast and made of stone like the rest of the Academy buildings, the cozy air from the fire wrapped itself around her as she strode in.
 
@@ -134,7 +132,7 @@ Then, as sudden as death, her world was flooded with noise and color, an entangl
 
 The Night Market was open, and she let it consume her.
 
-<p align="center">*</p>
+\*
 
 Marinated in honey and enhanced with plums, the venison steamed, filling the diner with its enticing aromas. As Irena stepped through the lime-green double doors of the diner, her stomach grumbled, reminding her of her hunger.
 
@@ -170,7 +168,7 @@ Irena only nodded, praying to Istikbal for Yuna to drop the subject.
 
 “Do you ever wonder what they do?” Yuna asked, answering her prayers.
 
-“What they do?”
+“What _they_ do?”
 
 “The others,” Yuna said. “You know. The other students, who have kept their powers in the dark. Do you wonder what they can do?”
 
@@ -180,7 +178,7 @@ The Academy itself did not forbid its students to divulge their talents by any m
 
 Thus it was that the students of the Academy kept others in the dark about their talents, be it many or few, until the start of the Quasar Trials. Speculation, though, was commonplace.
 
-“I find it best to focus on my own capabilities,” Irena continued. My own capabilities, my ass. Her entire shtick was to navigate minds, a task that was as far removed from focusing on herself alone as could be. “And especially for you, Yuna, it doesn’t matter what the others can or can’t do.”
+“I find it best to focus on my own capabilities,” Irena continued_. My own capabilities, my ass._ Her entire shtick was to navigate minds, a task that was as far removed from focusing on herself alone as could be. “And especially for you, Yuna, it doesn’t matter what the others can or can’t do.”
 
 “I know that. But… still. Aren’t you the least bit curious?”
 

@@ -48,16 +48,18 @@ body {
 
 /* Menu, Clock, Scrolling Text, and Date - Press Start 2P */
 .menu button {
+    
     background-color: #d3cbc4;
     border: none;
     font-family: 'Press Start 2P', Courier, monospace;
-    font-size: 16px;
+    font-size: 16px !important;
     padding: 10px 20px;
     cursor: url('/icons/cursor.png'), auto;
     border-left: 2px solid white;
     border-top: 2px solid white;
     border-right: 2px solid gray;
     border-bottom: 2px solid gray;
+    transition: background-color 0.3s;
 }
 
 @keyframes scroll {

@@ -13,13 +13,12 @@ document.addEventListener('DOMContentLoaded', () => {
             // Inject the loaded footer HTML into the body
             document.body.insertAdjacentHTML('beforeend', data);
 
-            // Wait for footer to be injected before initializing its components
-            injectFooterStyles(); // Inject the styles first
-            initializeFooter(); // Then initialize the components
+            // Inject the styles and initialize the footer components
+            injectFooterStyles();
+            initializeFooter();
         })
         .catch(error => console.error('Error loading footer:', error));
 
-    // Function to initialize footer components after loading
     function initializeFooter() {
         // Update the clock and date
         const updateClock = () => {
@@ -62,30 +61,26 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Function to inject footer styles and fonts
     function injectFooterStyles() {
+        console.log("Injecting footer styles");
+
         const footerStyles = `
-            /* Import fonts */
             @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
 
-            /* Footer styles */
-            .footer {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                background-color: #d3cbc4;
-                padding: 10px;
-                position: fixed;
-                bottom: 0;
-                width: 100%;
+            body {
+                background-color: #FFC0CB;
+                font-family: 'Pixelify Sans', Courier, monospace;
+                color: #000;
+                font-size: 18px;
+                cursor: url('/icons/cursor.png'), auto;
             }
 
             .menu-button {
                 background-color: #d3cbc4;
                 border: none;
                 font-family: 'Press Start 2P', Courier, monospace;
-                font-size: 16px;
+                font-size: 16px !important;
                 padding: 10px 20px;
                 cursor: url('/icons/cursor.png'), auto;
                 border-left: 2px solid white;
@@ -99,6 +94,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 background-color: #486b48;
             }
 
+            .footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                background-color: #d3cbc4;
+                padding: 10px;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
+
             .status-bar {
                 overflow: hidden;
                 width: 800px;
@@ -108,13 +114,19 @@ document.addEventListener('DOMContentLoaded', () => {
             .scrolling-text {
                 white-space: nowrap;
                 display: inline-block;
+                animation: scroll 150s linear infinite;
                 font-family: 'Press Start 2P', Courier, monospace;
-                font-size: 18px;
+                font-size: 16px;
+                color: #000;
             }
 
             @keyframes scroll {
-                0% { transform: translateX(100%); }
-                100% { transform: translateX(-100%); }
+                0% {
+                    transform: translateX(5%);
+                }
+                100% {
+                    transform: translateX(-100%);
+                }
             }
 
             .clock {
@@ -129,18 +141,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 font-size: 18px;
             }
 
+            .clock .date, .clock .time {
+                font-family: 'Press Start 2P', Courier, monospace;
+                font-size: 16px;
+                margin-left: 10px;
+            }
+
             .clock-icon {
                 width: 20px;
             }
-
-            .date, .time {
-                font-family: 'Press Start 2P', Courier, monospace;
-                font-size: 18px;
-                margin-left: 10px;
-            }
         `;
 
-        // Create a <style> element and inject the footer styles
         const styleElement = document.createElement('style');
         styleElement.innerHTML = footerStyles;
         document.head.appendChild(styleElement);

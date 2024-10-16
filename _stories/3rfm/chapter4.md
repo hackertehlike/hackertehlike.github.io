@@ -6,9 +6,10 @@ story: "Three Rules for Murder"
 chapter: 4
 ---
 
+
 In the carnival that was not a carnival, the revelries continued in full swing.
 
-Under the great glittering night sky tenfold as resplendent as the jewel-decked crowd, a choir of nightingales trilled in the air, leading the dancing raiment. The merry-go-round turned and turned and turned to the tune of the dream's song, its variegated lights glinting off silk, diamonds, and tears of joy. To one side the press of incorporeal guests stretched beyond sight, spinning and whirling and cavorting. From it rose the tinkle of gold and laughter, the swoosh of skirts and capes. To the other, the very hues of the universe unraveled, glowing, interweaving. The endless prairie was steeped in merry evernight.
+Under the great glittering night sky tenfold as resplendent as the jewel-decked crowd, a choir of nightingales trilled in the air, leading the dancing raiment. The merry-go-round turned and turned and turned to the tune of the dream's song, its variegated lights glinting off silk, diamonds, and tears of joy. To one side the press of incorporeal guests stretched beyond sight, spinning and whirling and cavorting. From it rose the tinkle of gold and laughter, the _swoosh_ of skirts and capes. To the other, the very hues of the universe unraveled, glowing, interweaving. The endless prairie was steeped in merry evernight.
 
 Irena's feet caught in her dress, making her stumble. She was wearing the pale green dress she had ordered from Bogena, the spidersilk sleeves soft and slightly cool to the touch, the beads incandescent with the hues of the universe's lights. On Halora, the moonglow was breathtaking, bathed in the Aetherial Quill's silver light dampened by the mists of Terreter. In the carnival that was not a carnival, the unadulterated starlight made the lace divine.
 
@@ -16,21 +17,21 @@ Of course, here, there were no gazes to be drawn by Irena's gown. Save the one.
 
 Irena watched the feather-frocked figure's head turn slowly toward herself, too stunned to move.
 
-Watching.
+_Watching._
 
 Irena flinched, unsure whether the voice had been her own, or somebody else's, or even human. She could not remember whether it had the gentle lilt of a lullaby or the grating caw of carrion birds.
 
-I must do… something.
+_I must do… something._
 
-That, for sure, had been hers. But Irena could not remember what that something ought to be. She closed her eyes, though that did nothing to ward off the rising melody, all too aware of the beady eyes still trained on her.
+That, for sure, had been hers. But Irena could not remember what that _something_ ought to be. She closed her eyes, though that did nothing to ward off the rising melody, all too aware of the beady eyes still trained on her.
 
-Think, Irena.  What is it that you must do?
+_Think, Irena.  What is it that you must do?_
 
 The melody came crashing down, all at once, as a thousand pairs of shoes met the ground at the same split second exactly.
 
 Irena opened her eyes.
 
-Istikbal. I must talk to Istikbal.
+_Istikbal. I must talk to Istikbal._
 
 She gathered her skirts, turning her back on the feather-frocked figure fore the merry-go-round, and ran.
 
@@ -38,37 +39,37 @@ The cavern trembled, the stalactites threatening to fall. The divine aura was pr
 
 She fell to her knees, her skin breaking as it met the rough stone. Blood gushed out to wet the surface in tribute of her worship as did her words. "I am yours, Istikbal."
 
-Irena.
+_Irena._
 
 She swallowed, waiting for more; but only the whispers of her own words echoed in the hollow cavern.
 
 "I…" Irena trailed off, her voice diminishing, her breath rising in puffs of white mist. She had not noticed the cold, for she was already shivering. She swallowed. "I need your assistance, Istikbal."
 
-Assistance.
+_Assistance._
 
 Irena gathered her skirts in her palm to steady her hands, feeling the tension in her chest thaw ever slightly. "I am… I… My position at the Academy is… precarious."
 
-Be careful.
+_Be careful._
 
 "Well, yes," Irena stammered awkwardly. "That is why I need your assistance."
 
-Assistance, yes.
+_Assistance, yes._
 
 Irena breathed, her hungry heart hammering against her ribs; and hope, against all odds, seeping through the cracks of worry. The goddess's lilt was distant and echoed, as though altered by its voyage through time, yet Irena could feel Istikbal's eyes on herself, judging, weighing. Disappointment, Irena felt, was imminent.  "Yes."
 
-I need your assistance.
+_I need your assistance._
 
 "...Wait, what?" Her tongue had moved before her mind did, and her stupor was great enough to momentarily fend off the shivering.
 
-He grows stronger. Do not let him.
+_He grows stronger. Do not let him._
 
 "Who grows stronger, Istikbal?"
 
-The goddess's presence shook the earth, dust and rubble raining down. He will bring the heavens down upon you. You alone can wield the sword that undoes. Then, like candlelight being blown out, it vanished.
+The goddess's presence shook the earth, dust and rubble raining down. _He will bring the heavens down upon you. You alone can wield the sword that undoes._ Then, like candlelight being blown out, it vanished.
 
 Irena hurtled through darkness.
 
-<p align="center">*</p>
+\*
 
 Shattering glass rent the night, pain ripping through Irena.
 
@@ -82,7 +83,7 @@ The sound from Irena's lungs as they sucked in a sharp breath sliced through the
 
 She focused on the stinging pain of her open wound, and the coolness of the running water as she cleaned it. It needed a few layers of gauze if not stitching, and so she dressed herself as swiftly as she could, and set off for the infirmary for the first time in her several weeks of unpleasant awakenings.
 
-<p align="center">*</p>
+\*
 
 The morning seemed, at first glance, that of an ordinary Prosperity Day. Students freckled the vaulted halls, persuaded by the chilly mountain air to cross open courtyards with haste, the constellations on their capes twinkling as the heavy fabric swished behind them. Shortly before the eighth bell, those with classes soon beginning were making their way toward their auditoria, the first years as well as the more academically inclined engrossed in their last-minute revision.
 
@@ -98,9 +99,9 @@ The Greenhouse was a long structure with a glass roof and a row of cafes on both
 
 Irena browsed her options, from pies and cakes and pastries to omelets and sandwiches, overwhelmed by choice.
 
-Pick something. It’s just breakfast.
+_Pick something. It’s just breakfast._
 
-“…anyway I’m thinking of asking Chae — Irena\!”
+“…anyway I’m thinking of asking Chae — Irena!”
 
 Irena whirled around to find Hyunjin standing three paces away, flanked by her sister, Yeji, and Soobin.
 
@@ -122,7 +123,7 @@ Irena whirled around to find Hyunjin standing three paces away, flanked by her s
 
 “He was going to ask Wonyoung, but Songhoon got there first,” said Yeji.
 
-“Yeji\!” Hyunjin protested, reddening at the cheeks as he elbowed his sister.
+“Yeji!” Hyunjin protested, reddening at the cheeks as he elbowed his sister.
 
 “Oh, I won’t tell a soul,” Irena said. “But hold on, I thought Wonyoung rejected Songhoon’s invitation.”
 
@@ -138,13 +139,13 @@ Hyunjin shrugged. “Can’t be worse than last year. At least they can’t get 
 
 Irena didn’t miss the softening buzz coming from Soobin’s direction, the sensory equivalent of peachy pink as Yeji answered, her head cocking toward Soobin. “He is going with Seonghwa.”
 
-“Yeji\!” Soobin protested.
+“Yeji!” Soobin protested.
 
 Yeji shrugged. “It’s cute. Sorry. I’m going stag, though.”
 
 “Ah,” Irena glanced over at her, donning all manner of nonchalance as she harkened to the whispers of Yeji’s mind. Not a single stray thread of thought escaped her mental fortress, leaving Irena with nothing. Her face betrayed nothing, perfectly in accord with her mind. “Me too.”
 
-Don’t bring up Ryujin. Don’t bring up Ryujin. Don’t bring up Ryujin.
+_Don’t bring up Ryujin. Don’t bring up Ryujin. Don’t bring up Ryujin._
 
 “I heard there is a first-year who declared himself today,” Hyunjin cut in, answering her prayers, as he opened the door of the tiny box attached to their table. “Shrimp for you, Yeji, and chicken for Soob, right? What do you want, Irena?”
 
@@ -167,4 +168,3 @@ Hyunjin shrugged as Irena felt a little smile tug on her lips. Just in time, too
 “That’s fair,” Yeji said nonchalantly as she reached for her bowl. “So how do you think tonight’s going to go with Seonghwa?”
 
 “Good,” Soobin shot back. “Hopefully I’ll finish burying your body by then.”
-

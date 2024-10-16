@@ -40,7 +40,7 @@ Mark Lee pointed at the nameplate placed neatly on the table as she seated herse
 
 “There will be plenty of time for idle chit-chat. Thought I’d find my spot before it gets too hectic here.”
 
-Or were you fleeing the orgy of thoughts, as I was?
+_Or were you fleeing the orgy of thoughts, as I was?_
 
 It was an affliction shared by Mindwalkers, especially those with keener senses — the easier it was to reach out and grasp those threads, the harder it was to shut off. One could learn not to make noise — indeed it was one of the first things taught to the pupils upon their arrival at the Academy — but one could not unhear. “Fair. I haven’t found any of my friends yet, so…”
 
@@ -76,7 +76,7 @@ Irena felt her breath hitch in marvel despite herself. For a moment after the be
 
 The orchestra quieted as the star lanterns dimmed. The large box across the tables lit up to reveal the Augusts in their ceremonial capes, arrayed beside the Rostrum of the Prime August. The Prime August herself stood haloed by Wisdom, the constellation glimmering behind her.
 
-“Good evening\!” her voice boomed to fill the void that the bells had left behind, enhanced by the invisible gates that conducted only sound placed all around the room. Hers was a voice of command without oppression, power without force. In the pause that ensued were no murmurs; even the threads of thought emanating from the guests had honed to the sharp and steady violin string of keen attention. “Esteemed students, distinguished Augusts, honorable guests. The Academy welcomes you. Tonight, we celebrate excellence.”
+“Good evening!” her voice boomed to fill the void that the bells had left behind, enhanced by the invisible gates that conducted only sound placed all around the room. Hers was a voice of command without oppression, power without force. In the pause that ensued were no murmurs; even the threads of thought emanating from the guests had honed to the sharp and steady violin string of keen attention. “Esteemed students, distinguished Augusts, honorable guests. The Academy welcomes you. Tonight, we celebrate excellence.”
 
 All about her, Irena felt thoughts buzzing in response.
 
@@ -98,9 +98,9 @@ Irena fought to ground her wandering mind. Thinking about the Night Market with 
 
 “Students, especially seniors, I advise you to use this opportunity to meet your future employers.”
 
-And enemies, Irena thought.
+_And enemies,_ Irena thought.
 
-“Now, as Prime August, in the name of all the Augusts of the Academy, I would like to officially commence the ball,” she said, eyeing the crowd with a beaming grin as she spread her arms. “It’s party time\!”
+“Now, as Prime August, in the name of all the Augusts of the Academy, I would like to officially commence the ball,” she said, eyeing the crowd with a beaming grin as she spread her arms. “It’s party time!”
 
 Music crescendoed to life once again as applause erupted. The lanterns sparkled back to bright luminescence, and motion engulfed the ballroom that had been utterly quiet and restrained moments ago.
 
@@ -118,9 +118,9 @@ Half a bell later they stood by the dance floor, fuzz from the punch already spr
 
 “Do you see any of our friends?” Mark asked as they edged along the floor.
 
-Our friends, Irena noted. Who are you talking about? Are you being nice, or is this your strategy, Mark Lee?
+Our _friends,_ Irena noted. _Who are you talking about? Are you being nice, or is this your strategy, Mark Lee?_
 
-Stop being paranoid, another voice in her mind countered. It is throwing off your thoughts. Yet the recollection of last year’s ball — of her partner, in particular — remained a small knot within.
+_Stop being paranoid,_ another voice in her mind countered. _It is throwing off your thoughts._ Yet the recollection of last year’s ball — of her partner, in particular — remained a small knot within.
 
 “Not that I can see,” she said. “Shall we dance? Or are you trying to chicken out of Magic Theory?”
 
@@ -128,7 +128,7 @@ Stop being paranoid, another voice in her mind countered. It is throwing off you
 
 Irena let a giggle bubble out of her as Mark took the hand she offered and pulled her along, slipping into the dance with perfect precision and prowess. He spun her around, and she laughed again, a light ease spreading through her. For a little while she surrendered to the maelstrom, letting the glitter of pearls and diamonds and the glimmer of stardust and gold streak across her vision as she traced the well-practiced steps of the waltz. Her dragonfly wing skirts brushed against her bare legs, impossibly soft. And for a moment the Academy disappeared from her world, the Quasar Trials waved away to naught. For the blink of an eye, she was an incorporeal gown whirling under a gemstone sky never touched by the sun, fated to dance until the end of time and then thereafter.
 
-Irena blinked, almost losing her footing as she felt the solid marble floor of the Academy’s ballroom beneath the soles of her slippers. Her breath caught as she caught herself, and she stared at the young man she was sharing the dance with, his bearing as agreeable as ever, and very much real.
+Irena blinked, almost losing her footing as she felt the solid marble floor of the Academy’s ballroom beneath the soles of her slippers. Her breath caught as she caught herself, and she stared at the young man she was sharing the dance with, his bearing as agreeable as ever, and very much _real_.
 
 “My, my,” she said, harnessing as much aloofness and control as she could. “Yeonjun and Winter are dancing.”
 
@@ -172,7 +172,7 @@ Irena smiled. “Do you want to bet on that, or have you had enough of my bets?�
 
 “So you’re not some princess from a small kingdom, then?”
 
-He’s trying to glean information about my past, Irena thought, the thought unpleasantly sobering. I suppose I should thank you, Istikbal, for my inability to betray information.
+_He’s trying to glean information about my past,_ Irena thought, the thought unpleasantly sobering. _I suppose I should thank you, Istikbal, for my inability to betray information._
 
 “Did you expect me to be?”
 
@@ -188,9 +188,10 @@ It was easier to don aloofness when the accusations were wrong, luckily. “Than
 
 “Have you heard about the first year who declared himself today?” Mark carried on with the same indifference and opaqueness to his intentions, as though every word carried no more weight than any polite discussion.
 
-“Ah, but how could I not?” Irena said. “A Jungkook or an idiot? There is a bet for you.”
+“Ah, but how could I not?” Irena said. “A Jungkook or an idiot? _There_ is a bet for you.”
 
-“That’s a silly bet. No one is a Jungkook. Just yet another ego-pumped asshole underestimating the Trials and overestimating their own abilities.”“Speaking of…” Irena looked around, trying to spot the golden child of the Academy. The young face of the Bangtan Brothers, the greatest alliance to step foot in the school, whispers of whose legend echoed through the halls long before they ever emerged victorious in the Quasar Trials and would echo long after they left — not only was Jungkook part of such a formidable force, he was the one to inspire most awe and admiration, only a first-year when he rose to the top of both his class and the year above’s. The Valedictorian. A legendary Bladesinger and an astute scholar, as well as a social prodigy comparable to skilled Mindwalkers. A triple threat. “I’m not sure where he is, but the rest of the Brothers are being worshipped by the Malyrian grand vizier.”
+“That’s a silly bet. No one is a Jungkook. Just yet another ego-pumped asshole underestimating the Trials and overestimating their own abilities.”  
+“Speaking of…” Irena looked around, trying to spot the golden child of the Academy. The young face of the Bangtan Brothers, the greatest alliance to step foot in the school, whispers of whose legend echoed through the halls long before they ever emerged victorious in the Quasar Trials and would echo long after they left — not only was Jungkook _part_ of such a formidable force, he was the one to inspire most awe and admiration, only a first-year when he rose to the top of both his class and the year above’s. The Valedictorian. A legendary Bladesinger and an astute scholar, as well as a social prodigy comparable to skilled Mindwalkers. A triple threat. “I’m not sure where he is, but the rest of the Brothers are being worshipped by the Malyrian grand vizier.”
 
 “By the end of the night, these functionaries will be at one another’s throats, trying to snag another minute with them. Makes me wonder what diplomatic constellation they’ll find themselves in. Alliances don’t tend to outlive graduation for long — but then, there was never an alliance this successful. And then the Black Plague, right after them. I wonder if it will be a consideration in their choices of office… Ah, and there are the Hwang siblings. Shall we go to them?”
 
@@ -202,7 +203,7 @@ Irena followed Mark Lee’s gaze to see Hyunjin and Yeji skirting the dance floo
 
 “That, is a secret I cannot divulge, Hyunjin; for your sister is already far too lovely. Put her in a dress like this, and we might break the universe.”
 
-Besides, if I told you, she would get me expelled before I could blink.
+_Besides, if I told you, she would get me expelled before I could blink._
 
 “Oh, stop,” Yeji said, draped in all manner of humility. “That is simply silly. I wouldn’t look as ethereal as you do if you put in me in a gown cut from the stars themselves.”
 
@@ -218,7 +219,7 @@ Irena didn’t react to the subtle spite in her words, donning instead her most 
 
 A new waltz rose from the band, spurring change in the dancing crowd. New couples joined the old, and partners were exchanged to stave off any suspicion that a dance might be more than a dance. Irena became too aware of the glances directed their way. Hwang Hyunjin, dashing in his slick black tux, his blond hair pulled back, seemed to singlehandedly steal all the attention, even from someone like Mark Lee. Aloofness plastered on his handsome face he turned to his sister, a smile tugging on his lips. “Would you honor me with a dance, lovely lady?”
 
-“I suppose I shall,” Yeji replied with a playful indulgence. As the siblings pulled away, a gleaming tour de force of their parents’ genetics, Irena could see the shimmering halo of gloating around Yeji. Exclusivity emanated from her mind in the brassy notes of a trumpet, turning the air heavy with incense. Mark’s face remained pleasantly indifferent. How can you not smell that? she wondered as she fought to keep her own a mask of ignorance with only some success.
+“I suppose I shall,” Yeji replied with a playful indulgence. As the siblings pulled away, a gleaming tour de force of their parents’ genetics, Irena could see the shimmering halo of gloating around Yeji. Exclusivity emanated from her mind in the brassy notes of a trumpet, turning the air heavy with incense. Mark’s face remained pleasantly indifferent. _How can you not smell that?_ she wondered as she fought to keep her own a mask of ignorance with only some success.
 
 She had readied herself for another dance spent in the company of Mark Lee when the swirling sea of people revealed a surprise. Kim Doyoung materialized before them, a toothy grin resplendent on his features. Rings glittered on every finger; his honey-sweet cologne almost preceded him.
 
@@ -246,25 +247,25 @@ It was instinct that suppressed the annoyance and let through the amusement, car
 
 “Truly.” Doyoung sighed. “Besides, partnership feels so much more… fulfilling, you know?”
 
-She remained quiet, trying to untangle all of it, her thoughts clouded by the scent of overripe plum and sweet tobacco. A deal with Doyoung. A warning in exchange for a challenge — unless I break my promise.
+She remained quiet, trying to untangle all of it, her thoughts clouded by the scent of overripe plum and sweet tobacco. _A deal with Doyoung. A warning in exchange for a challenge — unless I break my promise._
 
 “I can explain in due time,” he said evenly. “For now, your relationship with this person cannot be affected.”
 
-My relationship with this person… So it was somebody she knew. Is this a ploy? Surely there is no way he thinks I will accept these terms. Is he sowing doubt in my mind? All it took was the vague promise of information, and Irena would be left wondering which friendly face was about to look her in the eye as they stabbed her in the back, completely isolated.
+_My relationship with this person…_ So it was somebody she knew. _Is this a ploy? Surely there is no way he thinks I will accept these terms. Is he sowing doubt in my mind?_ All it took was the vague promise of information, and Irena would be left wondering which friendly face was about to look her in the eye as they stabbed her in the back, completely isolated.
 
 “As I said, it is in both of our interests,” Doyoung pressed.
 
-He is insistent, Irena observed. Is he desperate? I could use that, maybe. “And what if I don’t keep my promise?”
+_He is insistent,_ Irena observed. _Is he desperate? I could_ _use that, maybe._ “And what if I don’t keep my promise?”
 
 “That’s your prerogative, I suppose.”
 
-The uncertainties associated with the deal nagged at her. A promise is but a breath of air on the breeze, August Roidac’s voice echoed in her mind. And trust is but a knife in your throat.
+The uncertainties associated with the deal nagged at her. _A promise is but a breath of air on the breeze,_ August Roidac’s voice echoed in her mind. _And trust is but a knife in your throat._
 
-If only she could talk to Istikbal… She could surmise the intent behind Doyoung’s words — or perhaps even circumvent the need for him, if the goddess could directly glimpse at his hand and lay them out for her, as she used to. What are you after, Istikbal..? “You must think me mad to even offer such a thing. A challenge for a half-truth?”
+If only she could talk to Istikbal… She could surmise the intent behind Doyoung’s words — or perhaps even circumvent the need for him, if the goddess could directly glimpse at his hand and lay them out for her, as she used to. _What are you after, Istikbal..?_ “You must think me mad to even offer such a thing. A challenge for a half-truth?”
 
-“A half-truth?”
+“A _half_\-truth?”
 
-“Lies and half-truths, the only currency one can deal in,” Irena quoted, almost surprised that the words rode her voice and not Roidac’s.
+“_Lies and half-truths, the only currency one can deal in,_” Irena quoted, almost surprised that the words rode her voice and not Roidac’s.
 
 “Let me sweeten the deal for you, then,” Doyoung said with a smile that told her he was in on the joke, the only sort of smile Doyoung seemed capable of. “And what could be sweeter than love?”
 
@@ -272,7 +273,8 @@ If only she could talk to Istikbal… She could surmise the intent behind Doyoun
 
 “You are funny, Irena, which is why I like you. And I do like you, which is why I’m here.”
 
-“What, dancing with me? Yes, I had supposed that might have something to do with it.” She exhaled slowly, the quickening pace of the dance beginning to tire her out. “What about love, then?”“A little sparrow chirruped in my ear a cute little story about a couple who have been sneaking away during small hours of the day to relish the sweet, intoxicating honey of each other’s taste.”
+“What, dancing with me? Yes, I had supposed that might have something to do with it.” She exhaled slowly, the quickening pace of the dance beginning to tire her out. “What about love, then?”  
+“A little sparrow chirruped in my ear a cute little story about a couple who have been sneaking away during small hours of the day to relish the sweet, intoxicating honey of each other’s taste.”
 
 “You should get help.”
 
@@ -280,15 +282,15 @@ He let out a laugh, perfectly in cadence with the rhythm of the waltz. “They w
 
 “So you want me to agree blindly to issue a challenge to a mysterious figure in exchange for gossip.”
 
-“I want you to promise me to issue a challenge to somebody, whom it would be in your interest to challenge, in exchange for not one, but two highly valuable pieces of information.”
+“I want you to _promise_ me to issue a challenge to somebody, whom it would be in your interest to challenge, in exchange for not one, but _two_ highly valuable pieces of information.”
 
-“If you are so sure it would be in my interest to challenge this person, why do you need my promise, for which you are offering not one, but two highly valuable pieces of information?”
+“If you are so sure it would be in my interest to challenge this person, why do you need my promise, for which you are offering not one, but _two_ highly valuable pieces of information?”
 
-“Ah… You got me, Irena. The secret is out… Well, it is true — I am a magnanimous god.”
+“Ah… You got me, Irena. The secret is out… Well, it is true — I _am_ a magnanimous god.”
 
 “Right.”
 
-“I suppose it’s my fondness. The information that I initially offered, is a warning. And the second — well, let’s not fool ourselves. Gossip is fun. It is the primary humane instinct, you know.” Doyoung sighed a more genuine sigh than his usual kind. “Besides, I should contribute to the economy.”
+“I suppose it’s my fondness. The information that I initially offered, is a warning. And the second — well, let’s not fool ourselves. Gossip _is_ fun. It is the primary humane instinct, you know.” Doyoung sighed a more genuine sigh than his usual kind. “Besides, I should contribute to the economy.”
 
 As the violin trilled a last note announcing the end of the dance, he guided her through a spin; and she spun, the world blurring in a streak of glitz and color, his support providing a precisely perfect amount of force and momentum. Wonted applause rose from the encircling onlookers, mingling already underway in preparation for the next dance.
 
@@ -296,13 +298,13 @@ As the violin trilled a last note announcing the end of the dance, he guided her
 
 With that, he walked away, blending into the churning crowd.
 
-Now, what the hell was that? The cacophony of thought threads battered against the gates of Irena’s mind. She wove through the press of people toward the edge, her nose accosted by perfume and sweat, the air suddenly cool on her skin despite the heat of the crowd. She shivered, feeling pain slowly blossoming through her soles. The first is a warning…
+_Now, what the hell was that?_ The cacophony of thought threads battered against the gates of Irena’s mind. She wove through the press of people toward the edge, her nose accosted by perfume and sweat, the air suddenly cool on her skin despite the heat of the crowd. She shivered, feeling pain slowly blossoming through her soles. _The first is a warning…_
 
 She caught Yuna’s face among the guests by the edge of the dance floor, draped in a hot pink gown reminiscent of rose petals, her gaze itinerant, distracted from a chatting Chaeryong and Lia beside her. Irena couldn’t help but smile at the dreamy glow haloing her friend, starry-eyed and beatific at once as she made her way over.
 
 “Looking for somebody?”
 
-With a small jump of startlement, Yuna turned to Irena, a grin spreading on her alluring face. “Irena\! By the gods, you look gorgeous\!”
+With a small jump of startlement, Yuna turned to Irena, a grin spreading on her alluring face. “Irena! By the gods, you look gorgeous!”
 
 “If it isn’t the queen praising the handmaiden,” Irena said. “Found any emperors to bring to their knees yet?”
 
@@ -312,7 +314,7 @@ With a small jump of startlement, Yuna turned to Irena, a grin spreading on her 
 
 “Oh?” Lia cut in, her conversation with Chaeryoung dropped as Irena felt the sharp points of attention hone in on her. “You are friends with Mark Lee? I did not know.”
 
-“We’re not unfamiliar.” The strange buzzing emanating from Lia filled Irena’s mind as her instincts whirred, ever looking for threads, seldom finding them. What is that? Jealousy? Animosity? What is that discordant note underlying the bright orange peal of friendly interest?
+“We’re not unfamiliar.” The strange buzzing emanating from Lia filled Irena’s mind as her instincts whirred, ever looking for threads, seldom finding them. _What is that? Jealousy? Animosity? What is that discordant note underlying the bright orange peal of friendly interest?_
 
 “You must be a decent dancer if you could keep up with those two,” Chaeryong said.
 
@@ -322,51 +324,53 @@ Irena waved away the compliment with a casual hand. “I hardly had to do anythi
 
 “I haven’t accepted any proposals this year.”
 
-Not that there were any.
+_Not that there were any._
 
-“It’s the smart thing to do,” Lia said. “First years are always too eager to couple up for this, but I guess I don’t need to tell you how badly things can go…”
+“It’s the smart thing to do,” Lia said. “First years are always too eager to couple up for this, but I guess I don’t need to tell _you_ how badly things can go…”
 
 Irena could feel the mounting tension behind her eyes, an intangible, taut string pulling on her as her mind raced for a response.
 
-Subtlety isn’t exactly her strongsuit, is it? Somebody was going to bring up Ryujin sooner or later. Just brush it off. “What can I say? I was hardly the only one she fooled. At least I managed to keep my head.” Figuratively, of course. The Academy didn’t kill the failed fledglings — no, that would be inhumane. They simply stripped them of everything they had ever known — their magic, their memories, their very sense of self.
+_Subtlety isn’t exactly her strongsuit, is it? Somebody was going to bring up Ryujin sooner or later. Just brush it off._ “What can I say? I was hardly the only one she fooled. At least I managed to keep my head.” _Figuratively, of course._ The Academy didn’t kill the failed fledglings — no, that would be inhumane. They simply stripped them of everything they had ever known — their magic, their memories, their very sense of self.
 
 Chaeryong’s voice lilted into the silence. “Speak of the devil…”
 
 Irena froze. A hundred shards of ice stabbed at her all at once, her limbs growing leaden.
 
-And then, the devil in question spoke. “Good evening, ladies.”Irena all but felt the fires of all encircling her, the world suddenly burning up as Shin Ryujin’s face came into view, the curves of her figure wrapped in fine gold. And girdling her waist, a most ironic belt that as good as served as a name tag — a golden boa snake.
+And then, the devil in question spoke. “Good evening, ladies.”  
+Irena all but felt the fires of all encircling her, the world suddenly burning up as Shin Ryujin’s face came into view, the curves of her figure wrapped in fine gold. And girdling her waist, a most ironic belt that as good as served as a name tag — a golden boa snake.
 
 “This brings back memories, doesn’t it, Irena?”
 
-Irena felt all breath sucked out of her lungs, her stomach in revolt as Ryujin moved closer. Ryujin. Shin Ryujin.
+Irena felt all breath sucked out of her lungs, her stomach in revolt as Ryujin moved closer. _Ryujin. Shin Ryujin._
 
 She came to a halt a mere foot before her, too close, far too close, all sound but her bright, honeyed rasp submerged in water. “We should dance, for old times’ sake.”
 
-Fury lashed at Irena’s heart. For old times’ sake… You betrayed me, ruined my reputability, almost got me expelled. If I say yes, I am a spineless coward who lets people trample over me. If I say no, I am an emotionally sensitive weakling who holds grudges over strategic losses. She cocked a single brow. “Missed me?”
+Fury lashed at Irena’s heart. _For old times’ sake… You betrayed me, ruined my reputability, almost got me expelled. If I say yes, I am a spineless coward who lets people trample over me. If I say no, I am an emotionally sensitive weakling who holds grudges over strategic losses._ She cocked a single brow. “Missed me?”
 
 “Of course.” Ryujin’s gaze slid down to Irena’s lips. “What’s not to miss?”
 
 Irena scoffed, her heartbeat almost deafening. “I like your belt, Ryujin.”
 
-Ryujin’s lips pulled back to reveal a grin. “I thought you might. Now, how about that dance?”“We shall see,” Irena said. “If you’ll excuse me, I’ll have to go relieve myself first. I may have had a tad too much champagne.”
+Ryujin’s lips pulled back to reveal a grin. “I thought you might. Now, how about that dance?”  
+“We shall see,” Irena said. “If you’ll excuse me, I’ll have to go relieve myself first. I may have had a tad too much champagne.”
 
-<p align="center">*</p>
+\*
 
 A quarter of a bell later, Irena stood by the band, hands gripping her skirt as her eyes roved over the room. The last hour of the ball had brought the festivities into full swing, elevating the band and the dancing crowd to perfect accord. The restrained buzz of small talk had been replaced by bubbling laughter by now, nudged on by the silver trays heaped with champagne weaving in and out, glitz and glamor already beginning to wash off the guests in varying amounts, capes loosened, chairs filling up to rest feet sore from heels.
 
-Let’s hope she doesn’t find me before I find company, she thought with a small prayer to Istikbal.
+_Let’s hope she doesn’t find me before I find company,_ she thought with a small prayer to Istikbal.
 
 And the goddess was generous this day — there, by the window side of the room, stood Soobin and Seonghwa, chatting with a third-year she did not know by name.
 
 Ducking through the press of people, she made her way over, cool relief washing over her. She had almost made it to her waving friends when a flash of gold emerged from the nearby group of people, the likeness of a boa snake caught in the light from the star lanterns. And she was heading straight toward her, a determined smile defining her expression.
 
-Irena cursed. She glanced about, feigning all manner of unawareness. I can lose her in the crowd, if I can find a group dense enough. And yet this side of the ballroom remained sparser than the rest, with little to hide behind. A circle of dignitaries had taken up residence near the arched windows, their bejeweled facades bathed in the light of the night sky. It was the only gathering of people big enough to conceal her, but she couldn’t join them, nor did she have an exit — except the balconies. That would do.
+Irena cursed. She glanced about, feigning all manner of unawareness. _I can lose her in the crowd, if I can find a group dense enough._ And yet this side of the ballroom remained sparser than the rest, with little to hide behind. A circle of dignitaries had taken up residence near the arched windows, their bejeweled facades bathed in the light of the night sky. It was the only gathering of people big enough to conceal her, but she couldn’t join them, nor did she have an exit — except _the balconies_. That would do.
 
-She slipped behind a cluster of moving guests, excusing herself with a hushed reticence as she blended into the dignitaries. The motions of the crowd threatened to overwhelm her, her vision beginning to swim. Perhaps fresh air isn’t such a bad idea, after all. She sidled along the curtain and threw herself out into the night.
+She slipped behind a cluster of moving guests, excusing herself with a hushed reticence as she blended into the dignitaries. The motions of the crowd threatened to overwhelm her, her vision beginning to swim. _Perhaps fresh air isn’t such a bad idea, after all._ She sidled along the curtain and threw herself out into the night.
 
 Winter chill clashed against the heat of the ballroom spilling out of the open doors, misting on her warm skin. A quiet sigh of relief escaped her in a cloud as she closed the door, the world of noise and color locked out. Leaning against the side of the building, the ancient stones rough against her back, she shuttered her eyes, the silence of the night like water from a cool lake on a burn.
 
-By Istikbal, but that was close.
+_By Istikbal, but that was close._
 
 She opened her eyes, at last settling into the comfort of solitude.
 
