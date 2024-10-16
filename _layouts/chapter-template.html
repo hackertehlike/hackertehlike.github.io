@@ -6,20 +6,26 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="../../styles/stories_style.css">
 </head>
-<body>
+<body data-scrolling-text=" ">
     <div class="wrapper">
+        <!-- Chapter Title -->
+        <h1 id="chapter-title">{{ page.title }}</h1>
+
         <!-- Story Content -->
         <div class="story-container">
             {{ content }}
         </div>
     </div>
 
-    <!-- Footer -->
-    <footer>
+    <!-- Copyright Notice -->
+    <div class="copyright">
         <p>© Ayşegül Barlas 2024</p>
-    </footer>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer-container"></div>
 
     <!-- Scripts -->
-    <script src="../../scripts/story-script.js"></script>
+    <script src="../../scripts/menu-bar-loader.js"></script>
 </body>
 </html>

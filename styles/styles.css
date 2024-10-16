@@ -8,7 +8,7 @@ body {
     font-family: 'Pixelify Sans', Courier, monospace; /* Pixelify Sans for everything else */
     color: #000;
     font-size: 18px;
-    cursor: url(../icons/cursor.png), auto;
+    cursor: url('/icons/cursor.png'), auto;
 }
 
 .desktop {
@@ -32,7 +32,7 @@ body {
 }
 
 .icon a:hover {
-    cursor: url(../icons/cursor.png), auto; /* Use the same cursor as body */
+    cursor: url('/icons/cursor.png'), auto; /* Use the same cursor as body */
 }
 
 .icon img {
@@ -53,7 +53,7 @@ body {
     font-family: 'Press Start 2P', Courier, monospace;
     font-size: 16px;
     padding: 10px 20px;
-    cursor: url(../icons/cursor.png), auto;
+    cursor: url('/icons/cursor.png'), auto;
     border-left: 2px solid white;
     border-top: 2px solid white;
     border-right: 2px solid gray;
@@ -159,7 +159,7 @@ footer {
     border: 2px solid #000000;
     background-color: #ffe600;
     color: #000000;
-    cursor: url(../icons/cursor.png), auto;
+    cursor: url('/icons/cursor.png'), auto;
     padding: 2px 8px;
 }
 
@@ -202,7 +202,7 @@ footer {
     color: #000000;
     border: 2px solid #000000;
     padding: 6px 12px;
-    cursor: url(../icons/cursor.png), auto;
+    cursor: url('/icons/cursor.png'), auto;
 }
 
 .close-btn:hover {
@@ -224,12 +224,12 @@ footer {
     color: #000;
     display: inline-block;
     font-size: 20px; /* Same styling for both links and collapsible */
-    cursor: url(../icons/cursor.png), auto;
+    cursor: url('/icons/cursor.png'), auto;
 }
 
 .icon a:hover, .collapsible:hover {
     text-decoration: underline;
-    cursor: url(../icons/cursor.png), auto;
+    cursor: url('/icons/cursor.png'), auto;
 }
 
 /* Specific hover styles for buttons (like collapsibles) */

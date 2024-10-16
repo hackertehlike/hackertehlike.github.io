@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log("menu-bar-loader.js loaded");
 
     // Load the footer into the page
-    fetch('/menu-bar.html')  // Ensure the correct path to menu-bar.html
+    fetch('/menu-bar.html')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -14,7 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
             document.body.insertAdjacentHTML('beforeend', data);
 
             // Wait for footer to be injected before initializing its components
-            initializeFooter();
+            injectFooterStyles(); // Inject the styles first
+            initializeFooter(); // Then initialize the components
         })
         .catch(error => console.error('Error loading footer:', error));
 
@@ -45,45 +46,103 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log("Scrolling text element found");
 
             const defaultText = "* welcome to my website * please stand by * this website is under construction * " +
-                                    "i'm doing my best okay * no seriously * this isn't as easy as it looks * " +
-                                    "so i made this website so you can see what i've been up to * " +
-                                    "and obviously i've been up to a lot of things * why won't these boxes go where i want them to go * " +
-                                    "so anyway * as i've said i've been up to a lot of things * " +
-                                    "you can click on the icons to see what i've been up to * some of it anyway * " +
-                                    "for example, i've been learning how to make websites * " +
-                                    "but you don't need to click on an icon to see that because you're already on a website i've made * " +
-                                    "but also i've been up to some other things * mostly i've been up to some other things * " +
-                                    "like for example, not doing the school work i'm supposed to be doing * css goes brrr * " +
-                                    "actually the menu button doesn't work but that's because i don't know what to put there yet * " +
-                                    "why did i make it clickable then? * it's a prank bro * " +
-                                    "did you know that no one knows what css stands for * css stands for <s>cool stuff</s> * " +
-                                    "css stands for cascading style sheets * thank you for being here * i hope you enjoy your stay *";
-
+                "i'm doing my best okay * no seriously * this isn't as easy as it looks * so i made this website so you can see what i've been up to *";
 
             const customText = document.body.getAttribute('data-scrolling-text') || defaultText;
             scrollingTextElement.textContent = customText;
 
-            // Set the scroll duration and translateX based on text length
+            // Set the scroll duration based on the text length
             const textLength = customText.length;
             const scrollDuration = textLength * 0.3; // Adjust this factor to control the speed
-            const translateXDistance = textLength * 10; // Adjust this factor to control distance
 
-            // Ensure scrolling styles are set correctly
-            scrollingTextElement.style.whiteSpace = 'nowrap';
-            scrollingTextElement.style.display = 'inline-block';
+            // Update the scrolling animation duration dynamically
             scrollingTextElement.style.animation = `scroll ${scrollDuration}s linear infinite`;
-
-            // Update the keyframes with dynamic translateX distance
-            const dynamicStyle = document.createElement('style');
-            dynamicStyle.innerHTML = `
-                @keyframes scroll {
-                    0% { transform: translateX(100%); }
-                    100% { transform: translateX(-${translateXDistance}%); }
-                }
-            `;
-            document.head.appendChild(dynamicStyle);
         } else {
             console.error("Scrolling text element not found");
         }
+    }
+
+    // Function to inject footer styles and fonts
+    function injectFooterStyles() {
+        const footerStyles = `
+            /* Import fonts */
+            @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+            /* Footer styles */
+            .footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                background-color: #d3cbc4;
+                padding: 10px;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
+
+            .menu-button {
+                background-color: #d3cbc4;
+                border: none;
+                font-family: 'Press Start 2P', Courier, monospace;
+                font-size: 16px;
+                padding: 10px 20px;
+                cursor: url('../icons/cursor.png'), auto;
+                border-left: 2px solid white;
+                border-top: 2px solid white;
+                border-right: 2px solid gray;
+                border-bottom: 2px solid gray;
+                transition: background-color 0.3s;
+            }
+
+            .menu-button:hover {
+                background-color: #486b48;
+            }
+
+            .status-bar {
+                overflow: hidden;
+                width: 800px;
+                display: flex;
+            }
+
+            .scrolling-text {
+                white-space: nowrap;
+                display: inline-block;
+                font-family: 'Press Start 2P', Courier, monospace;
+                font-size: 18px;
+            }
+
+            @keyframes scroll {
+                0% { transform: translateX(100%); }
+                100% { transform: translateX(-100%); }
+            }
+
+            .clock {
+                display: flex;
+                align-items: center;
+                margin-right: 20px;
+            }
+
+            .separator {
+                margin: 0 10px;
+                font-family: 'Press Start 2P', Courier, monospace;
+                font-size: 18px;
+            }
+
+            .clock-icon {
+                width: 20px;
+            }
+
+            .date, .time {
+                font-family: 'Press Start 2P', Courier, monospace;
+                font-size: 18px;
+                margin-left: 10px;
+            }
+        `;
+
+        // Create a <style> element and inject the footer styles
+        const styleElement = document.createElement('style');
+        styleElement.innerHTML = footerStyles;
+        document.head.appendChild(styleElement);
     }
 });
