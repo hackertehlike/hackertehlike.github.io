@@ -15,6 +15,29 @@ body {
     border-radius: 12px;
 }
 
+.home-button {
+    position: absolute; /* Set home button to be positioned absolutely */
+    top: 40px; /* Adjust top position as needed */
+    left: 40px; /* Adjust left position as needed */
+    z-index: 10; /* Keep it on top of other elements */
+}
+
+
+.home-button a {
+    text-decoration: none;
+    color: #628667;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.home-icon {
+    width: 50px;  /* Set smaller size for the home icon */
+    height: 50px; /* Set smaller size for the home icon */
+    margin-right: 8px;
+}
+
 header {
     text-align: center;
     margin-bottom: 40px;
