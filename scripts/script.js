@@ -1,43 +1,60 @@
-// Wait until the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', function () {
     
-    // Function to open the writing modal
-    function openModal() {
-        console.log("Opening modal...");
-        document.getElementById('writingModal').style.display = 'block';
+    console.log("hey stop looking at my console logs i feel nakey");
+    
+    // Function to open a modal
+    function openModal(modalId) {
+        console.log("Opening modal...", modalId);
+        const modal = document.getElementById(modalId);
+        if (modal) {
+            modal.style.display = 'block';
+        }
     }
 
     // Function to close the modal
-    function closeModal() {
-        document.getElementById('writingModal').style.display = 'none';
+    function closeModal(modalId) {
+        const modal = document.getElementById(modalId);
+        if (modal) {
+            modal.style.display = 'none';
+        }
     }
 
     // Close the modal when clicking outside of it
     window.onclick = function(event) {
-        const modal = document.getElementById('writingModal');
-        if (event.target === modal) {
-            closeModal();
+        const writingModal = document.getElementById('writingModal');
+        const funModal = document.getElementById('funModal');
+        if (event.target === writingModal) {
+            closeModal('writingModal');
+        } else if (event.target === funModal) {
+            closeModal('funModal');
         }
     }
 
     // Attach the openModal function to the "writing" icon button
-    const openModalButton = document.getElementById('open-writing-modal');
-    if (openModalButton) {
-        openModalButton.addEventListener('click', function(event) {
+    const openWritingModalButton = document.getElementById('open-writing-modal');
+    if (openWritingModalButton) {
+        openWritingModalButton.addEventListener('click', function(event) {
             event.preventDefault();  // Prevents the default behavior of the link
-            openModal();
+            openModal('writingModal');
+        });
+    }
+
+    // Attach the openModal function to the "fun" icon button
+    const openFunModalButton = document.getElementById('open-fun-modal');
+    if (openFunModalButton) {
+        openFunModalButton.addEventListener('click', function(event) {
+            event.preventDefault();  // Prevents the default behavior of the link
+            openModal('funModal');
         });
     }
 
     // Attach the closeModal function to the close button inside the modal
-    const closeModalButton = document.querySelector('.close');
-    const closeModalFooterButton = document.querySelector('.close-btn');
-    if (closeModalButton) {
-        closeModalButton.addEventListener('click', closeModal);
-    }
-    if (closeModalFooterButton) {
-        closeModalFooterButton.addEventListener('click', closeModal);
-    }
+    const closeModalButtons = document.querySelectorAll('.close, .close-btn');
+    closeModalButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            closeModal(button.closest('.modal').id);
+        });
+    });
 
     // Update the time and date in the footer
     function updateTimeAndDate() {
@@ -79,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to dynamically populate the Writing Modal from JSON
     function populateWritingModal(data) {
         console.log("Populating writing modal...");
-        const modalBody = document.querySelector('.modal-body ul');
+        const modalBody = document.querySelector('#writingModal .modal-body ul');
         modalBody.innerHTML = ''; // Clear previous entries
 
         // Loop through each story
