@@ -30,8 +30,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Attach the closeModal function to the close button inside the modal
-    const closeModalButton = document.getElementById('close-writing-modal');
-    const closeModalFooterButton = document.getElementById('close-modal-btn');
+    const closeModalButton = document.querySelector('.close');
+    const closeModalFooterButton = document.querySelector('.close-btn');
     if (closeModalButton) {
         closeModalButton.addEventListener('click', closeModal);
     }
