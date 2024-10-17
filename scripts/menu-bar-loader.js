@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Call the clock function once initially and set it to update every second
         updateClock();
-        setInterval(updateClock, 1000);
+        setInterval(updateClock, 500);
 
         // Set custom scrolling text based on the data-scrolling-text attribute in the body tag
         const scrollingTextElement = document.querySelector('.scrolling-text');

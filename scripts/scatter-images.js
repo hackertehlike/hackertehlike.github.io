@@ -14,13 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalImg = document.getElementById('modal-img');
     const overlay = document.getElementById('modal-overlay');
     let zIndexCounter = 1; // To keep track of the highest z-index
-
     imageNames.forEach(name => {
         const img = document.createElement('img');
         img.src = imageFolderPath + name;
         img.classList.add('scattered-image');
         img.style.position = 'absolute';
-
+    
         // Ensure the larger dimension is set to 250px
         img.onload = () => {
             if (img.naturalWidth > img.naturalHeight) {
@@ -30,43 +29,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 img.style.height = '250px';
                 img.style.width = 'auto';
             }
+    
+            // Place the image ensuring it stays within the container boundaries
+            const containerWidth = container.offsetWidth;
+            const containerHeight = container.offsetHeight;
+    
+            const maxLeft = containerWidth - img.offsetWidth;
+            const maxTop = containerHeight - img.offsetHeight;
+    
+            img.style.left = Math.random() * maxLeft + 'px';
+            img.style.top = Math.random() * maxTop + 'px';
         };
-
-        let overlap;
-        let attempts = 0;
-        do {
-            if (attempts > 100) {
-                container.style.height = container.offsetHeight + 500 + 'px';
-                attempts = 0;
-            }
-            img.style.top = Math.random() * container.offsetHeight + 'px';
-            img.style.left = Math.random() * container.offsetWidth + 'px';
-
-            overlap = placedImages.some(existingImg => {
-                const rect1 = img.getBoundingClientRect();
-                const rect2 = existingImg.getBoundingClientRect();
-                return !(rect1.right < rect2.left || 
-                         rect1.left > rect2.right || 
-                         rect1.bottom < rect2.top || 
-                         rect1.top > rect2.bottom);
-            });
-            attempts++;
-        } while (overlap);
-
+    
         placedImages.push(img);
         container.appendChild(img);
-
+    
         // Enlarge image on click, but not after dragging
         let dragged = false;
-
+    
         img.addEventListener('mousedown', () => {
             dragged = false;
         });
-
+    
         img.addEventListener('mousemove', () => {
             dragged = true;
         });
-
+    
         img.addEventListener('mouseup', () => {
             if (!dragged) {
                 modalImg.src = img.src;  // Set the image source before showing the modal
@@ -76,37 +64,41 @@ document.addEventListener('DOMContentLoaded', () => {
                 };
             }
         });
-
+    
         // Make images draggable and bring to front on interaction
         img.addEventListener('mousedown', (e) => {
             e.preventDefault();
             // Bring the clicked image to the top
             img.style.zIndex = ++zIndexCounter;
-
+    
             const shiftX = e.clientX - img.getBoundingClientRect().left;
             const shiftY = e.clientY - img.getBoundingClientRect().top;
-
+    
             const moveAt = (pageX, pageY) => {
-                img.style.left = Math.min(container.offsetWidth - img.offsetWidth, Math.max(0, pageX - shiftX)) + 'px';
-                img.style.top = Math.max(0, pageY - shiftY) + 'px';
+                const newLeft = Math.min(container.offsetWidth - img.offsetWidth, Math.max(0, pageX - shiftX));
+                const newTop = Math.min(container.offsetHeight - img.offsetHeight, Math.max(0, pageY - shiftY));
+    
+                img.style.left = newLeft + 'px';
+                img.style.top = newTop + 'px';
             };
-
+    
             const onMouseMove = (e) => {
                 moveAt(e.pageX, e.pageY);
             };
-
+    
             const onMouseUp = () => {
                 document.removeEventListener('mousemove', onMouseMove);
                 document.removeEventListener('mouseup', onMouseUp);
                 dragged = false; // Reset dragged state
             };
-
+    
             document.addEventListener('mousemove', onMouseMove);
             document.addEventListener('mouseup', onMouseUp);
-
+    
             img.ondragstart = () => false; // Prevent default drag behavior
         });
     });
+    
 
     // Close modal when clicking on overlay
     overlay.addEventListener('click', (e) => {
