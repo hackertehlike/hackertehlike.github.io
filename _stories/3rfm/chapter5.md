@@ -138,7 +138,7 @@ In his manner was a total opaqueness, a perfect equity that bothered Irena. Did 
 
 She tried to suppress the discomfort, hoping it would pass off as little but an offhand remark.
 
-“Augusts Vefort and Roidac are finished with their waltz, it seems,” Mark said, matching her tone. “August Feymar has the opportunity to do the funniest thing possible.”
+“Augusts Vefort and Roidac are finished with their waltz, it seems,” Mark said, matching her tone. “August Feymar has the opportunity to do the funniest thing.”
 
 “Which is?”
 
@@ -148,7 +148,7 @@ Irena caught a glance over his shoulder as they turned. “Do you think they are
 
 A soberness took over his mien as he leaned in toward her. “Can I trust you?”
 
-Irena’s brows rose.
+Irena’s brows rose at that, her senses sharpening.
 
 “I have a conspiracy that they are secretly together,” Mark said.
 
@@ -197,7 +197,7 @@ It was easier to don aloofness when the accusations were wrong, luckily. “Than
 
 Irena followed Mark Lee’s gaze to see Hyunjin and Yeji skirting the dance floor, bestowing their charming smiles on anybody with enough acquaintance or courage to talk to them.
 
-“Hey guys,” Mark greeted them, his smile as radiant as the ones returned by the siblings. “Look whom I had the luck of sharing a table with.”
+“Greetings, friends,” Mark said as they approached, his smile as radiant as the ones returned by the siblings. “Look whom I had the luck of sharing a table with.”
 
 “But Irena, aren’t you looking magnificent,” Hyunjin said as he took her hand, giving her a little spin. Irena grinned at him, indulging. “Where did you find this? We must get Yeji’s gown from this dressmaker next year.”
 
