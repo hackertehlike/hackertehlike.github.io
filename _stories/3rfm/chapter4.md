@@ -125,7 +125,7 @@ Irena whirled around to find Hyunjin standing three paces away, flanked by her s
 
 “He was going to ask Wonyoung, but Songhoon got there first,” Yeji interjected.
 
-“Yeji!” Hyunjin's protest accompanied his elbow which burrowed into his sister's side.
+“Yeji!” Hyunjin's protest accompanied his elbow as it burrowed into his sister's side.
 
 “I won’t tell a soul,” Irena said with a chuckle. “But I thought Wonyoung had rejected Songhoon’s invitation.”
 
