@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const now = new Date();
             const timeString = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
             const dateString = now.toLocaleDateString([], { year: 'numeric', month: 'short', day: '2-digit' });
-
+    
             const timeElement = document.querySelector('.clock .time');
             const dateElement = document.querySelector('.clock .date');
             if (timeElement && dateElement) {
@@ -35,18 +35,20 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         updateClock();
         setInterval(updateClock, 500);
-
+    
+        // Handle the scrolling text
         const scrollingTextElement = document.querySelector('.scrolling-text');
         if (scrollingTextElement) {
-            const defaultText = "* welcome to my website * please stand by * this website is under construction * ...";
-            const customText = document.body.getAttribute('data-scrolling-text') || defaultText;
-            scrollingTextElement.textContent = customText;
-
-            const textLength = customText.length;
+            const customText = document.body.getAttribute('data-scrolling-text');
+            if (customText) scrollingTextElement.textContent = customText; // Only update if attribute is present
+    
+            const textLength = scrollingTextElement.textContent.length;
             const scrollDuration = textLength * 0.4; // Adjust this factor to control the speed
             scrollingTextElement.style.animation = `scroll ${scrollDuration}s linear infinite`;
         }
     }
+        
+
 
     function injectFooterStyles() {
         console.log("Injecting footer styles");
