@@ -69,7 +69,8 @@ The goddess's presence shook the earth, dust and rubble raining down. _He will b
 
 Irena hurtled through darkness.
 
-\*
+<center>*</center>
+
 
 Shattering glass rent the night, pain ripping through Irena.
 
@@ -83,7 +84,8 @@ The sound from Irena's lungs as they sucked in a sharp breath sliced through the
 
 She focused on the stinging pain of her open wound, and the coolness of the running water as she cleaned it. It needed a few layers of gauze if not stitching, and so she dressed herself as swiftly as she could, and set off for the infirmary for the first time in her several weeks of unpleasant awakenings.
 
-\*
+<center>*</center>
+
 
 The morning seemed, at first glance, that of an ordinary Prosperity Day. Students freckled the vaulted halls, persuaded by the chilly mountain air to cross open courtyards with haste, the constellations on their capes twinkling as the heavy fabric swished behind them. Shortly before the eighth bell, those with classes soon beginning were making their way toward their auditoria, the first years as well as the more academically inclined engrossed in their last-minute revision.
 

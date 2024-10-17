@@ -124,7 +124,8 @@ Irena caught the single gold coin the dressmaker threw at her, hand stretching o
 
 "Keep it." Her smile widened into a grin, teeth flashing. "You might need it."
 
-\*
+<center>*</center>
+
 
 Irena's name blinked starkly back at her in a mocking pulse. She exhaled, fighting to keep her mask in check, to ward off the flourishing frustration welling within from creeping into her face.
 
@@ -144,7 +145,8 @@ She turned, heading off in the direction of her first lecture of the day. There 
 
 _At least I won't be late again,_ she thought dryly. _But first, breakfast might be in order._
 
-\*
+<center>*</center>
+
 
 "Focus, Irena."
 

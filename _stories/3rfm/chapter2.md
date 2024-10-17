@@ -181,7 +181,8 @@ Glancing over her shoulder, she spoke into the cold of the room. “Irena.”
 
 Then, with a wink and a final smile, she left him alone in the dingy emptiness of the common hall.
 
-\*
+<center>*</center>
+
 
 Heels clicking on the marble floor, Irena ran, swearing under her breath as she passed through the vaulted halls of the Main Building. Morning fog hung like a pall in the air, dew clinging to the withered weeds and bare branches in the garden just beyond the windows. Irena’s cloak fluttered behind her, making her shirt stick to her back with sweat despite the cold. Late again, this time by almost half a bell. As the double doors of the Australis Hall came into view she slowed for a second to catch her breath; then, with a silent prayer to Istikbal for mercy, she entered the classroom.
 

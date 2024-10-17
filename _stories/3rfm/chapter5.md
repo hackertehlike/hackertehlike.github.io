@@ -354,7 +354,8 @@ Irena scoffed, her heartbeat almost deafening. “I like your belt, Ryujin.”
 Ryujin’s lips pulled back to reveal a grin. “I thought you might. Now, how about that dance?”  
 “We shall see,” Irena said. “If you’ll excuse me, I’ll have to go relieve myself first. I may have had a tad too much champagne.”
 
-\*
+<center>*</center>
+
 
 A quarter of a bell later, Irena stood by the band, hands gripping her skirt as her eyes roved over the room. The last hour of the ball had brought the festivities into full swing, elevating the band and the dancing crowd to perfect accord. The restrained buzz of small talk had been replaced by bubbling laughter by now, nudged on by the silver trays heaped with champagne weaving in and out, glitz and glamor already beginning to wash off the guests in varying amounts, capes loosened, chairs filling up to rest feet sore from heels.
 

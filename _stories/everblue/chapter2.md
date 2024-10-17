@@ -34,7 +34,8 @@ Another glimpse of the future stolen by him; another ounce of his sanity stolen 
 
 Aleksander made sure to slip his gloves back on before leaving his cabin.
 
-\*
+<center>*</center>
+
 
 Freya Valthorne stood before the window of her cabin, frowning at the docks beyond. Limned by the honeyed glow of the setting sun, the silky chiffon of her nightgown silhouetted her figure, fingers of light filtering through and pooling on the wooden floor. A new low for her certainly, being dressed in her nightly garb at this hour not because of an early night, but because she had not bothered to change out of it. Freya’s patience stood on its last legs, and she could already feel those legs quivering, ready to buckle in a snap.
 
@@ -52,7 +53,8 @@ Now, as she eyed the stranger coasts of Ashazar, the foolishness of it all glare
 
 _This journey was supposed to change all of that,_ Freya thought, grinding her teeth. What a joke it had been, and she was the punchline.
 
-\*
+<center>*</center>
+
 
 Constance sat in the freight crate, wrapped in pitch darkness and hidden away from the world. The stale air inside filled her lungs, rancid with dust and dread. And as the last smoldering embers of adventure died out, bleakness descended upon her like a familiar veil. In the stillness only punctured by her own breathing, her limbs grew stiff, and her heart heavy with the burden of unbid farewells. Once more lost in time, Constance waited.
 

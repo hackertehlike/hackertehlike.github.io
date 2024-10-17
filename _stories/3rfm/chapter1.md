@@ -132,7 +132,8 @@ Then, as sudden as death, her world was flooded with noise and color, an entangl
 
 The Night Market was open, and she let it consume her.
 
-\*
+<center>*</center>
+
 
 Marinated in honey and enhanced with plums, the venison steamed, filling the diner with its enticing aromas. As Irena stepped through the lime-green double doors of the diner, her stomach grumbled, reminding her of her hunger.
 

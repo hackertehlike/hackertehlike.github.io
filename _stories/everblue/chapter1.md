@@ -135,7 +135,8 @@ Priscilla winked, the oily light glinting off her grin, and the lock rattled as 
 
 With that, Constance disappeared into the dark of the coming night.
 
-\*
+<center>*</center>
+
 
 The sign in front of Gus’s shop swung softly in the wind, lamplight shifting on the carved brass. Her cloak rippling in the same wind, Constance stood before the door, unusual in her stillness as all around her the city exchanged crowds, moving about her like a river around an islet.
 

@@ -65,7 +65,8 @@ The hoe fell again, this time catching him on the stomach. The pain carved throu
 
 And then the hoe fell on him once more, sending him hurtling through darkness.
 
-\*
+<center>*</center>
+
 
 Wilke Grosche was yanked out of his sleep, sweat gathering in the valleys of his face.
 

@@ -40,7 +40,8 @@ Power burning through, San nudged the ship through the opening Jongho left for h
 
 And the world turned upside down.
 
-\*
+<center>*</center>
+
 
 The angel Vedriel hated prawns, and her day was bit by bit going worse for it.
 
@@ -88,7 +89,8 @@ The cardinal’s gaze told her he had not found her response very appropriate or
 
 Caeso Lurio chewed, an appraising look on his youthful face, before turning back to his plate with an amused yet unimpressed smile. “Oratory is a subtle art, Miss Caravaglio, and I commend your artistry. Unfortunately, my master in his _wisdom_ was quite clear and precise with his wording; and he left no loops for me to hop through. I have been instructed to receive you and to hear you out, but to accept no less than a pledge for a formal apology to be delivered at the next council. It is with much regret that I must turn you down; but unless you are ready to make that pledge, I suggest we enjoy the lovely day and the lovelier company before I accompany you back to the grand entrance.” Then, with a satisfied smile, he reached for the gilt samovar at the center of the table. “Now, how about tea?”
 
-\*
+<center>*</center>
+
 
 From the darkness erupted the bright red glare of fury.
 
