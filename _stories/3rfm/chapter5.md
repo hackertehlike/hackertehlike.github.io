@@ -170,7 +170,7 @@ Irena smiled. “Do you want to bet on that, or have you had enough of my bets?�
 
 “Here, of course; where else?”
 
-“So you’re not some princess from a small kingdom, then?”
+“You are not some princess from a small kingdom, then?”
 
 _He’s trying to glean information about my past,_ Irena thought, the thought unpleasantly sobering. _I suppose I should thank you, Istikbal, for my inability to betray information._
 
