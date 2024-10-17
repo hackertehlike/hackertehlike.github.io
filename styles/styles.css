@@ -270,6 +270,10 @@ footer {
     background-color: #444;
 }
 
+#funModal .modal-content {
+    width: 600px; /* Adjust the width as per your requirement */
+}
+
 /* ======================================
    COLLAPSIBLE CHAPTER STYLES
    ====================================== */

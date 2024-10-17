@@ -89,7 +89,7 @@ And she was right, after a fashion. Whatever the safe contained, Constance doubt
 
 After all, money was easy to come by – a sly hand, a loaded die, a rigged deck of cards; and you got yourself a full belly, a new jacket, and a new bed to wake up on that you didn’t quite remember going back to the night before.
 
-But then Kress had risen from his chair, stood on it, and raised his glass of top-shelf brandy in the air as he spoke, looking entirely too out of place in his tailored waistcoat and trousers. “_For a last hurrah, then. An ode to you, dear Constance. An ode to_ us_.”_
+But then Kress had risen from his chair, stood on it, and raised his glass of top-shelf brandy in the air as he spoke, looking entirely too out of place in his tailored waistcoat and trousers. “_For a last hurrah, then. An ode to you, dear Constance. An ode to_ us.”
 
 And of course, it had been difficult to argue with that.
 
