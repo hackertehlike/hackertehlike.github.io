@@ -26,7 +26,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const timeString = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
             const dateString = now.toLocaleDateString([], { year: 'numeric', month: 'short', day: '2-digit' });
 
-            // Ensure the clock elements are available before updating
             const timeElement = document.querySelector('.clock .time');
             const dateElement = document.querySelector('.clock .date');
             if (timeElement && dateElement) {
@@ -34,40 +33,28 @@ document.addEventListener('DOMContentLoaded', () => {
                 dateElement.textContent = dateString;
             }
         };
-
-        // Call the clock function once initially and set it to update every second
         updateClock();
         setInterval(updateClock, 500);
 
-        // Set custom scrolling text based on the data-scrolling-text attribute in the body tag
         const scrollingTextElement = document.querySelector('.scrolling-text');
         if (scrollingTextElement) {
-            console.log("Scrolling text element found");
-
-            const defaultText = "* welcome to my website * please stand by * this website is under construction * " +
-                "i'm doing my best okay * no seriously * this isn't as easy as it looks * so i made this website so you can see what i've been up to *";
-
+            const defaultText = "* welcome to my website * please stand by * this website is under construction * ...";
             const customText = document.body.getAttribute('data-scrolling-text') || defaultText;
             scrollingTextElement.textContent = customText;
 
-            // Set the scroll duration based on the text length
             const textLength = customText.length;
             const scrollDuration = textLength * 0.4; // Adjust this factor to control the speed
-
-            // Update the scrolling animation duration dynamically
             scrollingTextElement.style.animation = `scroll ${scrollDuration}s linear infinite`;
-        } else {
-            console.error("Scrolling text element not found");
         }
     }
 
     function injectFooterStyles() {
         console.log("Injecting footer styles");
-
+    
         const footerStyles = `
             @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
-
+    
             body {
                 background-color: #FFC0CB;
                 font-family: 'Pixelify Sans', Courier, monospace;
@@ -75,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 font-size: 18px;
                 cursor: url('/icons/cursor.png'), auto;
             }
-
+    
             .menu-button {
                 background-color: #d3cbc4;
                 border: none;
@@ -89,11 +76,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 border-bottom: 2px solid gray;
                 transition: background-color 0.3s;
             }
-
+    
             .menu-button:hover {
                 background-color: #bababa;
             }
-
+    
             .footer {
                 display: flex;
                 justify-content: space-between;
@@ -103,95 +90,92 @@ document.addEventListener('DOMContentLoaded', () => {
                 position: fixed;
                 bottom: 0;
                 width: 100%;
+                z-index: 1000;
             }
-
-            .status-bar {
-                overflow: hidden;
-                width: 800px;
-                display: flex;
+    
+            .status-bar, .scrolling-text, .clock {
+                font-family: 'Press Start 2P', Courier, monospace;
             }
-
+    
             .scrolling-text {
                 white-space: nowrap;
                 display: inline-block;
                 animation: scroll 150s linear infinite;
-                font-family: 'Press Start 2P', Courier, monospace;
                 font-size: 16px;
                 color: #000;
             }
-
+    
             @keyframes scroll {
-                0% {
-                    transform: translateX(5%);
-                }
-                100% {
-                    transform: translateX(-100%);
-                }
+                0% { transform: translateX(5%); }
+                100% { transform: translateX(-100%); }
             }
-
+    
             .clock {
                 display: flex;
                 align-items: center;
                 margin-right: 20px;
             }
-
+    
             .separator {
                 margin: 0 10px;
-                font-family: 'Press Start 2P', Courier, monospace;
                 font-size: 18px;
             }
-
+    
             .clock .date, .clock .time {
-                font-family: 'Press Start 2P', Courier, monospace;
                 font-size: 16px;
                 margin-left: 10px;
             }
-
-            .clock-icon {
-                width: 20px;
-            }
             
+            .clock-icon {
+                width: 20px;  // You can reduce this size further if needed
+                height: auto; // Maintain aspect ratio
+                vertical-align: middle; // Aligns the icon with the surrounding text
+            }
+
+    
+            /* Responsive adjustments */
+            @media screen and (max-width: 768px) {
+                .menu-button {
+                    font-size: 12px; /* Smaller font size */
+                    padding: 6px 12px; /* Adjust padding */
+                }
+    
+                .scrolling-text {
+                    font-size: 12px; /* Smaller font size */
+                    animation: scroll 120s linear infinite; /* Faster scroll to fit smaller text */
+                }
+    
+                .footer {
+                    flex-direction: column; /* Stack elements vertically */
+                    padding: 5px;
+                }
+    
+                .clock {
+                    margin-bottom: 5px; /* Space between clock and other elements */
+                }
+            }
+    
             @media screen and (max-width: 480px) {
-            /* Shrink the menu button significantly */
-            .menu-button {
-                font-size: 10px; /* Reduce font size */
-                padding: 4px 8px; /* Smaller padding */
-                width: auto; /* Make sure the button adjusts to the content size */
+                .menu-button {
+                    font-size: 10px; /* Even smaller font size */
+                    padding: 5px 10px; /* Further reduce padding */
+                }
+    
+                .scrolling-text {
+                    font-size: 10px; /* Reduce text size further */
+                    animation: scroll 100s linear infinite; /* Adjust scrolling speed */
+                }
+    
+                .footer {
+                    padding: 5px;
+                    justify-content: center; /* Center everything */
+                }
             }
-
-            /* Shrink the footer bar for phone displays */
-            .footer {
-                padding: 5px; /* Reduce padding around the footer */
-                justify-content: center; /* Center align items to save space */
-                flex-direction: column; /* Stack items vertically on small screens */
-            }
-
-            /* Shrink the status bar and scrolling text */
-            .status-bar {
-                width: 100%; /* Full width of the screen */
-                overflow: hidden; /* Prevent horizontal scrolling */
-                font-size: 12px; /* Smaller font for scrolling text */
-            }
-
-            .scrolling-text {
-                font-size: 12px; /* Decrease font size for smaller screens */
-                animation: scroll 100s linear infinite; /* Adjust scroll speed for smaller screens */
-            }
-
-            /* Clock styling adjustments */
-            .clock {
-                margin-right: 10px; /* Reduce margin on smaller screens */
-            }
-
-            .clock .date, .clock .time {
-                font-size: 12px; /* Reduce font size for the clock elements */
-            }
-        }
-
         `;
-
+    
         const styleElement = document.createElement('style');
         styleElement.innerHTML = footerStyles;
         document.head.appendChild(styleElement);
     }
+    
 });
