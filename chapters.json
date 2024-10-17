@@ -10,6 +10,14 @@
             ]
         },
         {
+            "title": "Hell, Heaven & High Water",
+            "slug": "destiny",
+            "chapters": [
+                { "title": "Prologue", "url": "/stories/destiny/prologue.html" },
+                { "title": "Chapter 1", "url": "/stories/destiny/chapter1.html" }
+            ]
+        },
+        {
             "title": "Three Rules for Murder",
             "slug": "3rfm",
             "chapters": [
@@ -18,14 +26,6 @@
                 { "title": "Chapter 3: Bargains", "url": "/stories/3rfm/chapter3.html" },
                 { "title": "Chapter 4: Shards of the Night", "url": "/stories/3rfm/chapter4.html" },
                 { "title": "Chapter 5: Waltzes and Whispers", "url": "/stories/3rfm/chapter5.html" }
-            ]
-        },
-        {
-            "title": "Hell, Heaven and High Water",
-            "slug": "destiny",
-            "chapters": [
-                { "title": "Prologue", "url": "/stories/destiny/prologue.html" },
-                { "title": "Chapter 1", "url": "/stories/destiny/chapter1.html" }
             ]
         },
         {

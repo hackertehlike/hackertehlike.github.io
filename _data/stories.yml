@@ -25,7 +25,7 @@ stories:
       - title: "Chapter 1"
         file: "/stories/wilkegrosche/chapter1.md"
 
-  - title: "Hell, Heaven and High Water"
+  - title: "Hell, Heaven & High Water"
     slug: "destiny"
     chapters:
       - title: "Prologue"
