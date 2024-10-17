@@ -81,6 +81,7 @@ body {
     border-right: 2px solid gray;
     border-bottom: 2px solid gray;
     transition: background-color 0.3s;
+    margin-right: 10px;
 }
 
 @keyframes scroll {
@@ -94,19 +95,21 @@ body {
 
 footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color: #d3cbc4;
     padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
+
 }
 
 .status-bar {
     overflow: hidden;
     width: 800px;
     display: flex;
+    flex: 1;
 }
 
 .scrolling-text {
@@ -216,6 +219,7 @@ footer {
 }
 
 
+
 /* Modal Body with Scroll */
 .modal-body {
     padding: 15px;
@@ -224,6 +228,7 @@ footer {
     box-shadow: inset 2px 2px 0px #fff, inset -2px -2px 0px #444; /* Softer inset shadows for body for a slight sunken effect */
     max-height: 50vh; /* Set the maximum height for the body */
     overflow-y: auto; /* Add vertical scroll for the modal body */
+    display: flex;
 }
 
 .modal-body ul {
@@ -379,6 +384,7 @@ footer {
     footer {
         flex-direction: column;
         padding: 10px;
+
     }
 
     .modal-content {

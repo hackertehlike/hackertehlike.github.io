@@ -71,10 +71,6 @@ document.addEventListener('DOMContentLoaded', function () {
         document.querySelector('.clock .date').textContent = dateString;
     }
 
-    // Update time and date every 60 seconds
-    setInterval(updateTimeAndDate, 60000);
-    updateTimeAndDate();
-
     // Fetch the chapter data from the JSON file for writing modal
     function fetchChapters() {
         console.log("Fetching chapters...");
