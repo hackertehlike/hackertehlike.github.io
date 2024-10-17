@@ -61,7 +61,7 @@ The hoe fell again, this time catching him on the stomach. The pain carved throu
 
 “Stop!” he gasped, coughing up more blood. “Please… stop…”
 
-“Oh my sweet Wilke,” the hag cooed. “Now the real nightmare begins.”
+“Oh, my sweet Wilke,” the hag cooed. “Now the real nightmare begins.”
 
 And then the hoe fell on him once more, sending him hurtling through darkness.
 
@@ -86,6 +86,6 @@ He’d only just passed the mirror when he stopped short.
 
 His eyes strayed back to the spot they had only grazed in passing a second ago. Wilke almost fell over, losing his footing at the sight; he clambered up dizzily, gross disbelief sparking into life in his gaze as he inched closer to the mirror, steps shaking.
 
-There, amid an exact replica of his room, stood a midget, all stocky and slimy, staring back at him with eyes that he had only seen in the mirror all these years.
+There, amid an exact replica of his room, stood a human-sized slug, stocky, slimy, staring back at him with eyes that he had only seen in the mirror all these years.
 
-“Oh my sweet Wilke,” the hag echoed in his mind. “Now the real nightmare begins.”
+“Oh, my sweet Wilke,” the hag echoed in his mind. “Now the real nightmare begins.”
