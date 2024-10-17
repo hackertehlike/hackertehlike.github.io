@@ -107,3 +107,44 @@
     background-color: #444; /* Darken background on hover */
     color: #fff; /* Change text color to white on hover */
 }
+
+/* Tooltip styling */
+.icon {
+    position: relative; /* Position relative to position the tooltip */
+}
+
+.tooltip {
+    visibility: hidden; /* Initially hidden */
+    width: 300px; /* Make the box a bit bigger */
+    background-color: #ffe600; /* Yellow background for retro look */
+    color: #000; /* Black text color */
+    text-align: center;
+    border-radius: 2px;
+    padding: 10px; /* Add padding for a more spacious look */
+    position: absolute;
+    z-index: 10;
+    top: 50%; /* Align vertically to the middle of the icon */
+    left: 110%; /* Position to the right of the icon */
+    transform: translateY(-50%); /* Center the tooltip vertically */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    font-family: 'Pixelify Sans', Courier, monospace; /* Change to Pixelify Sans */
+    font-size: 20px; /* Adjust font size for better readability */
+}
+
+/* Arrow pointing to the icon */
+.tooltip::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%; /* Position the arrow to the left edge of the tooltip */
+    margin-top: -5px; /* Center the arrow vertically */
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent #ffe600 transparent transparent; /* Arrow pointing left */
+}
+
+.icon:hover .tooltip {
+    visibility: visible; /* Show the tooltip on hover */
+    opacity: 1;
+    transition: opacity 0.3s; /* Smooth fade-in effect */
+}
