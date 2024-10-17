@@ -57,16 +57,9 @@ document.addEventListener('DOMContentLoaded', () => {
             @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
     
-            body {
-                background-color: #FFC0CB;
-                font-family: 'Pixelify Sans', Courier, monospace;
-                color: #000;
-                font-size: 18px;
-                cursor: url('/icons/cursor.png'), auto;
-            }
-    
+            
             .menu-button {
-                background-color: #d3cbc4;
+                background-color: #d3d3d3;
                 border: none;
                 font-family: 'Press Start 2P', Courier, monospace;
                 font-size: 16px !important;
@@ -77,6 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 border-right: 2px solid gray;
                 border-bottom: 2px solid gray;
                 transition: background-color 0.3s;
+                margin-right: 10 px;
             }
     
             .menu-button:hover {
@@ -87,14 +81,22 @@ document.addEventListener('DOMContentLoaded', () => {
                 display: flex;
                 justify-content: space-between;
                 align-items: center;
-                background-color: #d3cbc4;
+                background-color: #d3d3d3;
                 padding: 10px;
                 position: fixed;
                 bottom: 0;
                 width: 100%;
                 z-index: 1000;
+                font-family: 'Press Start 2P', Courier, monospace;
             }
     
+            
+            .status-bar {
+                overflow: hidden;
+                width: 800px;
+                display: flex;
+            }
+
             .status-bar, .scrolling-text, .clock {
                 font-family: 'Press Start 2P', Courier, monospace;
             }
@@ -102,38 +104,43 @@ document.addEventListener('DOMContentLoaded', () => {
             .scrolling-text {
                 white-space: nowrap;
                 display: inline-block;
-                animation: scroll 150s linear infinite;
                 font-size: 16px;
                 color: #000;
+
             }
     
             @keyframes scroll {
-                0% { transform: translateX(5%); }
-                100% { transform: translateX(-100%); }
-            }
-    
-            .clock {
-                display: flex;
-                align-items: center;
-                margin-right: 20px;
+                0% {
+                    transform: translateX(6%);
+                }
+                100% {
+                    transform: translateX(-100%);
+                }
             }
     
             .separator {
                 margin: 0 10px;
                 font-size: 18px;
             }
-    
-            .clock .date, .clock .time {
-                font-size: 16px;
-                margin-left: 10px;
-            }
-            
-            .clock-icon {
-                width: 20px;  // You can reduce this size further if needed
-                height: auto; // Maintain aspect ratio
-                vertical-align: middle; // Aligns the icon with the surrounding text
+
+            .clock {
+                display: flex;
+                align-items: center;
+                margin-right: 20px; /* Right margin to space away from the container edge */
             }
 
+            .clock-icon {
+                width: 20px;
+                height: auto;
+                vertical-align: middle;
+                margin-right: 10px; /* Consistent right margin */
+            }
+
+            .clock .date, .clock .time {
+                font-family: 'Press Start 2P', Courier, monospace;
+                font-size: 15px;
+                margin-left: 10px; /* Left margin to space after the icon or previous element */
+            }
     
             /* Responsive adjustments */
             @media screen and (max-width: 768px) {
