@@ -5,6 +5,10 @@
    GENERAL STYLES
    ====================================== */
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -33,7 +37,7 @@ body {
 /* General icon container styling */
 .icon {
     margin: 20px;
-    text-align: center; /* Align text to be centered under the icon */
+    text-align: left; /* Align text to be centered under the icon */
     display: flex;
     flex-direction: column; /* Stack the icon and text vertically */
     align-items: center; /* Center the items horizontally */
@@ -45,7 +49,7 @@ body {
     color: #000;
     display: flex;
     flex-direction: column; /* Stack icon and text vertically */
-    align-items: center; /* Center icon and text */
+    align-items: left; /* Center icon and text */
     font-size: 20px; /* Pixelify Sans */
 }
 
