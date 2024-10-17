@@ -111,25 +111,25 @@ Irena whirled around to find Hyunjin standing three paces away, flanked by her s
 
 “Are you here alone?” Hyunjin asked. “Join us. We’re getting rice.”
 
-“Sure,” Irena said with a shrug. “How are you doing?”
+“Sure,” Irena said as she fell into step with the trio. “How are you?”
 
-“Yeah, pretty good,” Hyunjin said as they started toward the rice shop. “Excited?”
+“Not bad, not bad,” Hyunjin said as they started toward the rice shop. “Are you excited?”
 
 “For?”
 
 “Tonight, of course. What else?”
 
-“Oh, yeah, sure. Of course,” Irena said, flashing him a teasing smile. “Do you have a date?”
+“Oh, yes, sure. Of course,” said Irena, flashing him a teasing smile. “Do you have a date?”
 
 “No—”
 
-“He was going to ask Wonyoung, but Songhoon got there first,” said Yeji.
+“He was going to ask Wonyoung, but Songhoon got there first,” Yeji interjected.
 
-“Yeji!” Hyunjin protested, reddening at the cheeks as he elbowed his sister.
+“Yeji!” Hyunjin's protest accompanied his elbow which burrowed into his sister's side.
 
-“Oh, I won’t tell a soul,” Irena said. “But hold on, I thought Wonyoung rejected Songhoon’s invitation.”
+“I won’t tell a soul,” Irena said with a chuckle. “But I thought Wonyoung had rejected Songhoon’s invitation.”
 
-“She did, but she also said it was not because of Songhoon, but because she wants to go with her friends.”
+“She did reject him, but she also told Songhoon it wasn't about him; she just wants to go with her friends instead.”
 
 “It’s for the better, Hyun,” said Soobin. “You don’t want the ire of half of the Academy’s male population.”
 
@@ -143,23 +143,23 @@ Irena didn’t miss the softening buzz coming from Soobin’s direction, the sen
 
 “Yeji!” Soobin protested.
 
-Yeji shrugged. “It’s cute. Sorry. I’m going stag, though.”
+Yeji shrugged. “It’s cute. Sorry. I’m going alone, though.”
 
 “Ah,” Irena glanced over at her, donning all manner of nonchalance as she harkened to the whispers of Yeji’s mind. Not a single stray thread of thought escaped her mental fortress, leaving Irena with nothing. Her face betrayed nothing, perfectly in accord with her mind. “Me too.”
 
 _Don’t bring up Ryujin. Don’t bring up Ryujin. Don’t bring up Ryujin._
 
-“I heard there is a first-year who declared himself today,” Hyunjin cut in, answering her prayers, as he opened the door of the tiny box attached to their table. “Shrimp for you, Yeji, and chicken for Soob, right? What do you want, Irena?”
+“I heard there is a first-year who declared himself today,” Hyunjin cut in, answering her prayers, as he opened the door of the tiny box attached to their table. “Shrimp for you, Yeji, and chicken for Soob? What do you want, Irena?”
 
 “Plain rice, please,” Irena said. “Oh? It’s not even the ninth bell. He should have waited a couple more hours if he wanted the news to get lost amid ball preparations.”
 
 “Yes, so what do we think?” Yeji asked. “A Jungkook, or a halfwit?”
 
-Every year there were a few first-years who dared, fancying themselves capable of surmounting the First Trials and the Quasars at the same time. Whether prodigies or idiots, though more likely to be the latter, there would be no way to tell until the dust settled.
+Every year there were a few first-years who dared to declare themselves, fancying themselves capable of surmounting the First Trials and the Quasars at the same time. Whether prodigies or idiots, more likely to be the latter, there would be no way to tell until the dust settled.
 
 “Halfwit — that’s my bet. I’ve seen plenty of those strutting around; Jungkook was something else. I still thank my stars he did it in our first year. I remember sitting in class the first week and being terrified whenever he asked a question and I did not even understand a word of it. I don’t know if I would have survived my Trials if he’d done it last year.”
 
-“Didn’t you win every battle?” Yeji asked. “You would have, Hyun. The Trials only cull the weak.”
+“Did you not win every battle?” Yeji asked. “You would have, Hyun. The Trials only cull the weak.”
 
 Irena felt her mind go still before it started reeling. At once she dropped the portcullis on her thoughts, exerting her willpower down to its last dregs to keep herself from glancing over at Yeji. If her brother’s success was any measure to judge by, Hwang Yeji was a threat Irena did not wish to come up against, and the flash of silver in her words, she hoped, was no blade’s edge.
 
