@@ -1,6 +1,6 @@
 ---
 layout: chapter-template
-title: "Chapter 4"
+title: "Chapter 4: Shards of the Night"
 story_slug: "3rfm"
 story: "Three Rules for Murder"
 chapter: 4

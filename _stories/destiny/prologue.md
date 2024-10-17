@@ -50,9 +50,9 @@ He turned to glance at the imposing structure over his muscled shoulder, a wonde
 
 “Have you decided, then?” he asked as he trained his attention back on the view beyond the gallery.
 
-“I have”, Dusk said. “And I would ask for your helping hand.”
+“I have,” Dusk said. “And I would ask for your helping hand.”
 
-“You have decided to meddle, after all, have you?”
+“So you have decided to meddle, after all, have you?”
 
 “I am hoping it doesn’t come to that. But yes. He will need guidance. And I owe him this, if not the world.”
 
