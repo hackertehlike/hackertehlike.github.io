@@ -92,17 +92,17 @@ The early morning air struck Irena like a wall of ice, snatching her away from h
 
 Irena turned in the direction of the voice, spotting Yuna jogging toward her, bangs stirring and shifting with the movement. She didn’t try to suppress her smile. “Hey, Yun.”
 
-“What are you up to? They’re serving venison at the diner, do you want to grab some? But we could go for the soup instead?”
+“They’re serving venison at the diner, do you want to grab some? Or we could go for the soup instead?”
 
 “I'm sorry, I don’t have time for lunch today. I’ll see you at dinner?”
 
 “Sounds good,” Yuna said, then seemed to hesitate for a second before adding, “Have you seen Hue, by the way?”
 
-“I haven’t today. Why? Do you need him for something?”
+“I haven’t. Why? Do you need him for something?”
 
 Irena did not miss the slightest speck of urgency in her friend’s headshake. “Not really. I just had a question I wanted to ask…”
 
-“I’ll let him know if I see him,” Irena said, feeling her mind reach out subtly for Yuna’s despite herself. It had become second nature to her, as bad as she was at finding anything. Yet, now, her mind’s hands could sense a slight prickle in Yuna’s aura, like a psychic hedgehog raising its spines against a predator – a predator like Irena. “Hey, I’ve got to run. I’ll see you tonight.”
+“I’ll let him know if I see him,” Irena said, feeling her mind reach out subtly for Yuna’s despite herself. It had become second nature to her, as bad as she was at finding anything. Yet, now, her mind’s hands could sense a slight prickle in Yuna’s aura, like a psychic hedgehog raising its spines against a predator – a predator like Irena. “Hey, I must run. I’ll see you tonight.”
 
 _What was that about?_ Irena thought as she turned away, setting off toward the Atheneum.
 
@@ -143,7 +143,7 @@ The other girl, Irena spotted sitting at an empty table. Aloof and reminiscent o
 
 “Sorry I’m late, Yun,” Irena said as she sat down across from her, draping her heavy cape over the empty chair beside. “Errands took longer than expected.”
 
-“No worries. I only arrived just now,” said Yuna.“How was your afternoon?”
+“No worries. I only arrived just now,” said Yuna. “How was your afternoon?”
 
 “Well…” Irena shrugged. “Errands, as I’ve said. Still had to sort out my ballgown.”
 

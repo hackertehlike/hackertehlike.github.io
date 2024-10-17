@@ -20,7 +20,7 @@ Irena stopped short before the archway to the left wing, wheeling on her heels t
 
 Irena smiled. “Hey, kid. You’re up early.”
 
-“Yeah, well…” He shrugged. “I won’t pass the Trials by dreaming.”
+“Yeah, well…” He shrugged. “I won’t pass the Trials by snoozing.”
 
 _You have no idea,_ Irena thought. “That’s the spirit. What are you working on?”
 
@@ -28,7 +28,7 @@ _You have no idea,_ Irena thought. “That’s the spirit. What are you working 
 
 “Riveting.”
 
-Jungwon chuckled. “Not a fan, huh? It’s not so bad.”
+Jungwon chuckled. “Not your favorite, is it? ...It’s not so bad.”
 
 “It’s better than knives being hurled at you on day two of the Academy, I’ll give you that.”
 
@@ -38,15 +38,15 @@ Jungwon chuckled. “Not a fan, huh? It’s not so bad.”
 
 “Heh, thanks. You’ve given me more useful information in our two conversations than I ever learned in six weeks of Magic Theory.”
 
-“That’ll happen.”
+“That will happen.”
 
 “Where are you headed? The Forge?”
 
-“Oh, uh, yeah, I just need to pick up some materials… But I’ll see you at the House, maybe?”
+“Oh, uh, yes, I just need to pick up some materials… But I’ll see you at the House, maybe?”
 
-Jungwon smiled, dimples showing. “Yeah, for sure. See you later.”
+Jungwon smiled, dimples showing. “For sure. See you later.”
 
-“Later, kiddo,” she said before disappearing with quick steps down into the Forge, the heat growing pressing, and then into the tunnels where a damp chill greeted her.
+“Later, kid,” she said before disappearing with quick steps down into the Forge, the heat growing pressing, and then into the tunnels where a damp chill greeted her.
 
 A half-hour later she stood before the shimmering curtain that separated The Night Market from the town of Fyeth Dorei. Beyond the pall, the deserted market shifted with a strange sense of motion, the silence that surrounded the place a mock, deceitful silence. It bubbled with unheard commotion lurking beneath the surface, enticing, promising. Irena closed her eyes, soaking in the lie. She readied herself for the onslaught of sound and motion. Then, with bated breath, she stepped through the boundary.
 
@@ -70,7 +70,7 @@ The shopkeep's head reared out of the stairwell, her fiddlehead fern hair bound 
 
 "Yes, thank you. And yourself?"
 
-"Same old, same old. Have you been liking your new shirt?"
+"Same old, same old... Have you been liking your new shirt?"
 
 "I haven't had the chance to wear it yet."
 

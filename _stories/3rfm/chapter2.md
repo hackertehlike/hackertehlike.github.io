@@ -129,7 +129,7 @@ Irena cocked her head at that. "I suppose not."
 
 Crackling fire infused the silence as he paused, pensive, and Irena felt her mind reach out to his. Tiredness would have lowered his defenses, making it easy to penetrate through the barriers of his already unguarded mind. But the mind-numbing exhaustion that wrapped around her like a leaden cloak extended to her imaginary limbs; trying to grasp his threads of thought was like trying to touch the clouds. "It was my uncle who noticed my powers. I was… twelve, perhaps thirteen. One day he took me to a…" he trailed off, and Irena saw hesitation cross his feline eyes if she didn't feel it mentally. "Well, I guess I'm not supposed to tell you that story. Anyhow. Soon after we were visited by two men who made sure this was kept under wraps. Nothing scary – only, they made my parents and uncle take some kind of oath. And I was told to wait until I was of age, to come here and begin my education. So… Here I am."
 
-"You're barely of age?” Irena asked. “You’ve got balls, kid.”
+"You're barely of age?” Irena blurted, her brows shooting up despite herself. “You’ve got balls, kid.”
 
 He shrugged. “I’m not that much younger than everyone. Besides, I’ve had way longer than most to grow into my power.”
 
@@ -145,7 +145,7 @@ Irena sighed, eyes unfocused. _Tips? Sell your soul to a goddess, I suppose._ Ev
 
 A rueful smile tugged at the edges of his lips. “More or less.”
 
-“Well. Good advice, but incomplete. I don’t know if you’ve heard about the Bangtan Brothers yet?”
+“Well. Good advice, but incomplete. I don’t know if you’ve heard about the Brethren yet?”
 
 “Oh, I’ve heard of them.”
 
@@ -161,7 +161,7 @@ She gave him another smile, trying to instill encouragement into it, despite the
 
 “But half of us are getting chopped still.”
 
-“True, but you seem like a smart one. You’ll figure it out. Besides… if worse comes to worst, you won’t even know it.”
+“True, but you seem like a smart one. You will figure it out. Besides… if worse comes to worst... you won’t even know it.”
 
 “Thanks,” he said, the same words from a moment ago now whet with sarcasm. “I appreciate it.”
 

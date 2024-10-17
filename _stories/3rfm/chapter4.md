@@ -107,13 +107,13 @@ _Pick something. It’s just breakfast._
 
 Irena whirled around to find Hyunjin standing three paces away, flanked by her sister, Yeji, and Soobin.
 
-“Ah, hey guys.”
+“Ah, hey.”
 
 “Are you here alone?” Hyunjin asked. “Join us. We’re getting rice.”
 
-“Uh, sure,” Irena said. “How are you doing?”
+“Sure,” Irena said with a shrug. “How are you doing?”
 
-“Yeah, pretty good,” Hyunjin said as they started toward the rice shop. “Are you excited?”
+“Yeah, pretty good,” Hyunjin said as they started toward the rice shop. “Excited?”
 
 “For?”
 
@@ -129,7 +129,7 @@ Irena whirled around to find Hyunjin standing three paces away, flanked by her s
 
 “Oh, I won’t tell a soul,” Irena said. “But hold on, I thought Wonyoung rejected Songhoon’s invitation.”
 
-“She did, but she also said it was not because of Songhoon but she just wants to go with her friends.”
+“She did, but she also said it was not because of Songhoon, but because she wants to go with her friends.”
 
 “It’s for the better, Hyun,” said Soobin. “You don’t want the ire of half of the Academy’s male population.”
 
