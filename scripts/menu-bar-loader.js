@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (customText) scrollingTextElement.textContent = customText; // Only update if attribute is present
     
             const textLength = scrollingTextElement.textContent.length;
-            const scrollDuration = textLength * 0.4; // Adjust this factor to control the speed
+            const scrollDuration = textLength * 0.1; // Adjust this factor to control the speed
             scrollingTextElement.style.animation = `scroll ${scrollDuration}s linear infinite`;
         }
     }
