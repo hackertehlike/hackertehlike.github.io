@@ -269,7 +269,7 @@ If only she could talk to Istikbal… She could surmise the intent behind Doyoun
 
 “Let me sweeten the deal for you, then,” Doyoung said with a smile that told her he was in on the joke, the only sort of smile Doyoung seemed capable of. “And what could be sweeter than love?”
 
-“You’re not about to offer to prostitute yourself, are you?” Irena said. “I mean, I’m flattered, but you should really ask someone else.”
+“You’re not about to offer to prostitute yourself, are you?” Irena asked. “I mean, I’m flattered, but you should really ask someone else.”
 
 “You are funny, Irena, which is why I like you. And I do like you, which is why I’m here.”
 
