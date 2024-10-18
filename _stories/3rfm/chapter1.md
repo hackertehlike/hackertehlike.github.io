@@ -96,7 +96,7 @@ Irena turned in the direction of the voice, spotting Yuna jogging toward her, ba
 
 “I'm sorry, I don’t have time for lunch today. I’ll see you at dinner?”
 
-“Sounds good,” Yuna said, then seemed to hesitate for a second before adding, “Have you seen Hue, by the way?”
+“Sounds good,” Yuna said. She seemed to hesitate for a second before adding, “Have you seen Hue, by the way?”
 
 “I haven’t. Why? Do you need him for something?”
 
@@ -110,9 +110,9 @@ The pavilion of the Atheneum welcomed her like a mother’s embrace, or at least
 
 The pavilion branched off in three directions. The library would be straight ahead, and the right-wing was occupied by bespoke rooms for reading and studying. Irena took the left path, heading off into the wing that hosted the Forge. The rooms upstairs in the left wing functioned as glorified storage cupboards, with doors upon doors that led to materials neatly sorted and inventoried for use downstairs, where the massive Forge dwelled.
 
-Irena did not stop to pick up materials, instead wending her way down the spiraling stairs sheathed in half-shadow. The Forge was a large space filled with tools and machinery, and several actual forges that had given the place its name. The glow of the Forge tinted the carved stone a brighter hue of purple at every step, and the stairs opened up to the subterranean cave buzzing and humming with magical energy, hearths roaring and spitting particolored embers, plumes of smoke in every shade dissolving into the rough, crystal-hewn ceiling. She removed her heavy cloak, sweat already beading on her face. A handful of students were working in the Forge, sleeves folded and shirts sticking to their backs, bare necks glistening with perspiration. A first-year student was frowning at a piece of paper by the alchemical station, curly hair pushed back by his goggles, while a pair of fourth-years worked a massive hearth glowing in turquoise.
+Irena did not stop to pick up materials, instead wending her way down the spiraling stairs sheathed in half-shadow. The Forge was a large space filled with tools and machinery, and several actual forges that had given the place its name. The glow of the Forge tinted the carved stone a brighter hue of purple at every step, and the stairs opened up to the subterranean cave buzzing and humming with magical energy, hearths roaring and spitting particolored embers, plumes of smoke in every shade dissolving into the rough, crystal-hewn ceiling. She removed her heavy cloak, sweat already beading on her face. A handful of students were working in the Forge, sleeves folded and shirts sticking to their backs, bare necks glistening with perspiration. A first-year student was frowning at a piece of paper by the alchemical station, curly hair pushed back by his goggles, while a pair of fourth-years worked a massive hearth glowing turquoise.
 
-No gazes followed as Irena turned in the opposite direction, following the narrow corridor into a cellar-like space with a rotting wooden door and some discarded bones. The door didn’t creak as it opened, though it didn’t close properly anymore after years of use. Beyond it lay more stairs —– a subterranean route leading all the way down to the mountain and into the town beneath. The sultry heat of the Forge didn’t reach far, and very soon Irena was pulling her cloak tight around her once more, hastening her steps to warm herself up.
+No gazes followed as Irena turned in the opposite direction, following the narrow corridor into a cellar-like space with a rotting wooden door and some discarded bones. The door didn’t creak as it opened, though it didn’t close properly anymore after years of use. Beyond it lay more stairs —– a subterranean route leading all the way down to the mountain and into the town beneath. The sultry heat of the Forge didn’t reach far, and soon Irena was pulling her cloak tight around her once more, hastening her steps to warm herself up.
 
 The tunnels were spaces of humidity and contemplation, with little else to occupy her as she wound her way down in the dim light of the sconces placed every ten steps, many of them decked by webs that cast shadow patterns on the earthen walls. These lights should have gone out decades, perhaps centuries ago — yet there was a lot about the Academy that should be that was not.
 
@@ -135,61 +135,63 @@ The Night Market was open, and she let it consume her.
 <center>*</center>
 
 
-Marinated in honey and enhanced with plums, the venison steamed, filling the diner with its enticing aromas. As Irena stepped through the lime-green double doors of the diner, her stomach grumbled, reminding her of her hunger.
+Marinated in honey and enhanced with plums, the venison steamed, filling the diner with its tempting aromas. As Irena stepped through the lime-green double doors of the diner, her stomach grumbled, reminding her of her hunger.
 
 Her return had been a mere half hour ago, and the dinner bells had already tolled by then. The din of chatter and cutlery enveloped her as her eyes roved to spot Yuna. About a good three hundred were having supper here presently; of the nineteen-hundred-odd students attending the Academy, some five hundred would be eating in the main refectory. Of the rest, a third were scattered among the other four dining halls. A sixth had already eaten, and another sixth would eat later. And the remaining faction would probably shove two sandwiches down their gullets in the middle of a training session and call it a day. The many cafeterias of the Academy were just another attestation to its affluence, which in turn was an attestation to its influence.
 
-The other girl, Irena spotted sitting at an empty table. Aloof and reminiscent of a porcelain doll, her large eyes skimmed the crowd, presumably looking for her. They caught Irena’s about a second later, and she smiled as she waved her friend over.
+The other girl, Irena spotted sitting at an empty table. Aloof and reminiscent of a porcelain doll, her large eyes skimmed the crowd. Looking for her, Irena presumed. It took them a mere second, and Yuna smiled as she waved her friend over.
 
 “Sorry I’m late, Yun,” Irena said as she sat down across from her, draping her heavy cape over the empty chair beside. “Errands took longer than expected.”
 
-“No worries. I only arrived just now,” said Yuna. “How was your afternoon?”
+“No trouble. I arrived only just now,” said Yuna. “How was your afternoon?”
 
-“Well…” Irena shrugged. “Errands, as I’ve said. Still had to sort out my ballgown.”
+“Well…” Irena shrugged. “Errands, as I’ve said. I still had to sort out my ballgown.”
+
+_And I should really do that some time,_ her mind added inwardly.
 
 Yuna’s eyes sparkled at that. “And how did that go?”
 
-“I’m pretty pleased with what I have. Do you have one yet?”
+“I’m pretty pleased. Do you have one yet?”
 
 “I bought mine as soon as I found out about the ball.”
 
-Irena nodded absently, her focus straying to the tiny compartment affixed to their table instead. It was a small box of metal with a bell, a dial, and a glass door, a facsimile of which was present at every table. She turned its tiny brass dial to the number ‘2’, and soon enough the bell chimed, two steaming dishes of venison waiting for them in the lit dumbwaiter.
+Irena nodded absently, her focus straying to the tiny compartment affixed to their table. It was a small box of metal, with a bell, a dial, and a glass door, a facsimile of which was present at every table. She turned its tiny brass dial to the number ‘2’, and soon enough the bell chimed, two steaming dishes of venison waiting for them in the lit dumbwaiter.
 
-“I wonder…” the younger girl trailed off, then seemed to reconsider what she would say as she picked up her utensils. “Did you have a date to the ball last year?”
+“I wonder…” the younger girl trailed off, then seemed to reconsider what she would say as she picked up her fork. She met Irena's nudging gaze, a sigh introducing her question. “Did you have a date to the ball last year?”
 
-Irena felt her expression darken, but didn’t try to stop it. “I did.”
+Irena felt her expression darken, but did not bother to stop it. “I did.”
 
 “What happened?”
 
-Irena returned her friend’s wary gaze, hesitating. Yuna was a year younger, which meant she wasn’t playing the Quasar game; and she would never play it against her. While that didn’t mean word didn’t travel through those outside of the Quasar Trials, Irena couldn’t see how this could be used against her now even if it did. It hadn’t exactly been a secret, besides. “I went with Ryujin. It… didn’t end well, suffice to say.”
+Irena returned her friend’s wary regard, hesitating. Yuna was a year younger, which meant she wasn’t playing the Quasar game; and she would never play it against her. While that didn’t mean word didn’t travel through those outside of the Quasar Trials, Irena couldn’t see how this could be used against her now even if it did. It hadn’t exactly been a secret, besides. “I went with Ryujin. It… didn’t end well, suffice to say.”
 
 “Ryujin? Shin Ryujin?”
 
 Irena only nodded, praying to Istikbal for Yuna to drop the subject.
 
-“Do you ever wonder what they do?” Yuna asked, answering her prayers.
+“Do you ever wonder what they do?” Yuna asked.
 
 “What _they_ do?”
 
-“The others,” Yuna said. “You know. The other students, who have kept their powers in the dark. Do you wonder what they can do?”
+“The others,” Yuna continued. “You know. The other students. Your classmates. Do you wonder what they can do?”
 
-Irena shrugged, relief surging inside her as the topic shifted away from Ryujin. Despite herself, she felt her mind reach out and grasp for threads in Yuna’s aura. “Not really.”
+Irena shrugged, relief surging inside her as the topic shifted away from Ryujin. Once more she felt her mind reach out on its own volition, grasping for threads in Yuna’s aura. “Not really.”
 
-The Academy itself did not forbid its students to divulge their talents by any means; it was rather a natural outcome of the Quasar Trials that they did not expose their capabilities to others. After all, the Quasar Trials were but a game — a cruel, exacting one — but a game nonetheless. And games were won by playing one’s hand.
+The Academy itself did not forbid its students to divulge their talents, by any means; it was rather a natural outcome of the Quasar Trials that they did not expose their capabilities to others. After all, the Quasar Trials were but a game — a cruel, exacting one — but a game nonetheless. And games were won by playing one’s hand.
 
 Thus it was that the students of the Academy kept others in the dark about their talents, be it many or few, until the start of the Quasar Trials. Speculation, though, was commonplace.
 
-“I find it best to focus on my own capabilities,” Irena continued_. My own capabilities, my ass._ Her entire shtick was to navigate minds, a task that was as far removed from focusing on herself alone as could be. “And especially for you, Yuna, it doesn’t matter what the others can or can’t do.”
+“I find it best to focus on my own capabilities,” Irena continued. _My own capabilities, my ass._  Navigating minds - this was her power, her purpose, her ticket to the Academ - and that was a task as far removed from focusing on herself alone as could be. “And especially for you, Yuna, it doesn’t matter what the others can or can’t do.”
 
 “I know that. But… still. Aren’t you the least bit curious?”
 
 “I suppose. Then again, we'll find out soon enough…”
 
-“You know, ever since I’ve come I’ve been thinking… I mean, I know what is at stake here. But I don’t want all my relationships for the next four years to be…” Yuna made a vague hand gesture, as though she was trying to catch the word that kept eluding her. “Transactional.”
+“Ever since my arrival here, I have been thinking… I mean, I know what is at stake here. But I don’t want all my relationships for the next four years to be…” Yuna made a vague hand gesture, as though she was trying to catch the word that kept eluding her. “Transactional.”
 
 Irena leaned closer to the girl, intensity leaking into her tone. “This is the game, Yun. This is what you signed up for. What we all signed up for.”
 
-“So that’s what this is now? A transaction?”
+“So that is what this is now? A transaction?”
 
 “Of course not, Yun.”
 
@@ -205,25 +207,25 @@ Irena’s eyes widened slightly, her hands going still mid-slice. “You can’t
 
 Irena watched her friend for some time before turning back to her venison, a new bearing donned. “Have you found Hue?”
 
-And just like that, the hedgehog spines were raised again, prickling Irena’s psychic hands. “I have. I just had to ask him something about the Operations Practical assignment,” Yuna said much too quickly, then paused. “Are you trying to change the subject?”
+And just like that, the hedgehog spines were raised again, prickling Irena’s psychic hands. “I have. I just had to ask him something about the Operations Practical assignment,” Yuna said too quickly. She paused. “Are you trying to change the subject?”
 
-“I am succeeding in changing the subject,” Irena said. “Operations deadlines are always on odd Justice Days and the new one doesn’t come out until the following Unity Day. Which means the deadline was already last Justice Day and you haven’t received the new assignment yet.”
+“I am succeeding in changing the subject,” Irena retorted. “Operations deadlines are always on odd Justice Days and the new one doesn’t come out until the following Unity Day. Which means the deadline was already last Justice Day and you haven’t yet received the new assignment.”
 
 “I had a question about the previous one.”
 
 “If you say so.”
 
-They dined in discomfited silence for a spell before Yuna broke it again. “And this year? Are you going with anyone?”
+They dined in uneasy silence for a spell before Yuna's voice punctured it again. “And this year? Are you going with anyone?”
 
 “To the ball? No,” said Irena, cringing inwardly as she replayed her delivery in her mind. After an entire year at the Academy, she still had difficulty controlling her tone. Despite her best efforts, her feelings had a tendency to burst out of her otherwise flat tenor. “What about you?”
 
-“Me neither,” Yuna said. “I had a few people ask but…” She shrugged.
+“Me neither,” Yuna said. “I've had a few people ask but…” She shrugged.
 
-“You don’t need a date to enjoy the ball,” said Irena, a mien of sympathy overtaking her expression. “It’s overwhelming enough as it is.”
+“You don’t need a date to enjoy the ball,” said Irena, an expression of sympathy overtaking her features. “It’s overwhelming enough as it is.”
 
-“Yeah, I guess…”
+“I suppose…”
 
-“Look. I don’t want to sound like that person, but maybe it’s better that you don’t have a date. The Trials are no joke, Yun.”
+“Look. I don’t want to sound like that person, Yun, but maybe it’s better that you don’t have a date. The Trials are no joke.”
 
 “I know that, don’t I? I’m not looking to get married, Irena. I just thought…”
 
@@ -231,7 +233,7 @@ Irena raised her brows.
 
 “I just thought it would be fun.”
 
-“You could ask someone yourself, you know.”
+Irena chuckled, leaning back in her seat. “You could ask someone yourself, you know.”
 
 “Oh, I don’t know. I don’t think I could. Besides, it’s not like I have someone in mind.”
 
@@ -245,6 +247,6 @@ Irena raised her brows.
 
 “‘Send posthaste the royal ring, and I shall beg for her hand in marriage at once,’” Irena joined in.
 
-Yuna laughed, and Irena sensed the hedgehog spines deflate slightly. "I've never been to a ball before," the younger girl said, poking her dinner. "I guess I want it to be like the ones you grow up hearing about… like in the stories. And I know that's stupid of me, but I still can't help but feel disappointed. Underwhelmed, somehow."
+Laughter escaped Yuna's perfect lips, and Irena sensed the hedgehog spines deflate slightly. "I've never been to a ball before," the younger girl said, poking her dinner. "I guess, I want it to be one like those one hears about growing up… like those enchanted dances from all the fairytales. And I know that's folly, but I still can't help feel disappointed. Underwhelmed, somehow."
 
-"Then you're in luck. " Darkness oozed from every word, and as the edges of Irena's lips curled upward, it clouded her mind like smoke, the bitterness of irony almost tangible on the tip of her tongue. "I can't tell you if you'll find your fairytale evening at the ball, Yun. But underwhelmed? Never. The ball… The ball is something." she said. Then, she shivered. "It's always something."
+"Then you're in luck. " Darkness oozed from every word, and as the edges of Irena's lips curled upward, it clouded her mind like smoke, the bitterness of irony almost tangible on the tip of her tongue. "I can't tell you if you'll find your fairytale evening at the ball, Yun. But underwhelmed? Never. The ball… The ball is something." she said. She shivered. "It's always something."
