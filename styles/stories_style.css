@@ -104,11 +104,6 @@ h1#chapter-title {
     .copyright {
         font-size: 0.9em; /* Adjust copyright text for smaller screens */
     }
-
-    .menu-button {
-        font-size: 14px; /* Smaller font size for tablets */
-        padding: 8px 16px; /* Reduce padding to match the smaller font */
-    }
 }
 
 @media screen and (max-width: 480px) {
@@ -132,10 +127,5 @@ h1#chapter-title {
 
     .copyright {
         font-size: 0.8em; /* Reduce copyright text further for very small screens */
-    }
-
-    .menu-button {
-        font-size: 12px; /* Reduce font size for mobile displays */
-        padding: 6px 12px; /* Reduce padding to keep it compact */
     }
 }
