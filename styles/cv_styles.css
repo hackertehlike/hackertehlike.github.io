@@ -16,9 +16,10 @@ body {
 }
 
 .home-button {
-    position: absolute; /* Set home button to be positioned absolutely */
-    top: 40px; /* Adjust top position as needed */
-    left: 40px; /* Adjust left position as needed */
+
+    position: absolute;
+    top: 70px; /* Adjust top position as needed */
+    left: 200px; /* Adjust left position as needed */
     z-index: 10; /* Keep it on top of other elements */
 }
 
@@ -111,4 +112,87 @@ strong {
     width: 30%;
     font-size: 14px;
     color: #555;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+    .home-button {
+        left: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    header {
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+    }
+
+    .profile-info h1 {
+        font-size: 28px;
+    }
+
+    .home-button {
+        top: 50px;
+        left: 20px;
+    }
+
+    .home-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    .date-right {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    header {
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+    }
+
+    .profile-info h1 {
+        font-size: 24px;
+    }
+
+    .home-button {
+        top: 40px;
+        left: 10px;
+    }
+
+    .home-icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    ul li {
+        font-size: 14px;
+    }
+
+    .date-right {
+        font-size: 12px;
+    }
 }

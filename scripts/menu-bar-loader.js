@@ -48,8 +48,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
         
-
-
     function injectFooterStyles() {
         console.log("Injecting footer styles");
     
@@ -62,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 background-color: #d3d3d3;
                 border: none;
                 font-family: 'Press Start 2P', Courier, monospace;
-                font-size: 16px !important;
+                font-size: 16px;
                 padding: 10px 20px;
                 cursor: url('/icons/cursor.png'), auto;
                 border-left: 2px solid white;
@@ -96,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 width: 800px;
                 display: flex;
             }
-
+    
             .status-bar, .scrolling-text, .clock {
                 font-family: 'Press Start 2P', Courier, monospace;
             }
@@ -106,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 display: inline-block;
                 font-size: 16px;
                 color: #000;
-
+    
             }
     
             @keyframes scroll {
@@ -122,20 +120,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 margin: 0 10px;
                 font-size: 18px;
             }
-
+    
             .clock {
                 display: flex;
                 align-items: center;
                 margin-right: 20px; /* Right margin to space away from the container edge */
             }
-
+    
             .clock-icon {
                 width: 20px;
                 height: auto;
                 vertical-align: middle;
                 margin-right: 10px; /* Consistent right margin */
             }
-
+    
             .clock .date, .clock .time {
                 font-family: 'Press Start 2P', Courier, monospace;
                 font-size: 15px;
@@ -148,43 +146,51 @@ document.addEventListener('DOMContentLoaded', () => {
                     font-size: 12px; /* Smaller font size */
                     padding: 6px 12px; /* Adjust padding */
                 }
-    
+
                 .scrolling-text {
                     font-size: 12px; /* Smaller font size */
-                    animation: scroll 120s linear infinite; /* Faster scroll to fit smaller text */
+                    animation: scroll 120s linear infinite; /* Adjust scrolling speed */
                 }
-    
+
                 .footer {
-                    flex-direction: column; /* Stack elements vertically */
+                    flex-direction: row; /* Keep elements in a single row */
                     padding: 5px;
+                    justify-content: space-between; /* Maintain spacing between elements */
+                    align-items: center; /* Align items centrally in the footer */
                 }
-    
+
                 .clock {
-                    margin-bottom: 5px; /* Space between clock and other elements */
+                    margin-bottom: 0px; /* Remove additional bottom margin */
                 }
             }
-    
+
             @media screen and (max-width: 480px) {
                 .menu-button {
                     font-size: 10px; /* Even smaller font size */
                     padding: 5px 10px; /* Further reduce padding */
                 }
-    
+
                 .scrolling-text {
                     font-size: 10px; /* Reduce text size further */
                     animation: scroll 100s linear infinite; /* Adjust scrolling speed */
                 }
-    
+
                 .footer {
-                    padding: 5px;
-                    justify-content: center; /* Center everything */
+                    padding: 3px; /* Slightly reduce padding for tighter fit */
+                    justify-content: space-around; /* Adjust spacing to avoid cramping */
+                }
+
+                .clock .date, .clock .time {
+                    font-size: 8px; /* Smaller font size for date and time */
                 }
             }
+
         `;
     
         const styleElement = document.createElement('style');
         styleElement.innerHTML = footerStyles;
         document.head.appendChild(styleElement);
     }
+    
     
 });
