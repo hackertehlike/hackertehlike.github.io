@@ -218,9 +218,9 @@ Deed rolled her eyes and turned her back on him to stir whatever concoction was 
 
 The corridor, which a moment ago had blown thoughts of verdant glades and blooming valleys into Imbroglio’s mind now reeked of mold and pathos. He frowned at the sticky residue the jar left on his hand. *Maybe he could excuse himself to clean his hands…*
 
-He paused at the threshold as bits of muffled conversation drifted out, against the Syzygy’s nasal whine.
+He paused at the threshold as bits of muffled conversation drifted out.
 
-“…suggest to Grymdark such a possibility?” Flitch’s oily drawl had risen, indicating a question.
+“…suggest to Grymdark such a possibility?” Flitch’s oily drawl had risen against the Syzygy’s nasal whine, indicating a question.
 
 *Grymdark? Where have I heard that name before…*
 
