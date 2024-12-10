@@ -216,7 +216,7 @@ Deed rolled her eyes and turned her back on him to stir whatever concoction was 
 
 *Gods… But I love you.*
 
-The corridor, which a moment ago had blown thoughts of verdant glades and blooming valleys into Imbroglio’s mind now reeked of mold and pathos. He frowned at the sticky residue the jar left on his hand. *Maybe he could excuse himself to clean his hands…*
+The corridor, which a moment ago had blown thoughts of verdant glades and blooming valleys into Imbroglio’s mind now reeked of mold and pathos. He frowned at the sticky residue the jar left on his hand. Maybe he could excuse himself to clean his hands…
 
 He paused at the threshold as bits of muffled conversation drifted out.
 
