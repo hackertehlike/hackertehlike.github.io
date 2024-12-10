@@ -41,6 +41,13 @@
             "chapters": [
                 { "title": "Wilke Grosche", "url": "/stories/wilkegrosche/chapter1.html" }
             ]
+        },
+        {
+            "title": "Nazalam: A Malazan Parody",
+            "slug": "nazalam",
+            "chapters": [
+                { "title": "Nazalam: A Malazan Parody", "url": "/stories/nazalam/chapter1.html" }
+            ]
         }
     ]
 }

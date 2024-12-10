@@ -44,3 +44,8 @@ stories:
       - title: "Interlude"
         file: "/stories/everblue/interlude1.md"
 
+  - title : "Nazalam: A Malazan Parody"
+    slug: "nazalam"
+    chapters:
+      - title: "Chapter 1"
+        file: "/stories/nazalam/chapter1.md"
