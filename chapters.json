@@ -6,7 +6,10 @@
             "chapters": [
                 { "title": "Chapter 1: Smoke and Shadows", "url": "/stories/everblue/chapter1.html" },
                 { "title": "Chapter 2: Sanctuaries", "url": "/stories/everblue/chapter2.html" },
-                { "title": "Interlude", "url": "/stories/everblue/interlude1.html" }
+                { "title": "Interlude", "url": "/stories/everblue/interlude1.html" },
+                { "title": "Interlude", "url": "/stories/everblue/interlude2.html" },
+                { "title": "Chapter 3: Petals", "url": "/stories/everblue/chapter3.html" },
+                { "title": "Interlude", "url": "/stories/everblue/interlude3.html" }
             ]
         },
         {
@@ -25,7 +28,8 @@
                 { "title": "Chapter 2: A Duck Without A Head", "url": "/stories/3rfm/chapter2.html" },
                 { "title": "Chapter 3: Bargains", "url": "/stories/3rfm/chapter3.html" },
                 { "title": "Chapter 4: Shards of the Night", "url": "/stories/3rfm/chapter4.html" },
-                { "title": "Chapter 5: Waltzes and Whispers", "url": "/stories/3rfm/chapter5.html" }
+                { "title": "Chapter 5: Waltzes and Whispers", "url": "/stories/3rfm/chapter5.html" },
+                { "title": "Chapter 6: Edges", "url": "/stories/3rfm/chapter6.html"}
             ]
         },
         {

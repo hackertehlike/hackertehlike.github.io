@@ -18,6 +18,8 @@ stories:
         file: "/stories/3rfm/chapter4.md"
       - title: "Chapter 5"
         file: "/stories/3rfm/chapter5.md"
+      - title: "Chapter 6"
+        file: "/stories/3rfm/chapter6.md"
 
   - title: "Wilke Grosche"
     slug: "wilkegrosche"
@@ -43,6 +45,12 @@ stories:
         file: "/stories/everblue/chapter2.md"
       - title: "Interlude"
         file: "/stories/everblue/interlude1.md"
+      - title: "Interlude"
+        file: "/stories/everblue/interlude2.md"
+      - title: "Chapter 3"
+        file: "/stories/everblue/chapter3.md"
+      - title: "Interlude"
+        file: "/stories/everblue/interlude3.md"
 
   - title : "Nazalam: A Malazan Parody"
     slug: "nazalam"
