@@ -1,7 +1,7 @@
 {
     "stories": [
         {
-            "title": "Everblue (preview)",
+            "title": "Everblue",
             "slug": "everblue",
             "chapters": [
                 { "title": "Chapter 1: Smoke and Shadows", "url": "/stories/everblue/chapter1.html" },
@@ -9,7 +9,9 @@
                 { "title": "Interlude", "url": "/stories/everblue/interlude1.html" },
                 { "title": "Interlude", "url": "/stories/everblue/interlude2.html" },
                 { "title": "Chapter 3: Petals", "url": "/stories/everblue/chapter3.html" },
-                { "title": "Interlude", "url": "/stories/everblue/interlude3.html" }
+                { "title": "Interlude", "url": "/stories/everblue/interlude3.html" },
+                { "title": "Chapter 4: A Hunger Awakened", "url": "/stories/everblue/chapter4.html"},
+                { "title": "Chapter 5: Bargains and Bedfellows", "url": "/stories/everblue/chapter5.html"}
             ]
         },
         {
